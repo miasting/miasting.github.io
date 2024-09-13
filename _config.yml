@@ -10,7 +10,7 @@ description: "Jeg bevæger mig bredt på paletten. Her er nogle af de ting jeg h
 # Team names, titles and social links
 people:
 - name: Mike Olympus
-  pic: 1
+  pic: 1_OLD
   position: Lead Designer
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Mia Andersen
-  pic: 2
+  pic: mia_profil
   position: Lead Marketer
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: #
 
 - name: Diana Bombom
-  pic: 3
+  pic: 3_OLD
   position: Lead Developer
   social:
     - title: twitter
