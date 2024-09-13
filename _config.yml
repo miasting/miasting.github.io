@@ -8,6 +8,7 @@ description: "Jeg bevæger mig bredt på paletten. Her er nogle af de ting jeg h
 
 
 # Team names, titles and social links
+# Det fik vi fjernet, bruges ikke mere
 people:
 
 - name: Mia Andersen
@@ -21,8 +22,21 @@ people:
     - title: linkedin
       url: #
 
+# Det here bruges i stedet
+profilename: Mia Andersen
+profilepic: mia_profil
+profileposition: Lead Marketer
+profilesocial:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Vi fik fjernet den del
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
