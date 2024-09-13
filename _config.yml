@@ -9,16 +9,6 @@ description: "Jeg bevæger mig bredt på paletten. Her er nogle af de ting jeg h
 
 # Team names, titles and social links
 people:
-- name: Mike Olympus
-  pic: 1_OLD
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
 - name: Mia Andersen
   pic: mia_profil
@@ -31,16 +21,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Bombom
-  pic: 3_OLD
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
