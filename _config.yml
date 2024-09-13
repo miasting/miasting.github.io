@@ -10,8 +10,8 @@ description: "Jeg bevæger mig bredt på paletten. Her er nogle af de ting jeg h
 # Det fik vi fjernet, bruges ikke mere
 people:
 
-- name: Mia Andersen
-  pic: mia_profil
+- name: Anders And
+  pic: a
   position: Lead 
   social:
     - title: twitter
@@ -24,8 +24,10 @@ people:
 # Det here bruges i stedet
 profilename: Mia Andersen
 profilepic: mia_profil
-profileposition: Lead Marketer
+profileposition: Lead 
 profilesocial:
+    - title: email
+      url: #
     - title: twitter
       url: #
     - title: facebook
