@@ -12,7 +12,7 @@ people:
 
 - name: Mia Andersen
   pic: mia_profil
-  position: Lead Marketer
+  position: Lead 
   social:
     - title: twitter
       url: #
@@ -30,6 +30,8 @@ profilesocial:
       url: #
     - title: facebook
       url: #
+    - title: github
+      url: http://github.com/miasting
     - title: linkedin
       url: #
 
