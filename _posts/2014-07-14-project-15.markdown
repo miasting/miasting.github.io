@@ -3,11 +3,11 @@ title: Alt Hvad Jeg Har
 subtitle: Planet, Krogerup Højskole E21
 layout: default
 modal-id: 15
-date: 2021-12-29
+date: 1955-12-29
 img: alt_hvad_jeg_har.png
 thumbnail: alt_hvad_jeg_har_thumbnail.png
 alt: image-alt
-project-date: December 2021
+project-date: December 1955
 client: Mig
 category: Plakat
 description: En plakat inspireret af "Everything I Have" af Simon Evans, hvor jeg fotograferede hver en dims og stykke ejendel jeg havde med op på højskolen. Plakaten blev solgt på en auktion for 600kr, den var trykt på et stort stykke stof. 

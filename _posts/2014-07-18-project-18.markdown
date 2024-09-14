@@ -3,11 +3,11 @@ title: Tvivleren
 subtitle: Stencil Art
 layout: default
 modal-id: 18
-date: 2021-11-18
+date: 1952-11-18
 img: tvivleren.png
 thumbnail: tvivleren_thumbnail.png
 alt: image-alt
-project-date: November 2021
+project-date: November 1952
 client: Mig
 category: Stencil Art
 description: En stencil, skabelon, lavet i fire forskellige farvekombinationer og spraymalet på en metalplade.

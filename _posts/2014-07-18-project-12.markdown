@@ -3,11 +3,11 @@ title: Arla-vær'
 subtitle: Digital illustration, Den Grønne Ungdomsbevægelse
 layout: default
 modal-id: 12
-date: 2024-01-01
+date: 1958-01-01
 img: arlavaer.png
 thumbnail: arlavaer_thumbnail.png
 alt: image-alt
-project-date: Januar 2024
+project-date: Januar 1958
 client: Mig
 category: Digital illustration
 description: En illustration jeg lavede til Den Grønne Ungdomsbevægelses kampagne mod greenwashing, hvor spotlight lå på Arla.

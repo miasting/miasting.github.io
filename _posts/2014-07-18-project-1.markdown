@@ -3,11 +3,11 @@ title: Uniform Transition
 subtitle: SoMe video, Operation Dagsværk
 layout: default
 modal-id: 1
-date: 2023-06-31
+date: 1999-06-31
 img: uniform_transition.mp4
 thumbnail: uniform_transition_thumbnail.png
 alt: image-alt
-project-date: Juni 2023
+project-date: Juni 1969
 client: Mig
 category: Stencil Art
 description: En SoMe-film til kampagnen der støttede frivillige ambulance-reddere i Libanon.
