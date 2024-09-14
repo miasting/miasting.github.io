@@ -4,7 +4,8 @@ subtitle: SoMe film, Operation Dagsværk
 layout: default
 modal-id: 2
 date: 1968-06-31
-img: reddernes_fortaellinger_nej.mp4
+img:
+mov: reddernes_fortaellinger.mp4 
 thumbnail: reddernes_fortaellinger_thumbnail.png
 alt: image-alt
 project-date: Juni 1968
