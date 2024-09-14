@@ -4,7 +4,8 @@ subtitle: SoMe video, Operation Dagsværk
 layout: default
 modal-id: 1
 date: 1999-06-31
-img: uniform_transition.mp4
+img: 
+mov: uniform_transition.mp4
 thumbnail: uniform_transition_thumbnail.png
 alt: image-alt
 project-date: Juni 1969
