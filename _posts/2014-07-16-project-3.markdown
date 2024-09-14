@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Banan Mand
+subtitle: Stencil Art
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2023-02-09
+img: banan_mand.png
+thumbnail: banan_mand-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Februar 2023
+client: Mig
+category: Stencil Art
+description: En stencil, skabelon, jeg lavede ud fra en gammel tegning. Den er spraymalet på resterne af en gammel papkasse. 
 
 ---
