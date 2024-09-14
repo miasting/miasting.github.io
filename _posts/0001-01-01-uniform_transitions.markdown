@@ -9,7 +9,7 @@ thumbnail: uniform_transition_thumbnail.png
 alt: image-alt
 project-date: Juni 1969
 category: Stencil Art
-description: En SoMe-film til kampagnen der støttede frivillige ambulance-reddere i Libanon.
+description: En SoMe-film til kampagnen der støttede frivillige ambulance-reddere i Libanon..
 
 ---
 
