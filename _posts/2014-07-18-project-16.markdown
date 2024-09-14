@@ -1,0 +1,15 @@
+---
+title: Modellervoks
+subtitle: Stopmotion
+layout: default
+modal-id: 16
+date: 2024-01-01
+img: modellervoks.png
+thumbnail: modellervoks_thumbnail.png
+alt: image-alt
+project-date: Januar 2024
+client: Mig
+category: Stopmotion
+description: En af de første stopmotions jeg lavede. Lydeffekterne er fra egen mund og rekvisitter.
+
+---

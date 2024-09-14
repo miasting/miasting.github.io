@@ -1,0 +1,15 @@
+---
+title: Between the Bars, Elliot Smith
+subtitle: Musikcover med video
+layout: default
+modal-id: 17
+date: 2024-01-01
+img: bars.png
+thumbnail: bars_thumbnail.png
+alt: image-alt
+project-date: Januar 2024
+client: Mig
+category: Musikcover med video
+description: Bare en lille video jeg lavede fordi jeg havde nogle klip der gjorde mig glad at kigge på. 
+
+---
