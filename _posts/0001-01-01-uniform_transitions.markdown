@@ -18,6 +18,6 @@ Her prøver jeg at skrive noget.
 
 <video width="400" controls>
   <source src="uniform_transition.mp4" type="video/mp4">
-  Your browser does not support HTML video.
+  Something went wrong playing the video.
 </video>
 
