@@ -4,7 +4,8 @@ subtitle: Stopmotion
 layout: default
 modal-id: 9
 date: 1961-01-01
-img: modellervoks.png
+img:
+mov: modellervoks.mp4
 thumbnail: modellervoks_thumbnail.png
 alt: image-alt
 project-date: Januar 1961
