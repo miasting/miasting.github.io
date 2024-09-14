@@ -1,6 +1,6 @@
 ---
 title: Arla-vær'
-subtitle: Digital illustration, Den Grønne Ungdomsbevægelse
+subtitle: Digital illustration, DGUB
 layout: default
 modal-id: 12
 date: 1958-01-01
