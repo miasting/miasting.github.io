@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Frit Marked, Reguleret Borger
+subtitle: Den Grønne Ungdomsbevægelse
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2023-07-31
+img: frit_marked.jpg
+thumbnail: frit_marked_thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Juli 2023
+client: Mig
+category: Plakat
+description: Plakat inspireret after dokumentaren "The Century of the Self", som fortæller om hvordan reklame-branchen har udviklet sig op gennem 1900-tallet. Jeg lavede den i forbindelse med vores kampagne mod greenwashing i Den Grønne Ungdomsbevægelse, hvor vi havde et fokus om at understrege at reklamer hjernevasker os mere end de tror - det er grunden til at branchen er så stor, den virker.
 
 ---
