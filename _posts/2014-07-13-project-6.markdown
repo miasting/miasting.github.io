@@ -1,15 +1,15 @@
 ---
-title: Tvivleren
+title: Outsiders
 subtitle: Stencil Art
 layout: default
 modal-id: 6
 date: 2023-02-09
-img: tvivleren.png
-thumbnail: tvivleren_thumbnail.png
+img: outsiders.png
+thumbnail: outsiders_thumbnail.png
 alt: image-alt
 project-date: Februar 2023
 client: Mig
 category: Stencil Art
-description: En stencil, skabelon, i fire forskellige farve-kombinationer, som er spray-malet på en metalplade. 
+description: En stencil, skabelon, inspireret af et gammel klassebillede, hvor jeg har samlet tre af de drenge der står foran. Det er spraymalet på et stykke træ jeg fandt på genbrugspladsen. 
 
 ---
