@@ -8,7 +8,6 @@ img: uniform_transition.mp4
 thumbnail: uniform_transition_thumbnail.png
 alt: image-alt
 project-date: Juni 1969
-client: Mig
 category: Stencil Art
 description: En SoMe-film til kampagnen der støttede frivillige ambulance-reddere i Libanon.
 
