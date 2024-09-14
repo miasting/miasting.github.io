@@ -4,7 +4,8 @@ subtitle: Kortfilm
 layout: default
 modal-id: 19
 date: 1951-01-01
-img: laekker.png
+img: 
+mov: laekker.mp4
 thumbnail: laekker_thumbnail.png
 alt: image-alt
 project-date: Januar 1951
