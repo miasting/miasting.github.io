@@ -1,15 +1,15 @@
 ---
-title: Tvivleren 
+title: Banan Mand
 subtitle: Stencil Art
 layout: default
 modal-id: 18
 date: 1952-11-18
-img: tvivleren.png
-thumbnail: tvivleren_thumbnail.png
+img: banan_mand.png
+thumbnail: banan_mand_thumbnail.png
 alt: image-alt
 project-date: November 1952
 client: Mig
 category: Stencil Art
-description: En stencil, skabelon, lavet i fire forskellige farvekombinationer og spraymalet på en metalplade.
+description: En stencil, skabelon, jeg lavede ud fra en gammel tegning. Den er spraymalet på resterne af en gammel papkasse. 
 
 ---
