@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2023-02-09
 img: banan_mand.png
-thumbnail: banan_mand-thumbnail.png
+thumbnail: banan_mand_thumbnail.png
 alt: image-alt
 project-date: Februar 2023
 client: Mig
