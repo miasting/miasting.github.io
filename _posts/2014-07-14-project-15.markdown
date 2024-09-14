@@ -1,6 +1,6 @@
 ---
 title: Alt Hvad Jeg Har
-subtitle: Planet, Krogerup Højskole E21
+subtitle: Plakat, Krogerup Højskole E21
 layout: default
 modal-id: 15
 date: 1955-12-29
