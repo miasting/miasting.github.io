@@ -3,7 +3,7 @@ title: Ressourcemappe
 subtitle: Layout, Operation Dagsværk
 layout: default
 modal-id: 3
-date: 0069-01-01
+date: 0068-01-01
 img: ressource_mappe1.png ressource_mappe2.png
 thumbnail: ressource_mappe_thumbnail.png
 alt: image-alt

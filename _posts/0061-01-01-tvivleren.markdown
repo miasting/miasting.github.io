@@ -3,7 +3,7 @@ title: Tvivleren
 subtitle: Stencil Art
 layout: default
 modal-id: 21
-date: 0051-01-01
+date: 0061-01-01
 img: tvivleren.png
 thumbnail: tvivleren_thumbnail.png
 alt: image-alt
