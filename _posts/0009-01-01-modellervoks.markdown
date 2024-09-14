@@ -3,12 +3,12 @@ title: Modellervoks
 subtitle: Stopmotion
 layout: default
 modal-id: 9
-date: 1961-01-01
+date: 0009-01-01
 img:
 mov: modellervoks.mp4
 thumbnail: modellervoks_thumbnail.png
 alt: image-alt
-project-date: Januar 1961
+project-date: August 2018
 category: Stopmotion
 description: En af de første stopmotions jeg lavede. Lydeffekterne er fra egen mund og rekvisitter.
 

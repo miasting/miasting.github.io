@@ -3,12 +3,12 @@ title: Dick-Suit
 subtitle: Stencil Art
 layout: default
 modal-id: 17
-date: 1953-09-02
+date: 0017-01-01
 img: dick-suit.jpg
 thumbnail: dick-suit_thumbnail.png
 alt: image-alt
-project-date: Februar 1953
-category: Web Development
+project-date: Februar 2022
+category: Stencil Art
 description: En stencil, skabelon, jeg lavede ud fra et billede af min ven, der har et suit på (med lidt mere end et åbent tivoli) og en papirpose på hovedet. Den er lidt Andy Warhole inspireret.
 
 ---

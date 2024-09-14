@@ -3,13 +3,13 @@ title: Lækker
 subtitle: Kortfilm
 layout: default
 modal-id: 19
-date: 1951-01-01
+date: 0019-01-01
 img: 
 mov: laekker.mp4
 thumbnail: laekker_thumbnail.png
 alt: image-alt
-project-date: Januar 1951
+project-date: Marts 2022
 category: Kortfilm
-description: En kortfilm jeg lavede med min ven Jasper, som han skulle bruge til at søge ind på en lyd-skole. Jeg lavede det visuelle, Jasper lavede lyd. 
+description: En kortfilm jeg lavede med min ven Jasper, som han skulle bruge til at søge ind på en lyd-skole. Jeg stod for det visuelle, Jasper stod for lyd. 
 
 ---

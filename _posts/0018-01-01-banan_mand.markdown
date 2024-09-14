@@ -3,11 +3,11 @@ title: Banan Mand
 subtitle: Stencil Art
 layout: default
 modal-id: 18
-date: 1952-11-18
+date: 0018-01-01
 img: banan_mand.png
 thumbnail: banan_mand_thumbnail.png
 alt: image-alt
-project-date: November 1952
+project-date: Januar 2022
 category: Stencil Art
 description: En stencil, skabelon, jeg lavede ud fra en gammel tegning. Den er spraymalet på resterne af en gammel papkasse. 
 

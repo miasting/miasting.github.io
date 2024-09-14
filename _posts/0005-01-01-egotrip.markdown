@@ -3,12 +3,12 @@ title: Egotrip
 subtitle: Kortfilm
 layout: default
 modal-id: 5
-date: 1965-01-01
+date: 0005-01-01
 img:
 mov: egotrip.mp4
 thumbnail: egotrip_thumbnail.png
 alt: image-alt
-project-date: Januar 1965
+project-date: Marts 2021
 category: Kortfilm
 description: En kortfilm jeg brugte et par dage på under corona. Det er min lillesøster der spiller karakteren Petra.
 
