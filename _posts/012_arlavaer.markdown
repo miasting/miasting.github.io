@@ -8,7 +8,6 @@ img: arlavaer.png
 thumbnail: arlavaer_thumbnail.png
 alt: image-alt
 project-date: Januar 1958
-client: Mig
 category: Digital illustration
 description: En illustration jeg lavede til Den Grønne Ungdomsbevægelses kampagne mod greenwashing, hvor spotlight lå på Arla.
 

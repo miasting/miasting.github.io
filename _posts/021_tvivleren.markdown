@@ -8,7 +8,6 @@ img: tvivleren.png
 thumbnail: tvivleren_thumbnail.png
 alt: image-alt
 project-date: Februar 1949
-client: Mig
 category: Stencil Art
 description: En stencil, skabelon, lavet i fire forskellige farvekombinationer og spraymalet på en metalplade.
 ---

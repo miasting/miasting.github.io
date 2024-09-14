@@ -8,7 +8,6 @@ img: junk.png
 thumbnail: junk_thumbnail.png
 alt: image-alt
 project-date: Januar 1964
-client: Mig
 category: Kul-tegning
 description: En kul-tegning hvor modellen er selveste mig. 
 

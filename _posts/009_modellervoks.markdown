@@ -8,7 +8,6 @@ img: modellervoks.png
 thumbnail: modellervoks_thumbnail.png
 alt: image-alt
 project-date: Januar 1961
-client: Mig
 category: Stopmotion
 description: En af de første stopmotions jeg lavede. Lydeffekterne er fra egen mund og rekvisitter.
 

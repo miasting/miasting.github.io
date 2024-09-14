@@ -8,7 +8,6 @@ img: ung_uro.png
 thumbnail: ung_uro_thumbnail.png
 alt: image-alt
 project-date: Januar 1966
-client: Mig
 category: Illustrationer
 description: Illustrationer, lavet digitalt, til en bog jeg ville skrive om skærmforbrug blandt unge danskere. Bogen blev aldrig færdig, men illustrationerne er her.  
 

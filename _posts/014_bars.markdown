@@ -8,7 +8,6 @@ img: bars.png
 thumbnail: bars_thumbnail.png
 alt: image-alt
 project-date: Januar 1956
-client: Mig
 category: Musikcover med video
 description: Bare en lille video jeg lavede fordi jeg havde nogle klip der gjorde mig glad at kigge på. 
 

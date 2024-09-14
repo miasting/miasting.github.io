@@ -8,7 +8,6 @@ img: egotrip.png
 thumbnail: egotrip_thumbnail.png
 alt: image-alt
 project-date: Januar 1965
-client: Mig
 category: Kortfilm
 description: En kortfilm jeg brugte et par dage på under corona. Det er min lillesøster der spiller karakteren Petra.
 

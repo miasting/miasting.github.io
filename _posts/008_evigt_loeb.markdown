@@ -8,7 +8,6 @@ img: evigt_loeb.png
 thumbnail: evigt_loeb_thumbnail.png
 alt: image-alt
 project-date: Januar 1962
-client: Mig
 category: Stencil Art
 description: En stencil, skabelon, som er inspireret af en ide jeg troede jeg fik, men så var symbolet med de evigt løbende ben åbenbart allerede en ting. 
 

@@ -8,7 +8,6 @@ img: alt_hvad_jeg_har.png
 thumbnail: alt_hvad_jeg_har_thumbnail.png
 alt: image-alt
 project-date: December 1955
-client: Mig
 category: Plakat
 description: En plakat inspireret af "Everything I Have" af Simon Evans, hvor jeg fotograferede hver en dims og stykke ejendel jeg havde med op på højskolen. Plakaten blev solgt på en auktion for 600kr, den var trykt på et stort stykke stof. 
 

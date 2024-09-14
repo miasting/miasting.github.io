@@ -8,7 +8,6 @@ img: outsiders.png
 thumbnail: outsiders_thumbnail.png
 alt: image-alt
 project-date: Februar 1950
-client: Mig
 category: Stencil Art
 description: En stencil, skabelon, inspireret af et gammel klassebillede, hvor jeg har samlet tre af de drenge der står foran. Det er spraymalet på et stykke træ jeg fandt på genbrugspladsen. 
 

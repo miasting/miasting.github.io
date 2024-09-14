@@ -8,7 +8,6 @@ img: usynlige_traade.png
 thumbnail: usynlige_traade_thumbnail.png
 alt: image-alt
 project-date: November 1954
-client: Mig
 category: Plakat
 description: Den her plakat lavede jeg til min højskole da jeg stoppede.
 

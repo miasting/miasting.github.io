@@ -8,7 +8,6 @@ img: banan_mand.png
 thumbnail: banan_mand_thumbnail.png
 alt: image-alt
 project-date: November 1952
-client: Mig
 category: Stencil Art
 description: En stencil, skabelon, jeg lavede ud fra en gammel tegning. Den er spraymalet på resterne af en gammel papkasse. 
 

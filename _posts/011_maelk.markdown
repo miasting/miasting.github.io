@@ -8,7 +8,6 @@ img: maelk.jpg
 thumbnail: maelk_thumbnail.png
 alt: image-alt
 project-date: Februar 1959
-client: Mig
 category: Stencil Art
 description: Kampagne mod reklamer i Den Grønne Ungdomsbevægelse.
 

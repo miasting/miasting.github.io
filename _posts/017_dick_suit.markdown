@@ -8,7 +8,6 @@ img: dick-suit.jpg
 thumbnail: dick-suit_thumbnail.png
 alt: image-alt
 project-date: Februar 1953
-client: Mig
 category: Web Development
 description: En stencil, skabelon, jeg lavede ud fra et billede af min ven, der har et suit på (med lidt mere end et åbent tivoli) og en papirpose på hovedet. Den er lidt Andy Warhole inspireret.
 

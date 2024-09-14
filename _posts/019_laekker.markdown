@@ -8,7 +8,6 @@ img: laekker.png
 thumbnail: laekker_thumbnail.png
 alt: image-alt
 project-date: Januar 1951
-client: Mig
 category: Kortfilm
 description: En kortfilm jeg lavede med min ven Jasper, som han skulle bruge til at søge ind på en lyd-skole. Jeg lavede det visuelle, Jasper lavede lyd. 
 
