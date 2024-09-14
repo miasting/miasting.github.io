@@ -11,14 +11,10 @@ profilename: Mia Andersen
 profilepic: mia_profil
 profileposition: Lead 
 profilesocial:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/miacaroline.andersen
     - title: github
       url: http://github.com/miasting
-    - title: linkedin
-      url: #
 
 
 # Build settings
