@@ -3,7 +3,7 @@ title: Dick-Suit
 subtitle: Stencil Art
 layout: default
 modal-id: 17
-date: 0053-01-01
+date: 0054-01-01
 img: dick-suit.jpg
 thumbnail: dick-suit_thumbnail.png
 alt: image-alt

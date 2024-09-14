@@ -3,7 +3,7 @@ title: Leen
 subtitle: Kul-tegning
 layout: default
 modal-id: 7
-date: 0056-01-01
+date: 0055-01-01
 img: leen.png
 thumbnail: leen_thumbnail.png
 alt: image-alt
