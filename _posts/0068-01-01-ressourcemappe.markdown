@@ -12,3 +12,6 @@ category: Illustrationer, layout
 description: Jeg layoutede en ressourcemappe til Operation Dagsværks skole-grupper, hvor de kunne finde inspiration til hvordan de skulle drive deres skole-udvalg. Fotografierne er alle taget fra Operation Dagsværks gamle arkiver. 
 
 ---
+
+<img src="img/portfolio/ressource_mappe1.png" class="img-responsive img-centered" alt="">
+<img src="img/portfolio/ressource_mappe2.png" class="img-responsive img-centered" alt="">
