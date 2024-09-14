@@ -4,7 +4,8 @@ subtitle: Kortfilm
 layout: default
 modal-id: 5
 date: 1965-01-01
-img: egotrip.png
+img:
+Mov: egotrip.mp4
 thumbnail: egotrip_thumbnail.png
 alt: image-alt
 project-date: Januar 1965
