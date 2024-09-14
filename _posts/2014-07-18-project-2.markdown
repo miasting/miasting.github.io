@@ -1,6 +1,6 @@
 ---
 title: Reddernes Fortællinger
-subtitle: Operation Dagsværk, SoMe
+subtitle: SoMe film, Operation Dagsværk
 layout: default
 modal-id: 2
 date: 2021-11-18

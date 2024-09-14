@@ -1,6 +1,6 @@
 ---
 title: Alt Hvad Jeg Har
-subtitle: Krogerup Højskole
+subtitle: Planet, Krogerup Højskole E21
 layout: default
 modal-id: 15
 date: 2021-12-29

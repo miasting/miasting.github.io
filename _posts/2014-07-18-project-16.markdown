@@ -1,6 +1,6 @@
 ---
 title: Usynlige Tråde
-subtitle: Krogerup Højskole E21
+subtitle: Plakat, Krogerup Højskole E21
 layout: default
 modal-id: 16
 date: 2021-11-18

@@ -1,6 +1,6 @@
 ---
 title: Arla-vær'
-subtitle: Digital illustration
+subtitle: Digital illustration, Den Grønne Ungdomsbevægelse
 layout: default
 modal-id: 12
 date: 2024-01-01

@@ -1,6 +1,6 @@
 ---
 title: Ung Uro
-subtitle: Illustrationer, layout
+subtitle: Digitale illustrationer til bog
 layout: default
 modal-id: 4
 date: 2024-01-01

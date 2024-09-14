@@ -1,6 +1,6 @@
 ---
-title: Ressourcemappe, OD
-subtitle: Illustrationer, layout
+title: Ressourcemappe
+subtitle: Layout, Operation Dagsværk
 layout: default
 modal-id: 3
 date: 2024-01-01

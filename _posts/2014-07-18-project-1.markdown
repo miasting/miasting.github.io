@@ -1,6 +1,6 @@
 ---
 title: Uniform Transition
-subtitle: Operation Dagsværk
+subtitle: SoMe video, Operation Dagsværk
 layout: default
 modal-id: 1
 date: 2021-11-18
