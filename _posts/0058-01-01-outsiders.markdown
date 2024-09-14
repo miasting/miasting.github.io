@@ -3,7 +3,7 @@ title: Outsiders
 subtitle: Stencil Art
 layout: default
 modal-id: 20
-date: 0020-01-01
+date: 0058-01-01
 img: outsiders.png
 thumbnail: outsiders_thumbnail.png
 alt: image-alt

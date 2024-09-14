@@ -3,7 +3,7 @@ title: Modellervoks
 subtitle: Stopmotion
 layout: default
 modal-id: 9
-date: 0009-01-01
+date: 0054-01-01
 img:
 mov: modellervoks.mp4
 thumbnail: modellervoks_thumbnail.png

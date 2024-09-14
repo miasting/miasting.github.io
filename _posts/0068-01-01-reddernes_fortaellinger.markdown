@@ -3,7 +3,7 @@ title: Reddernes Fortællinger
 subtitle: SoMe film, Operation Dagsværk
 layout: default
 modal-id: 2
-date: 0002-01-01
+date: 0068-01-01
 img:
 mov: reddernes_fortaellinger.mp4 
 thumbnail: reddernes_fortaellinger_thumbnail.png

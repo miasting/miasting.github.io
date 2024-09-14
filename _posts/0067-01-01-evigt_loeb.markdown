@@ -3,7 +3,7 @@ title: Evigt Løb
 subtitle: Stencil Art
 layout: default
 modal-id: 8
-date: 0008-01-01
+date: 0067-01-01
 img: evigt_loeb.png
 thumbnail: evigt_loeb_thumbnail.png
 alt: image-alt

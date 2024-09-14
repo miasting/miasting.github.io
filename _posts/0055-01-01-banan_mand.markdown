@@ -3,7 +3,7 @@ title: Banan Mand
 subtitle: Stencil Art
 layout: default
 modal-id: 18
-date: 0018-01-01
+date: 0055-01-01
 img: banan_mand.png
 thumbnail: banan_mand_thumbnail.png
 alt: image-alt

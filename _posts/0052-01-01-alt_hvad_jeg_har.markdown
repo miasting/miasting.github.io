@@ -3,7 +3,7 @@ title: Alt Hvad Jeg Har
 subtitle: Plakat, Krogerup Højskole E21
 layout: default
 modal-id: 15
-date: 0015-01-01
+date: 0052-01-01
 img: alt_hvad_jeg_har.png
 thumbnail: alt_hvad_jeg_har_thumbnail.png
 alt: image-alt

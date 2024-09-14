@@ -3,7 +3,7 @@ title: Uniform Transition
 subtitle: SoMe video, Operation Dagsværk
 layout: default
 modal-id: 1
-date: 0001-01-01
+date: 0070-01-01
 img: 
 mov: uniform_transition.mp4
 thumbnail: uniform_transition_thumbnail.png

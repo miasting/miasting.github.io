@@ -3,7 +3,7 @@ title: Arla-vær'
 subtitle: Digital illustration, DGUB
 layout: default
 modal-id: 12
-date: 0012-01-01
+date: 0062-01-01
 img: arlavaer.png
 thumbnail: arlavaer_thumbnail.png
 alt: image-alt

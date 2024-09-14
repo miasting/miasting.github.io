@@ -3,7 +3,7 @@ title: Between the Bars, Elliot Smith
 subtitle: Musikcover med video
 layout: default
 modal-id: 14
-date: 0014-01-01
+date: 0066-01-01
 img: 
 mov: bars.mp4
 thumbnail: bars_thumbnail.png

@@ -3,7 +3,7 @@ title: Mælk er mere end mælk
 subtitle: Digital illustration, DGUB
 layout: default
 modal-id: 11
-date: 0011-01-01
+date: 0063-01-01
 img: maelk.jpg
 thumbnail: maelk_thumbnail.png
 alt: image-alt

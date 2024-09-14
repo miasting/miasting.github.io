@@ -3,7 +3,7 @@ title: Frit Marked, Reguleret Borger
 subtitle: Digital illustration, DGUB
 layout: default
 modal-id: 10
-date: 0010-01-01
+date: 0064-01-01
 img: frit_marked.jpg
 thumbnail: frit_marked_thumbnail.png
 alt: image-alt
