@@ -1,15 +1,15 @@
 ---
-title: Tvivleren 
-subtitle: Stencil Art
+title: Leen
+subtitle: Kul-tegning
 layout: default
 modal-id: 7
 date: 2021-11-18
-img: tvivleren.png
-thumbnail: tvivleren_thumbnail.png
+img: leen.png
+thumbnail: leen_thumbnail.png
 alt: image-alt
 project-date: November 2021
 client: Mig
-category: Stencil Art
-description: En stencil, skabelon, lavet i fire forskellige farvekombinationer og spraymalet på en metalplade.
+category: Kul-tegning
+description: Bare en kultegning jeg lavede (A2)
 
 ---

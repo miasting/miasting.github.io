@@ -1,15 +1,15 @@
 ---
-title: Junk
-subtitle: Kul-tegning
+title: Between the Bars, Elliot Smith
+subtitle: Musikcover med video
 layout: default
 modal-id: 14
 date: 2024-01-01
-img: junk.png
-thumbnail: junk_thumbnail.png
+img: bars.png
+thumbnail: bars_thumbnail.png
 alt: image-alt
 project-date: Januar 2024
 client: Mig
-category: Kul-tegning
-description: En kul-tegning hvor modellen er selveste mig. 
+category: Musikcover med video
+description: Bare en lille video jeg lavede fordi jeg havde nogle klip der gjorde mig glad at kigge på. 
 
 ---

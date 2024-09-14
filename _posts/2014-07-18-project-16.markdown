@@ -1,15 +1,15 @@
 ---
-title: Modellervoks
-subtitle: Stopmotion
+title: Usynlige Tråde
+subtitle: Krogerup Højskole E21
 layout: default
 modal-id: 16
-date: 2024-01-01
-img: modellervoks.png
-thumbnail: modellervoks_thumbnail.png
+date: 2021-11-18
+img: usynlige_traade.png
+thumbnail: usynlige_traade_thumbnail.png
 alt: image-alt
-project-date: Januar 2024
+project-date: November 2021
 client: Mig
-category: Stopmotion
-description: En af de første stopmotions jeg lavede. Lydeffekterne er fra egen mund og rekvisitter.
+category: Plakat
+description: Den her plakat lavede jeg til min højskole da jeg stoppede.
 
 ---

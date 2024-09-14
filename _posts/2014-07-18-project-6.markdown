@@ -1,0 +1,15 @@
+---
+title: Junk
+subtitle: Kul-tegning
+layout: default
+modal-id: 6
+date: 2024-01-01
+img: junk.png
+thumbnail: junk_thumbnail.png
+alt: image-alt
+project-date: Januar 2024
+client: Mig
+category: Kul-tegning
+description: En kul-tegning hvor modellen er selveste mig. 
+
+---

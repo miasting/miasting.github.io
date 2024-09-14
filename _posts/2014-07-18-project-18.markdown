@@ -1,15 +1,15 @@
 ---
-title: Egotrip
-subtitle: Kortfilm
+title: Tvivleren 
+subtitle: Stencil Art
 layout: default
 modal-id: 18
-date: 2024-01-01
-img: egotrip.png
-thumbnail: egotrip_thumbnail.png
+date: 2021-11-18
+img: tvivleren.png
+thumbnail: tvivleren_thumbnail.png
 alt: image-alt
-project-date: Januar 2024
+project-date: November 2021
 client: Mig
-category: Kortfilm
-description: En kortfilm jeg brugte et par dage på under corona. Det er min lillesøster der spiller karakteren Petra.
+category: Stencil Art
+description: En stencil, skabelon, lavet i fire forskellige farvekombinationer og spraymalet på en metalplade.
 
 ---

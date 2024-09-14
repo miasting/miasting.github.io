@@ -1,15 +1,15 @@
 ---
-title: Uniform Transition
-subtitle: Operation Dagsværk
+title: Evigt Løb
+subtitle: Stencil Art
 layout: default
 modal-id: 8
-date: 2021-11-18
-img: uniform_transition.mp4
-thumbnail: uniform_transition_thumbnail.png
+date: 2024-01-01
+img: evigt_loeb.png
+thumbnail: evigt_loeb_thumbnail.png
 alt: image-alt
-project-date: November 2021
+project-date: Januar 2024
 client: Mig
 category: Stencil Art
-description: En SoMe-film til kampagnen der støttede frivillige ambulance-reddere i Libanon.
+description: En stencil, skabelon, som er inspireret af en ide jeg troede jeg fik, men så var symbolet med de evigt løbende ben åbenbart allerede en ting. 
 
 ---

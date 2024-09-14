@@ -1,15 +1,15 @@
 ---
-title: Ung Uro
-subtitle: Illustrationer, layout
+title: Arla-vær'
+subtitle: Digital illustration
 layout: default
 modal-id: 12
 date: 2024-01-01
-img: ung_uro.png
-thumbnail: ung_uro_thumbnail.png
+img: arlavaer.png
+thumbnail: arlavaer_thumbnail.png
 alt: image-alt
 project-date: Januar 2024
 client: Mig
-category: Illustrationer
-description: Illustrationer, lavet digitalt, til en bog jeg ville skrive om skærmforbrug blandt unge danskere. Bogen blev aldrig færdig, men illustrationerne er her.  
+category: Digital illustration
+description: En illustration jeg lavede til Den Grønne Ungdomsbevægelses kampagne mod greenwashing, hvor spotlight lå på Arla.
 
 ---

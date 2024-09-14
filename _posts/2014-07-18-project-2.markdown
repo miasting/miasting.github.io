@@ -2,7 +2,7 @@
 title: Reddernes Fortællinger
 subtitle: Operation Dagsværk, SoMe
 layout: default
-modal-id: 10
+modal-id: 2
 date: 2021-11-18
 img: reddernes_fortaellinger_nej.mp4
 thumbnail: reddernes_fortaellinger_thumbnail.png

@@ -2,7 +2,7 @@
 title: Frit Marked, Reguleret Borger
 subtitle: Den Grønne Ungdomsbevægelse
 layout: default
-modal-id: 2
+modal-id: 10
 date: 2023-07-31
 img: frit_marked.jpg
 thumbnail: frit_marked_thumbnail.png

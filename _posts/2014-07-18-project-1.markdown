@@ -1,15 +1,15 @@
 ---
-title: Usynlige Tråde
-subtitle: Krogerup Højskole E21
+title: Uniform Transition
+subtitle: Operation Dagsværk
 layout: default
 modal-id: 1
 date: 2021-11-18
-img: usynlige_traade.png
-thumbnail: usynlige_traade_thumbnail.png
+img: uniform_transition.mp4
+thumbnail: uniform_transition_thumbnail.png
 alt: image-alt
 project-date: November 2021
 client: Mig
-category: Plakat
-description: Den her plakat lavede jeg til min højskole da jeg stoppede.
+category: Stencil Art
+description: En SoMe-film til kampagnen der støttede frivillige ambulance-reddere i Libanon.
 
 ---

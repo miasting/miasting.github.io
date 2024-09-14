@@ -2,7 +2,7 @@
 title: Alt Hvad Jeg Har
 subtitle: Krogerup Højskole
 layout: default
-modal-id: 5
+modal-id: 15
 date: 2021-12-29
 img: alt_hvad_jeg_har.png
 thumbnail: alt_hvad_jeg_har_thumbnail.png

@@ -2,7 +2,7 @@
 title: Banan Mand
 subtitle: Stencil Art
 layout: default
-modal-id: 3
+modal-id: 11
 date: 2023-02-09
 img: banan_mand.png
 thumbnail: banan_mand_thumbnail.png

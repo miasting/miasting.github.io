@@ -1,15 +1,15 @@
 ---
-title: Ressourcemappe, OD
-subtitle: Illustrationer, layout
+title: Dronningens Kald
+subtitle: Kul-tegning
 layout: default
 modal-id: 13
 date: 2024-01-01
-img: ressource_mappe1.png ressource_mappe2.png
-thumbnail: ressource_mappe_thumbnail.png
+img: dronningens_kald.png
+thumbnail: dronningens_kald_thumbnail.png
 alt: image-alt
 project-date: Januar 2024
 client: Mig
-category: Illustrationer, layout
-description: Jeg layoutede en ressourcemappe til Operation Dagsværks skole-grupper, hvor de kunne finde inspiration til hvordan de skulle drive deres skole-udvalg. Fotografierne er alle taget fra Operation Dagsværks gamle arkiver. 
+category: Kul-tegning
+description: En kul-tegning jeg lavede dagen efter nytårstalen, hvor Dronning Margrethe fortalte at hun ville træde af. Ved hendes side, står Prins Henrik. 
 
 ---

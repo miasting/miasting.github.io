@@ -2,7 +2,7 @@
 title: Outsiders
 subtitle: Stencil Art
 layout: default
-modal-id: 6
+modal-id: 20
 date: 2023-02-09
 img: outsiders.png
 thumbnail: outsiders_thumbnail.png
