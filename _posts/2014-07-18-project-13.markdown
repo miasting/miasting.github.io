@@ -1,5 +1,5 @@
 ---
-title: Dagsværkgruppernes Ressourcemappe
+title: Ressourcemappe, OD
 subtitle: Illustrationer, layout
 layout: default
 modal-id: 13
