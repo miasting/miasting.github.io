@@ -13,5 +13,9 @@ description: Jeg layoutede en ressourcemappe til Operation Dagsværks skole-grup
 
 ---
 
+<img src="img/portfolio/ressource_mappe0.png" class="img-responsive img-centered" alt="">
 <img src="img/portfolio/ressource_mappe1.png" class="img-responsive img-centered" alt="">
 <img src="img/portfolio/ressource_mappe2.png" class="img-responsive img-centered" alt="">
+<img src="img/portfolio/ressource_mappe3.png" class="img-responsive img-centered" alt="">
+<img src="img/portfolio/ressource_mappe4.png" class="img-responsive img-centered" alt="">
+<img src="img/portfolio/ressource_mappe5.png" class="img-responsive img-centered" alt="">
