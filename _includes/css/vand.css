@@ -1,3 +1,8 @@
+/*!
+ * Trying to fix issues with videos
+ */
+
+
 .video-container {
     	max-width: 100%; /* Set a pixel value instead if no parent container*/
     	margin: 0 auto; /* Center the container */
