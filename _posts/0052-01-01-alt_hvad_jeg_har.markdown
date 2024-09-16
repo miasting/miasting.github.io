@@ -13,4 +13,5 @@ description: En plakat inspireret af "Everything I Have" af Simon Evans, hvor je
 
 ---
 
+<img src="img/portfolio/alt_hvad_jeg_har3.png" class="img-responsive img-centered" alt="">
 <img src="img/portfolio/alt_hvad_jeg_har2.png" class="img-responsive img-centered" alt="">
