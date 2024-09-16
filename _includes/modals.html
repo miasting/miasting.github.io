@@ -19,11 +19,15 @@
                                 <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="">
                             {% endif %}
                             {% if post.mov %}
+                                
                                  <!--video width="600" controls-->
-                                 <video width="600" controls>
+                                 <div class="video-container">
+                                 <video controls>
                                  <source src="img/portfolio/{{ post.mov }}" type="video/mp4">
                                  Something went wrong playing the video.
                                  </video>
+                                 </div>
+                         
                             {% endif %}         
                          
                             <p>{{ post.description }}</p>
