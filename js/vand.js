@@ -1,7 +1,4 @@
-<script>
-$('.close-popup').click(function(){
-  $('video').each(function(){
-    $(this).get(0).pause();
-  })
+$('.modal').on('hide.bs.modal', function() {
+     var memory = $(this).html();
+     $(this).html(memory);
 });
-</script>
