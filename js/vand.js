@@ -1,5 +1,5 @@
 <script>
-$('.data-dismiss="modal"').click(function(){
+$('.close-popup').click(function(){
   $('video').each(function(){
     $(this).get(0).pause();
   })
