@@ -4,7 +4,7 @@ subtitle: Plakat, Krogerup Højskole E21
 layout: default
 modal-id: 16
 date: 0050-01-01
-img: usynlige_traade.png1 usynlige_traade2.png
+img: 
 thumbnail: usynlige_traade_thumbnail.png
 alt: image-alt
 project-date: November 2021
