@@ -9,7 +9,7 @@ thumbnail: font_albums_thumbnail.png
 alt: image-alt
 project-date: Januar 2025
 category: Fonts
-description: Jeg blev besat af fonts. Download dem ved at trykke på linket: Blomkål, Gas, Rapz, Mia, Thien eller Bogorm.
+description: Jeg blev besat af fonts. Download dem ved at trykke på linket: Blomkaal, Gas, Rapz, Mia, Thien eller Bogorm.
 
 ---
 
