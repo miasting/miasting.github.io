@@ -12,7 +12,8 @@ category: Fonts
 description: Jeg blev besat af fonts. Download dem ved at trykke på linket: Blomkaal, Gas, Rapz, Mia, Thien eller Bogorm.
 ---
 
-<img src="img/portfolio/font_albums_blomkaal.png" class="img-responsive img-centered" alt="">
+<a href="https://github.com/miasting/miasting.github.io/raw/9a33758ededb1355ad6ac6cab5c73333303789af/my_fonts/blomkaal.ttf"><img src="img/portfolio/font_albums_blomkaal.png" class="img-responsive img-centered" alt=""></a>
+
 <img src="img/portfolio/font_albums_gas.png" class="img-responsive img-centered" alt="">
 <img src="img/portfolio/font_albums_rapz.png" class="img-responsive img-centered" alt="">
 <img src="img/portfolio/font_albums_mia.png" class="img-responsive img-centered" alt="">
