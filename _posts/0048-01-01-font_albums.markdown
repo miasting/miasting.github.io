@@ -10,7 +10,6 @@ alt: image-alt
 project-date: Januar 2025
 category: Fonts
 description: Jeg blev besat af fonts. Download dem ved at trykke på linket: Blomkaal, Gas, Rapz, Mia, Thien eller Bogorm.
-
 ---
 
 <img src="img/portfolio/font_albums_blomkaal.png" class="img-responsive img-centered" alt="">
