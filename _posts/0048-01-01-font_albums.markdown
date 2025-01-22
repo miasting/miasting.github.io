@@ -5,7 +5,7 @@ layout: default
 modal-id: 23
 date: 0048-01-01
 img: font_albums1.png
-thumbnail: font_albums.png
+thumbnail: font_albums_thumbnail.png
 alt: image-alt
 project-date: Januar 2025
 category: Fonts
