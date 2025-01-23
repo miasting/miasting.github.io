@@ -12,3 +12,5 @@ category: Plakat
 description: Jeg havde en drøm hvor jeg svømmede i en masse af levende lig i en svømmehal. Så tegnede jeg det (42 x 59,4 cm).
 
 ---
+
+<img src="img/portfolio/kaploeb2.png" class="img-responsive img-centered" alt="">
