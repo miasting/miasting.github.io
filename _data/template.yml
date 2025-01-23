@@ -7,11 +7,10 @@
 #farver: konge-blå: 01239a,, gul: fec503 og fed136,, mørk rød: 9a0123,, lys grå: 777,, mørk grå: 333,, sort: 0d0d0d,,     
 
 color:
-  primary: fec503 
-  secondary: 01239a  
-  secondary-dark: 01239a
-  muted: 9a0123
-  miastest: 9a0123
+  primary: 01239a 
+  secondary: fec503  
+  secondary-dark: 0d0d0d
+  muted: 777
 
 # Font Families
 # Den originale secondary font var: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
