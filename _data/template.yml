@@ -11,6 +11,7 @@ color:
   secondary: 01239a  
   secondary-dark: 01239a
   muted: 9a0123
+  miastest: 9a0123
 
 # Font Families
 # Den originale secondary font var: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
