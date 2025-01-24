@@ -2,8 +2,8 @@
 title: Helmut Newton 
 subtitle: Maleri
 layout: default
-modal-id: 24
-date: 0047-01-01
+modal-id: 26
+date: 0045-01-01
 img: helmut_newton.png
 thumbnail: helmut_newton_thumbnail.png
 alt: image-alt
