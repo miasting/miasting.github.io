@@ -4,11 +4,11 @@
 # Originale muted farve var (bruges til secondary tekst): 777
 # Originale secondary-dark farve var (bruges også til noget tekst tror jeg): 333
 
-#farver: konge-blå: 01239a,, gul: fec503 og fed136,, mørk rød: 9a0123,, lys grå: 777,, mørk grå: 333,, sort: 0d0d0d,,     
+#farver: konge-blå: 01239a (og 011d81 er lidt mørkere), gul: fec503 og fed136,, mørk rød: 9a0123,, lys grå: 777,, mørk grå: 333,, sort: 0d0d0d,,     
 
 color:
   primary: 01239a 
-  secondary: fec503  
+  secondary: 011d81  
   secondary-dark: 0d0d0d
   muted: 777
 
