@@ -1,0 +1,12 @@
+---
+title: UE11
+subtitle: Logo
+layout: default
+modal-id: 26
+date: 0045-01-01
+img: ue11.png
+thumbnail: ue11_thumbnail.png
+alt: image-alt
+project-date: Januar 2025
+category: Logo
+description: Min ven spurgte om jeg ville lave et logo til hans cykler, han sendte mig ovenstående skitse til at bygge videre på. Logoet er lavet i procreate. 
