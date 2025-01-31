@@ -1,0 +1,12 @@
+---
+title: Croquis
+subtitle: Tegninger
+layout: default
+modal-id: 31
+date: 0040-01-01
+img: croquis.png
+thumbnail: croquis_thumbnail.png
+alt: image-alt
+project-date: 2024
+category: Tegninger
+description: Nogle tegninger fra croquis

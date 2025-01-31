@@ -1,0 +1,12 @@
+---
+title: Fåret
+subtitle: Stencil
+layout: default
+modal-id: 28
+date: 0043-01-01
+img: faaret.png
+thumbnail: faaret_thumbnail.png
+alt: image-alt
+project-date: November 2023
+category: Stencil
+description: Et stencil af et får, jeg lavede på et tidspunkt. 
