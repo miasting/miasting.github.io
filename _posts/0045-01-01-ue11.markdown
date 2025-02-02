@@ -10,3 +10,4 @@ alt: image-alt
 project-date: Januar 2025
 category: Logo
 description: Min ven spurgte om jeg ville lave et logo til hans cykler, han sendte mig ovenstående skitse til at bygge videre på. Logoet er lavet i procreate. 
+---

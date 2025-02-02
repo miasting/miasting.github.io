@@ -10,3 +10,4 @@ alt: image-alt
 project-date: November 2023
 category: Stencil
 description: Et stencil af et får, jeg lavede på et tidspunkt. 
+---

@@ -10,3 +10,4 @@ alt: image-alt
 project-date: January 2025
 category: Maleri
 description: Et maleri af et gammelt billede af min mor.
+---

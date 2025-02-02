@@ -10,3 +10,4 @@ alt: image-alt
 project-date: Januar 2025
 category: Kultegning
 description: Jeg tegnede et gammelt billede af min morfar, Zlatko.
+---

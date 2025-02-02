@@ -10,3 +10,4 @@ alt: image-alt
 project-date: Oktober 2024
 category: Maleri
 description: Et maleri jeg lavede til min far, sammen med min søster. 
+---
