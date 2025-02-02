@@ -2,8 +2,8 @@
 title: Vedrana u Daruvaru
 subtitle: Maleri
 layout: default
-modal-id: 30
-date: 0041-01-01
+modal-id: 18
+date: 0056-01-01
 img: vedranaudaruvaru.JPG
 thumbnail: vedranaudaruvaru_thumbnail.png
 alt: image-alt

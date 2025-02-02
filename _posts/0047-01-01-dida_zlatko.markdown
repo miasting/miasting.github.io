@@ -2,8 +2,8 @@
 title: Dida Zlatko
 subtitle: Kultegning
 layout: default
-modal-id: 25
-date: 0046-01-01
+modal-id: 24
+date: 0047-01-01
 img: dida_zlatko.png
 thumbnail: dida_zlatko_thumbnail.png
 alt: image-alt
