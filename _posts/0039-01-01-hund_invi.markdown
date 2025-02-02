@@ -1,0 +1,16 @@
+---
+title: Hund
+subtitle: Fødselsdags-invitationer
+layout: default
+modal-id: 32
+date: 0039-01-01
+img: hund_invi3.png
+thumbnail: hund_invi_thumbnail.png
+alt: image-alt
+project-date: 2023-2025
+category: Digitale illustrationer
+description: Hvert år laver jeg en tegneserie-invitation til min lillesøsters klasse-fødselsdag. 
+---
+
+<img src="img/portfolio/hund_invi2.png" class="img-responsive img-centered" alt="">
+<img src="img/portfolio/hund_invi1.png" class="img-responsive img-centered" alt="">
