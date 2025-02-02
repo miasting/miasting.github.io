@@ -2,8 +2,8 @@
 title: Jeg Starter På Mandag
 subtitle: Maleri
 layout: default
-modal-id: 29
-date: 0042-01-01
+modal-id: 32
+date: 0039-01-01
 img: jegstarterpaamandag.JPG
 thumbnail: jegstarterpaamandag_thumbnail.png
 alt: image-alt
