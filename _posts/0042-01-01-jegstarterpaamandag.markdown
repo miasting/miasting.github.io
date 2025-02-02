@@ -5,7 +5,7 @@ layout: default
 modal-id: 29
 date: 0042-01-01
 img: jegstarterpaamandag.png
-thumbnail: jegstarterpåmandag_thumbnail.png
+thumbnail: jegstarterpaamandag_thumbnail.png
 alt: image-alt
 project-date: Februar 2023
 category: Maleri
