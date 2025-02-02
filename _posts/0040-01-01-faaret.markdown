@@ -2,8 +2,8 @@
 title: Fåret
 subtitle: Stencil
 layout: default
-modal-id: 28
-date: 0043-01-01
+modal-id: 31
+date: 0040-01-01
 img: faaret.png
 thumbnail: faaret_thumbnail.png
 alt: image-alt
