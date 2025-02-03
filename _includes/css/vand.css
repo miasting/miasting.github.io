@@ -27,3 +27,15 @@
 	margin-left: 0px;
 	margin-right: 0px;
 }
+
+@media (min-width: 767px) {
+    #portfolio .portfolio-item {
+        margin: 0 0 0px;
+    }
+}
+
+@media (min-width: 768px) {
+    .col-sm-6 {
+        width: 50%;
+    }
+}
