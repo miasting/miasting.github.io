@@ -11,3 +11,7 @@
     	width: 100%; /* Fill the available width */
     	height: auto; /* Adjust height automatically */
 }
+.container-fluid {
+	padding-left:0px;
+	padding-right:0px
+}
