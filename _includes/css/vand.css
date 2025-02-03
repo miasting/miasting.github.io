@@ -13,7 +13,7 @@
 }
 .container-fluid { /* Ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
 	padding-left:0px;
-	padding-right:0px
+	padding-right:0px;
 }
 
 .row {
