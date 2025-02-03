@@ -1,6 +1,6 @@
 ---
 title: Hund
-subtitle: Fødselsdags-invitationer
+subtitle: Fødselsdags-invitationer, Digitale illustrationer
 layout: default
 modal-id: 29
 date: 0042-01-01
