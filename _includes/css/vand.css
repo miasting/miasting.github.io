@@ -11,7 +11,7 @@
     	width: 100%; /* Fill the available width */
     	height: auto; /* Adjust height automatically */
 }
-.container-fluid {
+.container-fluid { /* Ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
 	padding-left:0px;
 	padding-right:0px
 }
