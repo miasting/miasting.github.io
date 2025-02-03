@@ -15,3 +15,8 @@
 	padding-left:0px;
 	padding-right:0px
 }
+
+.row {
+	--bs-gutter-x: 0; /* Removes horizontal spacing */
+	--bs-gutter-y: 0; /* Removes vertical spacing */
+}
