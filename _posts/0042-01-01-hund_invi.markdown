@@ -9,7 +9,7 @@ thumbnail: hund_invi_thumbnail.png
 alt: image-alt
 project-date: 2023-2025
 category: Digitale illustrationer
-description: Hvert år laver jeg en tegneserie-invitation til min lillesøsters klasse-fødselsdag. 
+description: De sidste år, har jeg lavet en tegneserie-invitation til min lillesøsters klasse-fødselsdag. 
 ---
 
 <img src="img/portfolio/hund_invi2.png" class="img-responsive img-centered" alt="">
