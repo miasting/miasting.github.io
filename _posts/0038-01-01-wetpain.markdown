@@ -1,0 +1,18 @@
+---
+title: Wet Pain
+subtitle: Logo
+layout: default
+modal-id: 33
+date: 0038-01-01
+img: wetpain.JPG
+thumbnail: wetpain_thumbnail.png
+alt: image-alt
+project-date: Februar 2024
+category: Logo
+description: En ven spurgte om jeg ville lave et logo til nogle T-shirts. 
+---
+
+<img src="img/portfolio/wetpain1.png" class="img-responsive img-centered" alt="">
+<img src="img/portfolio/wetpain2.png" class="img-responsive img-centered" alt="">
+<img src="img/portfolio/wetpain3.png" class="img-responsive img-centered" alt="">
+<img src="img/portfolio/wetpain4.png" class="img-responsive img-centered" alt="">
