@@ -1,6 +1,6 @@
 ---
 title: Helmut Newton 
-subtitle: Maleri
+subtitle: Maleri, Akryl på glas
 layout: default
 modal-id: 25
 date: 0046-01-01
@@ -8,7 +8,7 @@ img: helmut_newton.png
 thumbnail: helmut_newton_thumbnail.png
 alt: image-alt
 project-date: Februar 2023
-category: Maleri
+category: Maleri, Akryl på glas
 description: "Jeg ændrede lige lidt på en plakat af Helmut Newton, den originale så lidt anderledes ud:"
 ---
 

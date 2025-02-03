@@ -1,6 +1,6 @@
 ---
-title: Fonts
-subtitle: Fonts
+title: Album Covers
+subtitle: Fonts, Layout
 layout: default
 modal-id: 23
 date: 0048-01-01
@@ -8,7 +8,7 @@ img: font_albums1.png
 thumbnail: font_albums_thumbnail.png
 alt: image-alt
 project-date: Januar 2025
-category: Fonts
+category: Fonts, Layout
 description: "Jeg blev besat af fonts - og lavede album-covers for at teste dem. Download dem ved at klikke på billederne herunder:"
 ---
 

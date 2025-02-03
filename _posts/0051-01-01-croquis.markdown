@@ -1,6 +1,6 @@
 ---
 title: Croquis
-subtitle: Tegninger
+subtitle: Tegninger, Blyant
 layout: default
 modal-id: 13
 date: 0051-01-01
@@ -8,6 +8,6 @@ img: croquis.png
 thumbnail: croquis_thumbnail.png
 alt: image-alt
 project-date: 2024
-category: Tegninger
+category: Tegninger, Blyant
 description: Nogle tegninger fra croquis
 ---
