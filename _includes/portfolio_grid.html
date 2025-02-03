@@ -7,7 +7,7 @@
                     <h3 class="section-subheading text-muted">Jeg laver film, grafitti-stencils, tegninger, layouts, fonts og digitale illustrationer</h3>
                 </div>
             </div>
-            <div class="row no-gutters"> <!-- tilføjelse af no-gutters, fjerner gutter space between columns -->
+            <div class="row g-0"> <!-- tilføjelse af g-0 for bootstrap 5 istedet for no-gutters, fjerner gutter space between columns -->
             {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
