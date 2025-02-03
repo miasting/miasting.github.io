@@ -12,8 +12,8 @@
     	height: auto; /* Adjust height automatically */
 }
 .container-fluid { /* Prøver at ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
-	padding-left: 0px;
-	padding-right: 0px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 .row { /* Prøver at ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
