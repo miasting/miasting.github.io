@@ -11,12 +11,19 @@
     	width: 100%; /* Fill the available width */
     	height: auto; /* Adjust height automatically */
 }
-.container-fluid { /* Ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
-	padding-left:0px;
-	padding-right:0px;
+.container-fluid { /* Prøver at ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
-.row {
+.row { /* Prøver at ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
 	--bs-gutter-x: 0; /* Removes horizontal spacing */
 	--bs-gutter-y: 0; /* Removes vertical spacing */
+}
+
+.portfolio-item { /* Prøver at ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
