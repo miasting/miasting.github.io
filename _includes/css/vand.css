@@ -22,10 +22,10 @@
 }
 
 .portfolio-item { /* Prøver at ændre på paddig i portfolio-grid - altså pladsen mellem thumbnails */
-	padding-left: 0px;
-	padding-right: 0px;
-	margin-left: 0px;
-	margin-right: 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 /*
 @media (min-width: 767px) {
