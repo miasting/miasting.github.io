@@ -1,2 +1,22 @@
 
 **/.DS_Store
+
+# Jekyll build files
+_site/
+.sass-cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.pid
+*.gem
+
+# Bundler dependencies
+.bundle/
+vendor/
+
+# Ruby-specific files
+Gemfile.lock
+
+# macOS system files
+.DS_Store
