@@ -1,0 +1,5455 @@
+Navn,Sted,Age,Closeness
+Mia,MIG,0,0
+Mor,Familie,0,1
+Far,Familie,0,1
+Baka Nena,Familie,0,1
+Zirajeta,Familie venner,0,1
+Teta Mini,Familie,0,2
+Dundo,Familie,0,2
+Stara Baka,Familie,0,2
+Dida Zlatko,Familie,0,2
+Freja,Familie,0,6
+Farmor,Familie,0,3
+Farfar,Familie,0,3
+Anika,Familie,0,3
+Laura Byskov,Familie,0,3
+Nikolaj,Familie,0,6
+Frederik,Familie,0,6
+Mathias ,Familie,0,6
+Kasper,Familie,0,6
+Nanna,FS Rosa,0,6
+Laura,FS Rosa,0,6
+Dea,LPS,0,6
+Fatmir,Dea,0,6
+Linda,Dea,0,6
+Henriette,LPS,0,6
+Tim,Henriette,0,6
+Trine,Henriette,0,6
+Cecilie,LPS,0,6
+Sarah S,LPS,0,6
+Sofia,LPS,0,6
+Vanessa,LPS,0,6
+August Trier,LPS,0,6
+Mathias,LPS,0,6
+Carl Terp,LPS,0,6
+Omar ,LPS,0,6
+Andreas Lærer,LPS,0,6
+Christiane Lærer,LPS,0,6
+Charlotte Lærer,LPS,0,6
+Kirsten Lærer,LPS,0,6
+Rasmus Lærer,LPS,0,6
+Ram,AVK,0,6
+Molly Walbum,AVK,0,6
+Didde Siig,AVK,0,6
+Frederikke Winther,AVK,0,6
+Alice Wendelin,AVK,0,6
+Alfa ,MK31,0,6
+Dominika ,MK31,0,6
+Ella,Familie,0,6
+Anders,Familie,0,6
+Rigmor,Familie,0,6
+Sigrid,Familie,0,6
+Anna Marie Dahl,Familie,0,6
+Jens Christian,Familie,0,6
+Thomas ,Familie,0,6
+Anette,Familie,0,6
+Edwin,Familie,0,6
+Edith,Familie,0,6
+August Ballhorn,Familie venner,0,6
+Tanja Ballhorn,Familie venner,0,6
+Katrine Elliot,Familie venner,0,6
+Oliver Elliot,Familie venner,0,6
+William Elliot,Familie venner,0,6
+Roland,Familie venner,0,4
+Katrine (fars veninde),Familie venner,0,6
+Nora (Katrine),Familie venner,0,6
+Julia,TG,0,6
+Laura Appel,TG,0,6
+Halfdan,MK31,0,6
+Daniel,MK31,0,6
+August,MK31,0,6
+Balthazar,CG,0,6
+Mikkel,CG,0,6
+Anton,CG,0,6
+Elias,CG,0,6
+Noah,CG,0,6
+Rachel,CG,0,6
+Freja Smilla,CG,0,6
+Nefer,CG,0,6
+Alvilda,CG,0,6
+Marie,CG,0,6
+Johannes,CG,0,6
+Jasper,CG,0,6
+Philip ,CG,0,6
+Aslak ,CG,0,6
+Theo ,CG,0,6
+Emil Dam,CG,0,6
+Emil Mujacic ,CG,0,6
+Magnus Levanius,Noah,0,6
+Hans Vest,Anton,0,6
+Tobias Frimurer,Anton,0,6
+Alexandra,LMS,0,6
+Cille,LMS,0,6
+Cecilie Juul,LMS,0,6
+Liva,LMS,0,6
+Frederikke,LMS,0,6
+Maya Msafiri,Ingolfs,0,6
+Baldur,Ingolfs,0,6
+Martin Hemmingsen,Ingolfs,0,6
+Gustav Kokkelev,Ingolfs,0,6
+Steen,DGI,0,6
+Marike,DGI,0,6
+Kimberly,DGI,0,6
+Jasmin,DGI,0,6
+Viktor,DGI,0,6
+Tina Andersen,DGI,0,6
+Steven,Film,0,6
+Roni,Film,0,6
+Bakir,Film,0,6
+Mathilde,Film,0,6
+Dagmar,Krogerup,0,6
+Viktoria,Krogerup,0,6
+Mai,Krogerup,0,6
+Magnus Velling,Krogerup,0,6
+Albert Fink,Krogerup,0,6
+Asger,Krogerup,0,6
+Johan Mussmann,Krogerup,0,6
+Signe,Krogerup,0,6
+Clara Roslev,Krogerup,0,6
+Villads Tynell,Krogerup,0,6
+Therese,Krogerup,0,6
+Carl,Familie,0,6
+Pernille,Familie,0,6
+Laura Welinder,Skoleskibet,0,6
+Lukas,Skoleskibet,0,6
+Rosa,Skoleskibet,0,6
+Rose,Skoleskibet,0,6
+Oliver,Skoleskibet,0,6
+Jonas Ullman,Skoleskibet,0,6
+Sara Svendsen,Skoleskibet,0,6
+Jacob Tryk,Skoleskibet,0,6
+Johan Fischer,Skoleskibet,0,6
+Mie Wieder,Skoleskibet,0,6
+Anna Bertoli,Anton,0,6
+Ida,Familie,0,6
+Viktor,Familie,0,6
+Johan,Familie,0,6
+Nor,OD,0,6
+Mattis ,Nor,0,6
+Tania ,Nor,0,6
+Peter,Nor,0,6
+Oskar,OD,0,6
+Ella Moskvitin,OD,0,6
+Lise,OD,0,6
+Elisabeth,OD,0,6
+Carl-Auguste,OD,0,6
+Katinka,OD,0,6
+Hanne,OD,0,6
+Juli,OD,0,6
+Maj Navntoft,OD,0,6
+Celine Mina,OD,0,6
+Jad,OD,0,6
+Maher,OD,0,6
+Sigge,OD,0,6
+Tine Dam,DGUB,0,6
+Vibeke,DGUB,0,6
+Abbe,DFUNK,0,6
+Yonis,DFUNK,0,6
+Fidan,DFUNK,0,6
+Zainab,DFUNK,0,6
+Medina,DFUNK,0,6
+Feodora,Balthazar,0,6
+Rasmus Tiemann,Balthazar,0,6
+Thomsen,BRSB,0,6
+Tranberg,BRSB,0,6
+Schødt,BRSB,0,6
+Oscar,BRSB,0,6
+Max,BRSB,0,6
+Grønne,BRSB,0,6
+Maul,BRSB,0,6
+Svendsen,BRSB,0,6
+Bjørskov,BRSB,0,6
+Auken,BRSB,0,6
+Elgstrøm,BRSB,0,6
+Randløv,BRSB,0,6
+Caroline,Vietnam,0,6
+Thien,Vietnam,0,6
+Ida Gunge,Balthazar,0,6
+Viola,Balthazar,0,6
+Cammi,Noah,0,6
+Anna Schultz,Lukas,0,6
+Kasper ,Dea,0,6
+Kristoffer Kjær,Beboerhuset,0,6
+Carla,30B,0,6
+Emma,30B,0,6
+Søren La Cour,30B,0,6
+Lydia,DMJX,0,6
+Martha,DMJX,0,6
+Frida,DMJX,0,6
+David,DMJX,0,6
+William ,DMJX,0,6
+Emil,DMJX,0,6
+Rasmus,DMJX,0,6
+Sahra,DMJX,0,6
+Sarah Albæk,DMJX,0,6
+Sarah Nørgaard,DMJX,0,6
+Julie Brande Bæk,DMJX,0,6
+Chzisztof,GJK,0,6
+Mikkel Grønjords,GJK,0,6
+Tiantian,GJK,0,6
+Chaiti,GJK,0,6
+Dipok,GJK,0,6
+Sarah Cornelia,GJK,0,6
+Sarah Cornelia,GJK,0,6
+Mia,MIG,1,0
+Mor,Familie,1,1
+Far,Familie,1,1
+Baka Nena,Familie,1,1
+Zirajeta,Familie venner,1,4
+Teta Mini,Familie,1,3
+Dundo,Familie,1,3
+Stara Baka,Familie,1,3
+Dida Zlatko,Familie,1,3
+Freja,Familie,1,1
+Farmor,Familie,1,3
+Farfar,Familie,1,3
+Anika,Familie,1,3
+Laura Byskov,Familie,1,3
+Nikolaj,Familie,1,3
+Frederik,Familie,1,6
+Mathias ,Familie,1,6
+Kasper,Familie,1,6
+Nanna,FS Rosa,1,6
+Laura,FS Rosa,1,6
+Dea,LPS,1,6
+Fatmir,Dea,1,6
+Linda,Dea,1,6
+Henriette,LPS,1,6
+Tim,Henriette,1,6
+Trine,Henriette,1,6
+Cecilie,LPS,1,6
+Sarah S,LPS,1,6
+Sofia,LPS,1,6
+Vanessa,LPS,1,6
+August Trier,LPS,1,6
+Mathias,LPS,1,6
+Carl Terp,LPS,1,6
+Omar ,LPS,1,6
+Andreas Lærer,LPS,1,6
+Christiane Lærer,LPS,1,6
+Charlotte Lærer,LPS,1,6
+Kirsten Lærer,LPS,1,6
+Rasmus Lærer,LPS,1,6
+Ram,AVK,1,6
+Molly Walbum,AVK,1,6
+Didde Siig,AVK,1,6
+Frederikke Winther,AVK,1,6
+Alice Wendelin,AVK,1,6
+Alfa ,MK31,1,6
+Dominika ,MK31,1,6
+Ella,Familie,1,6
+Anders,Familie,1,6
+Rigmor,Familie,1,6
+Sigrid,Familie,1,6
+Anna Marie Dahl,Familie,1,6
+Jens Christian,Familie,1,6
+Thomas ,Familie,1,6
+Anette,Familie,1,6
+Edwin,Familie,1,6
+Edith,Familie,1,6
+August Ballhorn,Familie venner,1,6
+Tanja Ballhorn,Familie venner,1,6
+Katrine Elliot,Familie venner,1,6
+Oliver Elliot,Familie venner,1,6
+William Elliot,Familie venner,1,6
+Roland,Familie venner,1,4
+Katrine (fars veninde),Familie venner,1,6
+Nora (Katrine),Familie venner,1,6
+Julia,TG,1,6
+Laura Appel,TG,1,6
+Halfdan,MK31,1,6
+Daniel,MK31,1,6
+August,MK31,1,6
+Balthazar,CG,1,6
+Mikkel,CG,1,6
+Anton,CG,1,6
+Elias,CG,1,6
+Noah,CG,1,6
+Rachel,CG,1,6
+Freja Smilla,CG,1,6
+Nefer,CG,1,6
+Alvilda,CG,1,6
+Marie,CG,1,6
+Johannes,CG,1,6
+Jasper,CG,1,6
+Philip ,CG,1,6
+Aslak ,CG,1,6
+Theo ,CG,1,6
+Emil Dam,CG,1,6
+Emil Mujacic ,CG,1,6
+Magnus Levanius,Noah,1,6
+Hans Vest,Anton,1,6
+Tobias Frimurer,Anton,1,6
+Alexandra,LMS,1,6
+Cille,LMS,1,6
+Cecilie Juul,LMS,1,6
+Liva,LMS,1,6
+Frederikke,LMS,1,6
+Maya Msafiri,Ingolfs,1,6
+Baldur,Ingolfs,1,6
+Martin Hemmingsen,Ingolfs,1,6
+Gustav Kokkelev,Ingolfs,1,6
+Steen,DGI,1,6
+Marike,DGI,1,6
+Kimberly,DGI,1,6
+Jasmin,DGI,1,6
+Viktor,DGI,1,6
+Tina Andersen,DGI,1,6
+Steven,Film,1,6
+Roni,Film,1,6
+Bakir,Film,1,6
+Mathilde,Film,1,6
+Dagmar,Krogerup,1,6
+Viktoria,Krogerup,1,6
+Mai,Krogerup,1,6
+Magnus Velling,Krogerup,1,6
+Albert Fink,Krogerup,1,6
+Asger,Krogerup,1,6
+Johan Mussmann,Krogerup,1,6
+Signe,Krogerup,1,6
+Clara Roslev,Krogerup,1,6
+Villads Tynell,Krogerup,1,6
+Therese,Krogerup,1,6
+Carl,Familie,1,6
+Pernille,Familie,1,6
+Laura Welinder,Skoleskibet,1,6
+Lukas,Skoleskibet,1,6
+Rosa,Skoleskibet,1,6
+Rose,Skoleskibet,1,6
+Oliver,Skoleskibet,1,6
+Jonas Ullman,Skoleskibet,1,6
+Sara Svendsen,Skoleskibet,1,6
+Jacob Tryk,Skoleskibet,1,6
+Johan Fischer,Skoleskibet,1,6
+Mie Wieder,Skoleskibet,1,6
+Anna Bertoli,Anton,1,6
+Ida,Familie,1,6
+Viktor,Familie,1,6
+Johan,Familie,1,6
+Nor,OD,1,6
+Mattis ,Nor,1,6
+Tania ,Nor,1,6
+Peter,Nor,1,6
+Oskar,OD,1,6
+Ella Moskvitin,OD,1,6
+Lise,OD,1,6
+Elisabeth,OD,1,6
+Carl-Auguste,OD,1,6
+Katinka,OD,1,6
+Hanne,OD,1,6
+Juli,OD,1,6
+Maj Navntoft,OD,1,6
+Celine Mina,OD,1,6
+Jad,OD,1,6
+Maher,OD,1,6
+Sigge,OD,1,6
+Tine Dam,DGUB,1,6
+Vibeke,DGUB,1,6
+Abbe,DFUNK,1,6
+Yonis,DFUNK,1,6
+Fidan,DFUNK,1,6
+Zainab,DFUNK,1,6
+Medina,DFUNK,1,6
+Feodora,Balthazar,1,6
+Rasmus Tiemann,Balthazar,1,6
+Thomsen,BRSB,1,6
+Tranberg,BRSB,1,6
+Schødt,BRSB,1,6
+Oscar,BRSB,1,6
+Max,BRSB,1,6
+Grønne,BRSB,1,6
+Maul,BRSB,1,6
+Svendsen,BRSB,1,6
+Bjørskov,BRSB,1,6
+Auken,BRSB,1,6
+Elgstrøm,BRSB,1,6
+Randløv,BRSB,1,6
+Caroline,Vietnam,1,6
+Thien,Vietnam,1,6
+Ida Gunge,Balthazar,1,6
+Viola,Balthazar,1,6
+Cammi,Noah,1,6
+Anna Schultz,Lukas,1,6
+Kasper ,Dea,1,6
+Kristoffer Kjær,Beboerhuset,1,6
+Carla,30B,1,6
+Emma,30B,1,6
+Søren La Cour,30B,1,6
+Lydia,DMJX,1,6
+Martha,DMJX,1,6
+Frida,DMJX,1,6
+David,DMJX,1,6
+William ,DMJX,1,6
+Emil,DMJX,1,6
+Rasmus,DMJX,1,6
+Sahra,DMJX,1,6
+Sarah Albæk,DMJX,1,6
+Sarah Nørgaard,DMJX,1,6
+Julie Brande Bæk,DMJX,1,6
+Chzisztof,GJK,1,6
+Mikkel Grønjords,GJK,1,6
+Tiantian,GJK,1,6
+Chaiti,GJK,1,6
+Dipok,GJK,1,6
+Sarah Cornelia,GJK,1,6
+Sarah Cornelia,GJK,1,6
+Mia,MIG,2,0
+Mor,Familie,2,1
+Far,Familie,2,1
+Baka Nena,Familie,2,2
+Zirajeta,Familie venner,2,5
+Teta Mini,Familie,2,3
+Dundo,Familie,2,3
+Stara Baka,Familie,2,3
+Dida Zlatko,Familie,2,3
+Freja,Familie,2,1
+Farmor,Familie,2,2
+Farfar,Familie,2,2
+Anika,Familie,2,2
+Laura Byskov,Familie,2,2
+Nikolaj,Familie,2,2
+Frederik,Familie,2,6
+Mathias ,Familie,2,6
+Kasper,Familie,2,6
+Nanna,FS Rosa,2,6
+Laura,FS Rosa,2,6
+Dea,LPS,2,6
+Fatmir,Dea,2,6
+Linda,Dea,2,6
+Henriette,LPS,2,6
+Tim,Henriette,2,6
+Trine,Henriette,2,6
+Cecilie,LPS,2,6
+Sarah S,LPS,2,6
+Sofia,LPS,2,6
+Vanessa,LPS,2,6
+August Trier,LPS,2,6
+Mathias,LPS,2,6
+Carl Terp,LPS,2,6
+Omar ,LPS,2,6
+Andreas Lærer,LPS,2,6
+Christiane Lærer,LPS,2,6
+Charlotte Lærer,LPS,2,6
+Kirsten Lærer,LPS,2,6
+Rasmus Lærer,LPS,2,6
+Ram,AVK,2,6
+Molly Walbum,AVK,2,6
+Didde Siig,AVK,2,6
+Frederikke Winther,AVK,2,6
+Alice Wendelin,AVK,2,6
+Alfa ,MK31,2,6
+Dominika ,MK31,2,6
+Ella,Familie,2,6
+Anders,Familie,2,6
+Rigmor,Familie,2,6
+Sigrid,Familie,2,6
+Anna Marie Dahl,Familie,2,6
+Jens Christian,Familie,2,6
+Thomas ,Familie,2,6
+Anette,Familie,2,6
+Edwin,Familie,2,6
+Edith,Familie,2,6
+August Ballhorn,Familie venner,2,6
+Tanja Ballhorn,Familie venner,2,6
+Katrine Elliot,Familie venner,2,6
+Oliver Elliot,Familie venner,2,6
+William Elliot,Familie venner,2,6
+Roland,Familie venner,2,4
+Katrine (fars veninde),Familie venner,2,6
+Nora (Katrine),Familie venner,2,6
+Julia,TG,2,6
+Laura Appel,TG,2,6
+Halfdan,MK31,2,6
+Daniel,MK31,2,6
+August,MK31,2,6
+Balthazar,CG,2,6
+Mikkel,CG,2,6
+Anton,CG,2,6
+Elias,CG,2,6
+Noah,CG,2,6
+Rachel,CG,2,6
+Freja Smilla,CG,2,6
+Nefer,CG,2,6
+Alvilda,CG,2,6
+Marie,CG,2,6
+Johannes,CG,2,6
+Jasper,CG,2,6
+Philip ,CG,2,6
+Aslak ,CG,2,6
+Theo ,CG,2,6
+Emil Dam,CG,2,6
+Emil Mujacic ,CG,2,6
+Magnus Levanius,Noah,2,6
+Hans Vest,Anton,2,6
+Tobias Frimurer,Anton,2,6
+Alexandra,LMS,2,6
+Cille,LMS,2,6
+Cecilie Juul,LMS,2,6
+Liva,LMS,2,6
+Frederikke,LMS,2,6
+Maya Msafiri,Ingolfs,2,6
+Baldur,Ingolfs,2,6
+Martin Hemmingsen,Ingolfs,2,6
+Gustav Kokkelev,Ingolfs,2,6
+Steen,DGI,2,6
+Marike,DGI,2,6
+Kimberly,DGI,2,6
+Jasmin,DGI,2,6
+Viktor,DGI,2,6
+Tina Andersen,DGI,2,6
+Steven,Film,2,6
+Roni,Film,2,6
+Bakir,Film,2,6
+Mathilde,Film,2,6
+Dagmar,Krogerup,2,6
+Viktoria,Krogerup,2,6
+Mai,Krogerup,2,6
+Magnus Velling,Krogerup,2,6
+Albert Fink,Krogerup,2,6
+Asger,Krogerup,2,6
+Johan Mussmann,Krogerup,2,6
+Signe,Krogerup,2,6
+Clara Roslev,Krogerup,2,6
+Villads Tynell,Krogerup,2,6
+Therese,Krogerup,2,6
+Carl,Familie,2,6
+Pernille,Familie,2,6
+Laura Welinder,Skoleskibet,2,6
+Lukas,Skoleskibet,2,6
+Rosa,Skoleskibet,2,6
+Rose,Skoleskibet,2,6
+Oliver,Skoleskibet,2,6
+Jonas Ullman,Skoleskibet,2,6
+Sara Svendsen,Skoleskibet,2,6
+Jacob Tryk,Skoleskibet,2,6
+Johan Fischer,Skoleskibet,2,6
+Mie Wieder,Skoleskibet,2,6
+Anna Bertoli,Anton,2,6
+Ida,Familie,2,6
+Viktor,Familie,2,6
+Johan,Familie,2,6
+Nor,OD,2,6
+Mattis ,Nor,2,6
+Tania ,Nor,2,6
+Peter,Nor,2,6
+Oskar,OD,2,6
+Ella Moskvitin,OD,2,6
+Lise,OD,2,6
+Elisabeth,OD,2,6
+Carl-Auguste,OD,2,6
+Katinka,OD,2,6
+Hanne,OD,2,6
+Juli,OD,2,6
+Maj Navntoft,OD,2,6
+Celine Mina,OD,2,6
+Jad,OD,2,6
+Maher,OD,2,6
+Sigge,OD,2,6
+Tine Dam,DGUB,2,6
+Vibeke,DGUB,2,6
+Abbe,DFUNK,2,6
+Yonis,DFUNK,2,6
+Fidan,DFUNK,2,6
+Zainab,DFUNK,2,6
+Medina,DFUNK,2,6
+Feodora,Balthazar,2,6
+Rasmus Tiemann,Balthazar,2,6
+Thomsen,BRSB,2,6
+Tranberg,BRSB,2,6
+Schødt,BRSB,2,6
+Oscar,BRSB,2,6
+Max,BRSB,2,6
+Grønne,BRSB,2,6
+Maul,BRSB,2,6
+Svendsen,BRSB,2,6
+Bjørskov,BRSB,2,6
+Auken,BRSB,2,6
+Elgstrøm,BRSB,2,6
+Randløv,BRSB,2,6
+Caroline,Vietnam,2,6
+Thien,Vietnam,2,6
+Ida Gunge,Balthazar,2,6
+Viola,Balthazar,2,6
+Cammi,Noah,2,6
+Anna Schultz,Lukas,2,6
+Kasper ,Dea,2,6
+Kristoffer Kjær,Beboerhuset,2,6
+Carla,30B,2,6
+Emma,30B,2,6
+Søren La Cour,30B,2,6
+Lydia,DMJX,2,6
+Martha,DMJX,2,6
+Frida,DMJX,2,6
+David,DMJX,2,6
+William ,DMJX,2,6
+Emil,DMJX,2,6
+Rasmus,DMJX,2,6
+Sahra,DMJX,2,6
+Sarah Albæk,DMJX,2,6
+Sarah Nørgaard,DMJX,2,6
+Julie Brande Bæk,DMJX,2,6
+Chzisztof,GJK,2,6
+Mikkel Grønjords,GJK,2,6
+Tiantian,GJK,2,6
+Chaiti,GJK,2,6
+Dipok,GJK,2,6
+Sarah Cornelia,GJK,2,6
+Sarah Cornelia,GJK,2,6
+Mia,MIG,3,0
+Mor,Familie,3,1
+Far,Familie,3,1
+Baka Nena,Familie,3,2
+Zirajeta,Familie venner,3,5
+Teta Mini,Familie,3,3
+Dundo,Familie,3,3
+Stara Baka,Familie,3,3
+Dida Zlatko,Familie,3,3
+Freja,Familie,3,1
+Farmor,Familie,3,2
+Farfar,Familie,3,2
+Anika,Familie,3,2
+Laura Byskov,Familie,3,2
+Nikolaj,Familie,3,2
+Frederik,Familie,3,2
+Mathias ,Familie,3,6
+Kasper,Familie,3,6
+Nanna,FS Rosa,3,2
+Laura,FS Rosa,3,2
+Dea,LPS,3,6
+Fatmir,Dea,3,6
+Linda,Dea,3,6
+Henriette,LPS,3,6
+Tim,Henriette,3,6
+Trine,Henriette,3,6
+Cecilie,LPS,3,6
+Sarah S,LPS,3,6
+Sofia,LPS,3,6
+Vanessa,LPS,3,6
+August Trier,LPS,3,6
+Mathias,LPS,3,6
+Carl Terp,LPS,3,6
+Omar ,LPS,3,6
+Andreas Lærer,LPS,3,6
+Christiane Lærer,LPS,3,6
+Charlotte Lærer,LPS,3,6
+Kirsten Lærer,LPS,3,6
+Rasmus Lærer,LPS,3,6
+Ram,AVK,3,6
+Molly Walbum,AVK,3,6
+Didde Siig,AVK,3,6
+Frederikke Winther,AVK,3,6
+Alice Wendelin,AVK,3,6
+Alfa ,MK31,3,6
+Dominika ,MK31,3,6
+Ella,Familie,3,6
+Anders,Familie,3,6
+Rigmor,Familie,3,6
+Sigrid,Familie,3,6
+Anna Marie Dahl,Familie,3,6
+Jens Christian,Familie,3,6
+Thomas ,Familie,3,6
+Anette,Familie,3,6
+Edwin,Familie,3,6
+Edith,Familie,3,6
+August Ballhorn,Familie venner,3,6
+Tanja Ballhorn,Familie venner,3,6
+Katrine Elliot,Familie venner,3,6
+Oliver Elliot,Familie venner,3,6
+William Elliot,Familie venner,3,6
+Roland,Familie venner,3,4
+Katrine (fars veninde),Familie venner,3,6
+Nora (Katrine),Familie venner,3,6
+Julia,TG,3,6
+Laura Appel,TG,3,6
+Halfdan,MK31,3,6
+Daniel,MK31,3,6
+August,MK31,3,6
+Balthazar,CG,3,6
+Mikkel,CG,3,6
+Anton,CG,3,6
+Elias,CG,3,6
+Noah,CG,3,6
+Rachel,CG,3,6
+Freja Smilla,CG,3,6
+Nefer,CG,3,6
+Alvilda,CG,3,6
+Marie,CG,3,6
+Johannes,CG,3,6
+Jasper,CG,3,6
+Philip ,CG,3,6
+Aslak ,CG,3,6
+Theo ,CG,3,6
+Emil Dam,CG,3,6
+Emil Mujacic ,CG,3,6
+Magnus Levanius,Noah,3,6
+Hans Vest,Anton,3,6
+Tobias Frimurer,Anton,3,6
+Alexandra,LMS,3,6
+Cille,LMS,3,6
+Cecilie Juul,LMS,3,6
+Liva,LMS,3,6
+Frederikke,LMS,3,6
+Maya Msafiri,Ingolfs,3,6
+Baldur,Ingolfs,3,6
+Martin Hemmingsen,Ingolfs,3,6
+Gustav Kokkelev,Ingolfs,3,6
+Steen,DGI,3,6
+Marike,DGI,3,6
+Kimberly,DGI,3,6
+Jasmin,DGI,3,6
+Viktor,DGI,3,6
+Tina Andersen,DGI,3,6
+Steven,Film,3,6
+Roni,Film,3,6
+Bakir,Film,3,6
+Mathilde,Film,3,6
+Dagmar,Krogerup,3,6
+Viktoria,Krogerup,3,6
+Mai,Krogerup,3,6
+Magnus Velling,Krogerup,3,6
+Albert Fink,Krogerup,3,6
+Asger,Krogerup,3,6
+Johan Mussmann,Krogerup,3,6
+Signe,Krogerup,3,6
+Clara Roslev,Krogerup,3,6
+Villads Tynell,Krogerup,3,6
+Therese,Krogerup,3,6
+Carl,Familie,3,6
+Pernille,Familie,3,6
+Laura Welinder,Skoleskibet,3,6
+Lukas,Skoleskibet,3,6
+Rosa,Skoleskibet,3,6
+Rose,Skoleskibet,3,6
+Oliver,Skoleskibet,3,6
+Jonas Ullman,Skoleskibet,3,6
+Sara Svendsen,Skoleskibet,3,6
+Jacob Tryk,Skoleskibet,3,6
+Johan Fischer,Skoleskibet,3,6
+Mie Wieder,Skoleskibet,3,6
+Anna Bertoli,Anton,3,6
+Ida,Familie,3,6
+Viktor,Familie,3,6
+Johan,Familie,3,6
+Nor,OD,3,6
+Mattis ,Nor,3,6
+Tania ,Nor,3,6
+Peter,Nor,3,6
+Oskar,OD,3,6
+Ella Moskvitin,OD,3,6
+Lise,OD,3,6
+Elisabeth,OD,3,6
+Carl-Auguste,OD,3,6
+Katinka,OD,3,6
+Hanne,OD,3,6
+Juli,OD,3,6
+Maj Navntoft,OD,3,6
+Celine Mina,OD,3,6
+Jad,OD,3,6
+Maher,OD,3,6
+Sigge,OD,3,6
+Tine Dam,DGUB,3,6
+Vibeke,DGUB,3,6
+Abbe,DFUNK,3,6
+Yonis,DFUNK,3,6
+Fidan,DFUNK,3,6
+Zainab,DFUNK,3,6
+Medina,DFUNK,3,6
+Feodora,Balthazar,3,6
+Rasmus Tiemann,Balthazar,3,6
+Thomsen,BRSB,3,6
+Tranberg,BRSB,3,6
+Schødt,BRSB,3,6
+Oscar,BRSB,3,6
+Max,BRSB,3,6
+Grønne,BRSB,3,6
+Maul,BRSB,3,6
+Svendsen,BRSB,3,6
+Bjørskov,BRSB,3,6
+Auken,BRSB,3,6
+Elgstrøm,BRSB,3,6
+Randløv,BRSB,3,6
+Caroline,Vietnam,3,6
+Thien,Vietnam,3,6
+Ida Gunge,Balthazar,3,6
+Viola,Balthazar,3,6
+Cammi,Noah,3,6
+Anna Schultz,Lukas,3,6
+Kasper ,Dea,3,6
+Kristoffer Kjær,Beboerhuset,3,6
+Carla,30B,3,6
+Emma,30B,3,6
+Søren La Cour,30B,3,6
+Lydia,DMJX,3,6
+Martha,DMJX,3,6
+Frida,DMJX,3,6
+David,DMJX,3,6
+William ,DMJX,3,6
+Emil,DMJX,3,6
+Rasmus,DMJX,3,6
+Sahra,DMJX,3,6
+Sarah Albæk,DMJX,3,6
+Sarah Nørgaard,DMJX,3,6
+Julie Brande Bæk,DMJX,3,6
+Chzisztof,GJK,3,6
+Mikkel Grønjords,GJK,3,6
+Tiantian,GJK,3,6
+Chaiti,GJK,3,6
+Dipok,GJK,3,6
+Sarah Cornelia,GJK,3,6
+Sarah Cornelia,GJK,3,6
+Mia,MIG,4,0
+Mor,Familie,4,1
+Far,Familie,4,1
+Baka Nena,Familie,4,2
+Zirajeta,Familie venner,4,5
+Teta Mini,Familie,4,3
+Dundo,Familie,4,3
+Stara Baka,Familie,4,3
+Dida Zlatko,Familie,4,3
+Freja,Familie,4,1
+Farmor,Familie,4,2
+Farfar,Familie,4,2
+Anika,Familie,4,2
+Laura Byskov,Familie,4,2
+Nikolaj,Familie,4,2
+Frederik,Familie,4,2
+Mathias ,Familie,4,6
+Kasper,Familie,4,6
+Nanna,FS Rosa,4,2
+Laura,FS Rosa,4,2
+Dea,LPS,4,6
+Fatmir,Dea,4,6
+Linda,Dea,4,6
+Henriette,LPS,4,6
+Tim,Henriette,4,6
+Trine,Henriette,4,6
+Cecilie,LPS,4,6
+Sarah S,LPS,4,6
+Sofia,LPS,4,6
+Vanessa,LPS,4,6
+August Trier,LPS,4,6
+Mathias,LPS,4,6
+Carl Terp,LPS,4,6
+Omar ,LPS,4,6
+Andreas Lærer,LPS,4,6
+Christiane Lærer,LPS,4,6
+Charlotte Lærer,LPS,4,6
+Kirsten Lærer,LPS,4,6
+Rasmus Lærer,LPS,4,6
+Ram,AVK,4,6
+Molly Walbum,AVK,4,6
+Didde Siig,AVK,4,6
+Frederikke Winther,AVK,4,6
+Alice Wendelin,AVK,4,6
+Alfa ,MK31,4,6
+Dominika ,MK31,4,6
+Ella,Familie,4,6
+Anders,Familie,4,6
+Rigmor,Familie,4,6
+Sigrid,Familie,4,6
+Anna Marie Dahl,Familie,4,6
+Jens Christian,Familie,4,6
+Thomas ,Familie,4,6
+Anette,Familie,4,6
+Edwin,Familie,4,6
+Edith,Familie,4,6
+August Ballhorn,Familie venner,4,6
+Tanja Ballhorn,Familie venner,4,6
+Katrine Elliot,Familie venner,4,6
+Oliver Elliot,Familie venner,4,6
+William Elliot,Familie venner,4,6
+Roland,Familie venner,4,4
+Katrine (fars veninde),Familie venner,4,6
+Nora (Katrine),Familie venner,4,6
+Julia,TG,4,6
+Laura Appel,TG,4,6
+Halfdan,MK31,4,6
+Daniel,MK31,4,6
+August,MK31,4,6
+Balthazar,CG,4,6
+Mikkel,CG,4,6
+Anton,CG,4,6
+Elias,CG,4,6
+Noah,CG,4,6
+Rachel,CG,4,6
+Freja Smilla,CG,4,6
+Nefer,CG,4,6
+Alvilda,CG,4,6
+Marie,CG,4,6
+Johannes,CG,4,6
+Jasper,CG,4,6
+Philip ,CG,4,6
+Aslak ,CG,4,6
+Theo ,CG,4,6
+Emil Dam,CG,4,6
+Emil Mujacic ,CG,4,6
+Magnus Levanius,Noah,4,6
+Hans Vest,Anton,4,6
+Tobias Frimurer,Anton,4,6
+Alexandra,LMS,4,6
+Cille,LMS,4,6
+Cecilie Juul,LMS,4,6
+Liva,LMS,4,6
+Frederikke,LMS,4,6
+Maya Msafiri,Ingolfs,4,6
+Baldur,Ingolfs,4,6
+Martin Hemmingsen,Ingolfs,4,6
+Gustav Kokkelev,Ingolfs,4,6
+Steen,DGI,4,6
+Marike,DGI,4,6
+Kimberly,DGI,4,6
+Jasmin,DGI,4,6
+Viktor,DGI,4,6
+Tina Andersen,DGI,4,6
+Steven,Film,4,6
+Roni,Film,4,6
+Bakir,Film,4,6
+Mathilde,Film,4,6
+Dagmar,Krogerup,4,6
+Viktoria,Krogerup,4,6
+Mai,Krogerup,4,6
+Magnus Velling,Krogerup,4,6
+Albert Fink,Krogerup,4,6
+Asger,Krogerup,4,6
+Johan Mussmann,Krogerup,4,6
+Signe,Krogerup,4,6
+Clara Roslev,Krogerup,4,6
+Villads Tynell,Krogerup,4,6
+Therese,Krogerup,4,6
+Carl,Familie,4,6
+Pernille,Familie,4,6
+Laura Welinder,Skoleskibet,4,6
+Lukas,Skoleskibet,4,6
+Rosa,Skoleskibet,4,6
+Rose,Skoleskibet,4,6
+Oliver,Skoleskibet,4,6
+Jonas Ullman,Skoleskibet,4,6
+Sara Svendsen,Skoleskibet,4,6
+Jacob Tryk,Skoleskibet,4,6
+Johan Fischer,Skoleskibet,4,6
+Mie Wieder,Skoleskibet,4,6
+Anna Bertoli,Anton,4,6
+Ida,Familie,4,6
+Viktor,Familie,4,6
+Johan,Familie,4,6
+Nor,OD,4,6
+Mattis ,Nor,4,6
+Tania ,Nor,4,6
+Peter,Nor,4,6
+Oskar,OD,4,6
+Ella Moskvitin,OD,4,6
+Lise,OD,4,6
+Elisabeth,OD,4,6
+Carl-Auguste,OD,4,6
+Katinka,OD,4,6
+Hanne,OD,4,6
+Juli,OD,4,6
+Maj Navntoft,OD,4,6
+Celine Mina,OD,4,6
+Jad,OD,4,6
+Maher,OD,4,6
+Sigge,OD,4,6
+Tine Dam,DGUB,4,6
+Vibeke,DGUB,4,6
+Abbe,DFUNK,4,6
+Yonis,DFUNK,4,6
+Fidan,DFUNK,4,6
+Zainab,DFUNK,4,6
+Medina,DFUNK,4,6
+Feodora,Balthazar,4,6
+Rasmus Tiemann,Balthazar,4,6
+Thomsen,BRSB,4,6
+Tranberg,BRSB,4,6
+Schødt,BRSB,4,6
+Oscar,BRSB,4,6
+Max,BRSB,4,6
+Grønne,BRSB,4,6
+Maul,BRSB,4,6
+Svendsen,BRSB,4,6
+Bjørskov,BRSB,4,6
+Auken,BRSB,4,6
+Elgstrøm,BRSB,4,6
+Randløv,BRSB,4,6
+Caroline,Vietnam,4,6
+Thien,Vietnam,4,6
+Ida Gunge,Balthazar,4,6
+Viola,Balthazar,4,6
+Cammi,Noah,4,6
+Anna Schultz,Lukas,4,6
+Kasper ,Dea,4,6
+Kristoffer Kjær,Beboerhuset,4,6
+Carla,30B,4,6
+Emma,30B,4,6
+Søren La Cour,30B,4,6
+Lydia,DMJX,4,6
+Martha,DMJX,4,6
+Frida,DMJX,4,6
+David,DMJX,4,6
+William ,DMJX,4,6
+Emil,DMJX,4,6
+Rasmus,DMJX,4,6
+Sahra,DMJX,4,6
+Sarah Albæk,DMJX,4,6
+Sarah Nørgaard,DMJX,4,6
+Julie Brande Bæk,DMJX,4,6
+Chzisztof,GJK,4,6
+Mikkel Grønjords,GJK,4,6
+Tiantian,GJK,4,6
+Chaiti,GJK,4,6
+Dipok,GJK,4,6
+Sarah Cornelia,GJK,4,6
+Sarah Cornelia,GJK,4,6
+Mia,MIG,5,0
+Mor,Familie,5,1
+Far,Familie,5,1
+Baka Nena,Familie,5,2
+Zirajeta,Familie venner,5,5
+Teta Mini,Familie,5,3
+Dundo,Familie,5,3
+Stara Baka,Familie,5,3
+Dida Zlatko,Familie,5,3
+Freja,Familie,5,1
+Farmor,Familie,5,2
+Farfar,Familie,5,2
+Anika,Familie,5,2
+Laura Byskov,Familie,5,2
+Nikolaj,Familie,5,2
+Frederik,Familie,5,2
+Mathias ,Familie,5,6
+Kasper,Familie,5,6
+Nanna,FS Rosa,5,2
+Laura,FS Rosa,5,2
+Dea,LPS,5,6
+Fatmir,Dea,5,6
+Linda,Dea,5,6
+Henriette,LPS,5,6
+Tim,Henriette,5,6
+Trine,Henriette,5,6
+Cecilie,LPS,5,6
+Sarah S,LPS,5,6
+Sofia,LPS,5,6
+Vanessa,LPS,5,6
+August Trier,LPS,5,6
+Mathias,LPS,5,6
+Carl Terp,LPS,5,6
+Omar ,LPS,5,6
+Andreas Lærer,LPS,5,6
+Christiane Lærer,LPS,5,6
+Charlotte Lærer,LPS,5,6
+Kirsten Lærer,LPS,5,6
+Rasmus Lærer,LPS,5,6
+Ram,AVK,5,6
+Molly Walbum,AVK,5,6
+Didde Siig,AVK,5,6
+Frederikke Winther,AVK,5,6
+Alice Wendelin,AVK,5,6
+Alfa ,MK31,5,6
+Dominika ,MK31,5,6
+Ella,Familie,5,6
+Anders,Familie,5,6
+Rigmor,Familie,5,6
+Sigrid,Familie,5,6
+Anna Marie Dahl,Familie,5,6
+Jens Christian,Familie,5,6
+Thomas ,Familie,5,6
+Anette,Familie,5,6
+Edwin,Familie,5,6
+Edith,Familie,5,6
+August Ballhorn,Familie venner,5,6
+Tanja Ballhorn,Familie venner,5,6
+Katrine Elliot,Familie venner,5,6
+Oliver Elliot,Familie venner,5,6
+William Elliot,Familie venner,5,6
+Roland,Familie venner,5,4
+Katrine (fars veninde),Familie venner,5,6
+Nora (Katrine),Familie venner,5,6
+Julia,TG,5,6
+Laura Appel,TG,5,6
+Halfdan,MK31,5,6
+Daniel,MK31,5,6
+August,MK31,5,6
+Balthazar,CG,5,6
+Mikkel,CG,5,6
+Anton,CG,5,6
+Elias,CG,5,6
+Noah,CG,5,6
+Rachel,CG,5,6
+Freja Smilla,CG,5,6
+Nefer,CG,5,6
+Alvilda,CG,5,6
+Marie,CG,5,6
+Johannes,CG,5,6
+Jasper,CG,5,6
+Philip ,CG,5,6
+Aslak ,CG,5,6
+Theo ,CG,5,6
+Emil Dam,CG,5,6
+Emil Mujacic ,CG,5,6
+Magnus Levanius,Noah,5,6
+Hans Vest,Anton,5,6
+Tobias Frimurer,Anton,5,6
+Alexandra,LMS,5,6
+Cille,LMS,5,6
+Cecilie Juul,LMS,5,6
+Liva,LMS,5,6
+Frederikke,LMS,5,6
+Maya Msafiri,Ingolfs,5,6
+Baldur,Ingolfs,5,6
+Martin Hemmingsen,Ingolfs,5,6
+Gustav Kokkelev,Ingolfs,5,6
+Steen,DGI,5,6
+Marike,DGI,5,6
+Kimberly,DGI,5,6
+Jasmin,DGI,5,6
+Viktor,DGI,5,6
+Tina Andersen,DGI,5,6
+Steven,Film,5,6
+Roni,Film,5,6
+Bakir,Film,5,6
+Mathilde,Film,5,6
+Dagmar,Krogerup,5,6
+Viktoria,Krogerup,5,6
+Mai,Krogerup,5,6
+Magnus Velling,Krogerup,5,6
+Albert Fink,Krogerup,5,6
+Asger,Krogerup,5,6
+Johan Mussmann,Krogerup,5,6
+Signe,Krogerup,5,6
+Clara Roslev,Krogerup,5,6
+Villads Tynell,Krogerup,5,6
+Therese,Krogerup,5,6
+Carl,Familie,5,6
+Pernille,Familie,5,6
+Laura Welinder,Skoleskibet,5,6
+Lukas,Skoleskibet,5,6
+Rosa,Skoleskibet,5,6
+Rose,Skoleskibet,5,6
+Oliver,Skoleskibet,5,6
+Jonas Ullman,Skoleskibet,5,6
+Sara Svendsen,Skoleskibet,5,6
+Jacob Tryk,Skoleskibet,5,6
+Johan Fischer,Skoleskibet,5,6
+Mie Wieder,Skoleskibet,5,6
+Anna Bertoli,Anton,5,6
+Ida,Familie,5,6
+Viktor,Familie,5,6
+Johan,Familie,5,6
+Nor,OD,5,6
+Mattis ,Nor,5,6
+Tania ,Nor,5,6
+Peter,Nor,5,6
+Oskar,OD,5,6
+Ella Moskvitin,OD,5,6
+Lise,OD,5,6
+Elisabeth,OD,5,6
+Carl-Auguste,OD,5,6
+Katinka,OD,5,6
+Hanne,OD,5,6
+Juli,OD,5,6
+Maj Navntoft,OD,5,6
+Celine Mina,OD,5,6
+Jad,OD,5,6
+Maher,OD,5,6
+Sigge,OD,5,6
+Tine Dam,DGUB,5,6
+Vibeke,DGUB,5,6
+Abbe,DFUNK,5,6
+Yonis,DFUNK,5,6
+Fidan,DFUNK,5,6
+Zainab,DFUNK,5,6
+Medina,DFUNK,5,6
+Feodora,Balthazar,5,6
+Rasmus Tiemann,Balthazar,5,6
+Thomsen,BRSB,5,6
+Tranberg,BRSB,5,6
+Schødt,BRSB,5,6
+Oscar,BRSB,5,6
+Max,BRSB,5,6
+Grønne,BRSB,5,6
+Maul,BRSB,5,6
+Svendsen,BRSB,5,6
+Bjørskov,BRSB,5,6
+Auken,BRSB,5,6
+Elgstrøm,BRSB,5,6
+Randløv,BRSB,5,6
+Caroline,Vietnam,5,6
+Thien,Vietnam,5,6
+Ida Gunge,Balthazar,5,6
+Viola,Balthazar,5,6
+Cammi,Noah,5,6
+Anna Schultz,Lukas,5,6
+Kasper ,Dea,5,6
+Kristoffer Kjær,Beboerhuset,5,6
+Carla,30B,5,6
+Emma,30B,5,6
+Søren La Cour,30B,5,6
+Lydia,DMJX,5,6
+Martha,DMJX,5,6
+Frida,DMJX,5,6
+David,DMJX,5,6
+William ,DMJX,5,6
+Emil,DMJX,5,6
+Rasmus,DMJX,5,6
+Sahra,DMJX,5,6
+Sarah Albæk,DMJX,5,6
+Sarah Nørgaard,DMJX,5,6
+Julie Brande Bæk,DMJX,5,6
+Chzisztof,GJK,5,6
+Mikkel Grønjords,GJK,5,6
+Tiantian,GJK,5,6
+Chaiti,GJK,5,6
+Dipok,GJK,5,6
+Sarah Cornelia,GJK,5,6
+Sarah Cornelia,GJK,5,6
+Mia,MIG,6,0
+Mor,Familie,6,1
+Far,Familie,6,1
+Baka Nena,Familie,6,2
+Zirajeta,Familie venner,6,5
+Teta Mini,Familie,6,3
+Dundo,Familie,6,3
+Stara Baka,Familie,6,3
+Dida Zlatko,Familie,6,3
+Freja,Familie,6,1
+Farmor,Familie,6,2
+Farfar,Familie,6,2
+Anika,Familie,6,2
+Laura Byskov,Familie,6,2
+Nikolaj,Familie,6,2
+Frederik,Familie,6,2
+Mathias ,Familie,6,3
+Kasper,Familie,6,3
+Nanna,FS Rosa,6,3
+Laura,FS Rosa,6,3
+Dea,LPS,6,2
+Fatmir,Dea,6,4
+Linda,Dea,6,4
+Henriette,LPS,6,2
+Tim,Henriette,6,4
+Trine,Henriette,6,4
+Cecilie,LPS,6,3
+Sarah S,LPS,6,3
+Sofia,LPS,6,3
+Vanessa,LPS,6,3
+August Trier,LPS,6,3
+Mathias,LPS,6,3
+Carl Terp,LPS,6,3
+Omar ,LPS,6,6
+Andreas Lærer,LPS,6,6
+Christiane Lærer,LPS,6,6
+Charlotte Lærer,LPS,6,6
+Kirsten Lærer,LPS,6,6
+Rasmus Lærer,LPS,6,6
+Ram,AVK,6,6
+Molly Walbum,AVK,6,6
+Didde Siig,AVK,6,6
+Frederikke Winther,AVK,6,6
+Alice Wendelin,AVK,6,6
+Alfa ,MK31,6,6
+Dominika ,MK31,6,6
+Ella,Familie,6,6
+Anders,Familie,6,6
+Rigmor,Familie,6,6
+Sigrid,Familie,6,6
+Anna Marie Dahl,Familie,6,6
+Jens Christian,Familie,6,6
+Thomas ,Familie,6,6
+Anette,Familie,6,6
+Edwin,Familie,6,6
+Edith,Familie,6,6
+August Ballhorn,Familie venner,6,6
+Tanja Ballhorn,Familie venner,6,6
+Katrine Elliot,Familie venner,6,6
+Oliver Elliot,Familie venner,6,6
+William Elliot,Familie venner,6,6
+Roland,Familie venner,6,4
+Katrine (fars veninde),Familie venner,6,6
+Nora (Katrine),Familie venner,6,6
+Julia,TG,6,6
+Laura Appel,TG,6,6
+Halfdan,MK31,6,6
+Daniel,MK31,6,6
+August,MK31,6,4
+Balthazar,CG,6,6
+Mikkel,CG,6,6
+Anton,CG,6,6
+Elias,CG,6,6
+Noah,CG,6,6
+Rachel,CG,6,6
+Freja Smilla,CG,6,6
+Nefer,CG,6,6
+Alvilda,CG,6,6
+Marie,CG,6,6
+Johannes,CG,6,6
+Jasper,CG,6,6
+Philip ,CG,6,6
+Aslak ,CG,6,6
+Theo ,CG,6,6
+Emil Dam,CG,6,6
+Emil Mujacic ,CG,6,6
+Magnus Levanius,Noah,6,6
+Hans Vest,Anton,6,6
+Tobias Frimurer,Anton,6,6
+Alexandra,LMS,6,6
+Cille,LMS,6,6
+Cecilie Juul,LMS,6,6
+Liva,LMS,6,6
+Frederikke,LMS,6,6
+Maya Msafiri,Ingolfs,6,6
+Baldur,Ingolfs,6,6
+Martin Hemmingsen,Ingolfs,6,6
+Gustav Kokkelev,Ingolfs,6,6
+Steen,DGI,6,6
+Marike,DGI,6,6
+Kimberly,DGI,6,6
+Jasmin,DGI,6,6
+Viktor,DGI,6,6
+Tina Andersen,DGI,6,6
+Steven,Film,6,6
+Roni,Film,6,6
+Bakir,Film,6,6
+Mathilde,Film,6,6
+Dagmar,Krogerup,6,6
+Viktoria,Krogerup,6,6
+Mai,Krogerup,6,6
+Magnus Velling,Krogerup,6,6
+Albert Fink,Krogerup,6,6
+Asger,Krogerup,6,6
+Johan Mussmann,Krogerup,6,6
+Signe,Krogerup,6,6
+Clara Roslev,Krogerup,6,6
+Villads Tynell,Krogerup,6,6
+Therese,Krogerup,6,6
+Carl,Familie,6,6
+Pernille,Familie,6,6
+Laura Welinder,Skoleskibet,6,6
+Lukas,Skoleskibet,6,6
+Rosa,Skoleskibet,6,6
+Rose,Skoleskibet,6,6
+Oliver,Skoleskibet,6,6
+Jonas Ullman,Skoleskibet,6,6
+Sara Svendsen,Skoleskibet,6,6
+Jacob Tryk,Skoleskibet,6,6
+Johan Fischer,Skoleskibet,6,6
+Mie Wieder,Skoleskibet,6,6
+Anna Bertoli,Anton,6,6
+Ida,Familie,6,6
+Viktor,Familie,6,6
+Johan,Familie,6,6
+Nor,OD,6,6
+Mattis ,Nor,6,6
+Tania ,Nor,6,6
+Peter,Nor,6,6
+Oskar,OD,6,6
+Ella Moskvitin,OD,6,6
+Lise,OD,6,6
+Elisabeth,OD,6,6
+Carl-Auguste,OD,6,6
+Katinka,OD,6,6
+Hanne,OD,6,6
+Juli,OD,6,6
+Maj Navntoft,OD,6,6
+Celine Mina,OD,6,6
+Jad,OD,6,6
+Maher,OD,6,6
+Sigge,OD,6,6
+Tine Dam,DGUB,6,6
+Vibeke,DGUB,6,6
+Abbe,DFUNK,6,6
+Yonis,DFUNK,6,6
+Fidan,DFUNK,6,6
+Zainab,DFUNK,6,6
+Medina,DFUNK,6,6
+Feodora,Balthazar,6,6
+Rasmus Tiemann,Balthazar,6,6
+Thomsen,BRSB,6,6
+Tranberg,BRSB,6,6
+Schødt,BRSB,6,6
+Oscar,BRSB,6,6
+Max,BRSB,6,6
+Grønne,BRSB,6,6
+Maul,BRSB,6,6
+Svendsen,BRSB,6,6
+Bjørskov,BRSB,6,6
+Auken,BRSB,6,6
+Elgstrøm,BRSB,6,6
+Randløv,BRSB,6,6
+Caroline,Vietnam,6,6
+Thien,Vietnam,6,6
+Ida Gunge,Balthazar,6,6
+Viola,Balthazar,6,6
+Cammi,Noah,6,6
+Anna Schultz,Lukas,6,6
+Kasper ,Dea,6,6
+Kristoffer Kjær,Beboerhuset,6,6
+Carla,30B,6,6
+Emma,30B,6,6
+Søren La Cour,30B,6,6
+Lydia,DMJX,6,6
+Martha,DMJX,6,6
+Frida,DMJX,6,6
+David,DMJX,6,6
+William ,DMJX,6,6
+Emil,DMJX,6,6
+Rasmus,DMJX,6,6
+Sahra,DMJX,6,6
+Sarah Albæk,DMJX,6,6
+Sarah Nørgaard,DMJX,6,6
+Julie Brande Bæk,DMJX,6,6
+Chzisztof,GJK,6,6
+Mikkel Grønjords,GJK,6,6
+Tiantian,GJK,6,6
+Chaiti,GJK,6,6
+Dipok,GJK,6,6
+Sarah Cornelia,GJK,6,6
+Sarah Cornelia,GJK,6,6
+Mia,MIG,7,0
+Mor,Familie,7,1
+Far,Familie,7,1
+Baka Nena,Familie,7,2
+Zirajeta,Familie venner,7,5
+Teta Mini,Familie,7,3
+Dundo,Familie,7,3
+Stara Baka,Familie,7,3
+Dida Zlatko,Familie,7,3
+Freja,Familie,7,1
+Farmor,Familie,7,2
+Farfar,Familie,7,2
+Anika,Familie,7,2
+Laura Byskov,Familie,7,2
+Nikolaj,Familie,7,2
+Frederik,Familie,7,2
+Mathias ,Familie,7,3
+Kasper,Familie,7,3
+Nanna,FS Rosa,7,4
+Laura,FS Rosa,7,4
+Dea,LPS,7,1
+Fatmir,Dea,7,3
+Linda,Dea,7,3
+Henriette,LPS,7,2
+Tim,Henriette,7,3
+Trine,Henriette,7,3
+Cecilie,LPS,7,3
+Sarah S,LPS,7,3
+Sofia,LPS,7,3
+Vanessa,LPS,7,3
+August Trier,LPS,7,3
+Mathias,LPS,7,3
+Carl Terp,LPS,7,3
+Omar ,LPS,7,6
+Andreas Lærer,LPS,7,3
+Christiane Lærer,LPS,7,6
+Charlotte Lærer,LPS,7,6
+Kirsten Lærer,LPS,7,6
+Rasmus Lærer,LPS,7,6
+Ram,AVK,7,6
+Molly Walbum,AVK,7,6
+Didde Siig,AVK,7,6
+Frederikke Winther,AVK,7,6
+Alice Wendelin,AVK,7,6
+Alfa ,MK31,7,6
+Dominika ,MK31,7,6
+Ella,Familie,7,6
+Anders,Familie,7,6
+Rigmor,Familie,7,6
+Sigrid,Familie,7,6
+Anna Marie Dahl,Familie,7,6
+Jens Christian,Familie,7,6
+Thomas ,Familie,7,6
+Anette,Familie,7,6
+Edwin,Familie,7,6
+Edith,Familie,7,6
+August Ballhorn,Familie venner,7,6
+Tanja Ballhorn,Familie venner,7,6
+Katrine Elliot,Familie venner,7,6
+Oliver Elliot,Familie venner,7,6
+William Elliot,Familie venner,7,6
+Roland,Familie venner,7,4
+Katrine (fars veninde),Familie venner,7,6
+Nora (Katrine),Familie venner,7,6
+Julia,TG,7,6
+Laura Appel,TG,7,6
+Halfdan,MK31,7,6
+Daniel,MK31,7,6
+August,MK31,7,4
+Balthazar,CG,7,6
+Mikkel,CG,7,6
+Anton,CG,7,6
+Elias,CG,7,6
+Noah,CG,7,6
+Rachel,CG,7,6
+Freja Smilla,CG,7,6
+Nefer,CG,7,6
+Alvilda,CG,7,6
+Marie,CG,7,6
+Johannes,CG,7,6
+Jasper,CG,7,6
+Philip ,CG,7,6
+Aslak ,CG,7,6
+Theo ,CG,7,6
+Emil Dam,CG,7,6
+Emil Mujacic ,CG,7,6
+Magnus Levanius,Noah,7,6
+Hans Vest,Anton,7,6
+Tobias Frimurer,Anton,7,6
+Alexandra,LMS,7,6
+Cille,LMS,7,6
+Cecilie Juul,LMS,7,6
+Liva,LMS,7,6
+Frederikke,LMS,7,6
+Maya Msafiri,Ingolfs,7,6
+Baldur,Ingolfs,7,6
+Martin Hemmingsen,Ingolfs,7,6
+Gustav Kokkelev,Ingolfs,7,6
+Steen,DGI,7,6
+Marike,DGI,7,6
+Kimberly,DGI,7,6
+Jasmin,DGI,7,6
+Viktor,DGI,7,6
+Tina Andersen,DGI,7,6
+Steven,Film,7,6
+Roni,Film,7,6
+Bakir,Film,7,6
+Mathilde,Film,7,6
+Dagmar,Krogerup,7,6
+Viktoria,Krogerup,7,6
+Mai,Krogerup,7,6
+Magnus Velling,Krogerup,7,6
+Albert Fink,Krogerup,7,6
+Asger,Krogerup,7,6
+Johan Mussmann,Krogerup,7,6
+Signe,Krogerup,7,6
+Clara Roslev,Krogerup,7,6
+Villads Tynell,Krogerup,7,6
+Therese,Krogerup,7,6
+Carl,Familie,7,6
+Pernille,Familie,7,6
+Laura Welinder,Skoleskibet,7,6
+Lukas,Skoleskibet,7,6
+Rosa,Skoleskibet,7,6
+Rose,Skoleskibet,7,6
+Oliver,Skoleskibet,7,6
+Jonas Ullman,Skoleskibet,7,6
+Sara Svendsen,Skoleskibet,7,6
+Jacob Tryk,Skoleskibet,7,6
+Johan Fischer,Skoleskibet,7,6
+Mie Wieder,Skoleskibet,7,6
+Anna Bertoli,Anton,7,6
+Ida,Familie,7,6
+Viktor,Familie,7,6
+Johan,Familie,7,6
+Nor,OD,7,6
+Mattis ,Nor,7,6
+Tania ,Nor,7,6
+Peter,Nor,7,6
+Oskar,OD,7,6
+Ella Moskvitin,OD,7,6
+Lise,OD,7,6
+Elisabeth,OD,7,6
+Carl-Auguste,OD,7,6
+Katinka,OD,7,6
+Hanne,OD,7,6
+Juli,OD,7,6
+Maj Navntoft,OD,7,6
+Celine Mina,OD,7,6
+Jad,OD,7,6
+Maher,OD,7,6
+Sigge,OD,7,6
+Tine Dam,DGUB,7,6
+Vibeke,DGUB,7,6
+Abbe,DFUNK,7,6
+Yonis,DFUNK,7,6
+Fidan,DFUNK,7,6
+Zainab,DFUNK,7,6
+Medina,DFUNK,7,6
+Feodora,Balthazar,7,6
+Rasmus Tiemann,Balthazar,7,6
+Thomsen,BRSB,7,6
+Tranberg,BRSB,7,6
+Schødt,BRSB,7,6
+Oscar,BRSB,7,6
+Max,BRSB,7,6
+Grønne,BRSB,7,6
+Maul,BRSB,7,6
+Svendsen,BRSB,7,6
+Bjørskov,BRSB,7,6
+Auken,BRSB,7,6
+Elgstrøm,BRSB,7,6
+Randløv,BRSB,7,6
+Caroline,Vietnam,7,6
+Thien,Vietnam,7,6
+Ida Gunge,Balthazar,7,6
+Viola,Balthazar,7,6
+Cammi,Noah,7,6
+Anna Schultz,Lukas,7,6
+Kasper ,Dea,7,6
+Kristoffer Kjær,Beboerhuset,7,6
+Carla,30B,7,6
+Emma,30B,7,6
+Søren La Cour,30B,7,6
+Lydia,DMJX,7,6
+Martha,DMJX,7,6
+Frida,DMJX,7,6
+David,DMJX,7,6
+William ,DMJX,7,6
+Emil,DMJX,7,6
+Rasmus,DMJX,7,6
+Sahra,DMJX,7,6
+Sarah Albæk,DMJX,7,6
+Sarah Nørgaard,DMJX,7,6
+Julie Brande Bæk,DMJX,7,6
+Chzisztof,GJK,7,6
+Mikkel Grønjords,GJK,7,6
+Tiantian,GJK,7,6
+Chaiti,GJK,7,6
+Dipok,GJK,7,6
+Sarah Cornelia,GJK,7,6
+Sarah Cornelia,GJK,7,6
+Mia,MIG,8,0
+Mor,Familie,8,1
+Far,Familie,8,1
+Baka Nena,Familie,8,2
+Zirajeta,Familie venner,8,5
+Teta Mini,Familie,8,3
+Dundo,Familie,8,4
+Stara Baka,Familie,8,3
+Dida Zlatko,Familie,8,3
+Freja,Familie,8,1
+Farmor,Familie,8,2
+Farfar,Familie,8,2
+Anika,Familie,8,2
+Laura Byskov,Familie,8,2
+Nikolaj,Familie,8,2
+Frederik,Familie,8,2
+Mathias ,Familie,8,3
+Kasper,Familie,8,3
+Nanna,FS Rosa,8,5
+Laura,FS Rosa,8,5
+Dea,LPS,8,1
+Fatmir,Dea,8,3
+Linda,Dea,8,3
+Henriette,LPS,8,1
+Tim,Henriette,8,3
+Trine,Henriette,8,3
+Cecilie,LPS,8,3
+Sarah S,LPS,8,3
+Sofia,LPS,8,3
+Vanessa,LPS,8,3
+August Trier,LPS,8,3
+Mathias,LPS,8,3
+Carl Terp,LPS,8,3
+Omar ,LPS,8,6
+Andreas Lærer,LPS,8,3
+Christiane Lærer,LPS,8,3
+Charlotte Lærer,LPS,8,6
+Kirsten Lærer,LPS,8,6
+Rasmus Lærer,LPS,8,6
+Ram,AVK,8,6
+Molly Walbum,AVK,8,6
+Didde Siig,AVK,8,6
+Frederikke Winther,AVK,8,6
+Alice Wendelin,AVK,8,6
+Alfa ,MK31,8,6
+Dominika ,MK31,8,6
+Ella,Familie,8,6
+Anders,Familie,8,6
+Rigmor,Familie,8,6
+Sigrid,Familie,8,6
+Anna Marie Dahl,Familie,8,6
+Jens Christian,Familie,8,6
+Thomas ,Familie,8,6
+Anette,Familie,8,6
+Edwin,Familie,8,6
+Edith,Familie,8,6
+August Ballhorn,Familie venner,8,6
+Tanja Ballhorn,Familie venner,8,6
+Katrine Elliot,Familie venner,8,6
+Oliver Elliot,Familie venner,8,6
+William Elliot,Familie venner,8,6
+Roland,Familie venner,8,4
+Katrine (fars veninde),Familie venner,8,6
+Nora (Katrine),Familie venner,8,6
+Julia,TG,8,6
+Laura Appel,TG,8,6
+Halfdan,MK31,8,6
+Daniel,MK31,8,6
+August,MK31,8,4
+Balthazar,CG,8,6
+Mikkel,CG,8,6
+Anton,CG,8,6
+Elias,CG,8,6
+Noah,CG,8,6
+Rachel,CG,8,6
+Freja Smilla,CG,8,6
+Nefer,CG,8,6
+Alvilda,CG,8,6
+Marie,CG,8,6
+Johannes,CG,8,6
+Jasper,CG,8,6
+Philip ,CG,8,6
+Aslak ,CG,8,6
+Theo ,CG,8,6
+Emil Dam,CG,8,6
+Emil Mujacic ,CG,8,6
+Magnus Levanius,Noah,8,6
+Hans Vest,Anton,8,6
+Tobias Frimurer,Anton,8,6
+Alexandra,LMS,8,6
+Cille,LMS,8,6
+Cecilie Juul,LMS,8,6
+Liva,LMS,8,6
+Frederikke,LMS,8,6
+Maya Msafiri,Ingolfs,8,6
+Baldur,Ingolfs,8,6
+Martin Hemmingsen,Ingolfs,8,6
+Gustav Kokkelev,Ingolfs,8,6
+Steen,DGI,8,6
+Marike,DGI,8,6
+Kimberly,DGI,8,6
+Jasmin,DGI,8,6
+Viktor,DGI,8,6
+Tina Andersen,DGI,8,6
+Steven,Film,8,6
+Roni,Film,8,6
+Bakir,Film,8,6
+Mathilde,Film,8,6
+Dagmar,Krogerup,8,6
+Viktoria,Krogerup,8,6
+Mai,Krogerup,8,6
+Magnus Velling,Krogerup,8,6
+Albert Fink,Krogerup,8,6
+Asger,Krogerup,8,6
+Johan Mussmann,Krogerup,8,6
+Signe,Krogerup,8,6
+Clara Roslev,Krogerup,8,6
+Villads Tynell,Krogerup,8,6
+Therese,Krogerup,8,6
+Carl,Familie,8,6
+Pernille,Familie,8,6
+Laura Welinder,Skoleskibet,8,6
+Lukas,Skoleskibet,8,6
+Rosa,Skoleskibet,8,6
+Rose,Skoleskibet,8,6
+Oliver,Skoleskibet,8,6
+Jonas Ullman,Skoleskibet,8,6
+Sara Svendsen,Skoleskibet,8,6
+Jacob Tryk,Skoleskibet,8,6
+Johan Fischer,Skoleskibet,8,6
+Mie Wieder,Skoleskibet,8,6
+Anna Bertoli,Anton,8,6
+Ida,Familie,8,6
+Viktor,Familie,8,6
+Johan,Familie,8,6
+Nor,OD,8,6
+Mattis ,Nor,8,6
+Tania ,Nor,8,6
+Peter,Nor,8,6
+Oskar,OD,8,6
+Ella Moskvitin,OD,8,6
+Lise,OD,8,6
+Elisabeth,OD,8,6
+Carl-Auguste,OD,8,6
+Katinka,OD,8,6
+Hanne,OD,8,6
+Juli,OD,8,6
+Maj Navntoft,OD,8,6
+Celine Mina,OD,8,6
+Jad,OD,8,6
+Maher,OD,8,6
+Sigge,OD,8,6
+Tine Dam,DGUB,8,6
+Vibeke,DGUB,8,6
+Abbe,DFUNK,8,6
+Yonis,DFUNK,8,6
+Fidan,DFUNK,8,6
+Zainab,DFUNK,8,6
+Medina,DFUNK,8,6
+Feodora,Balthazar,8,6
+Rasmus Tiemann,Balthazar,8,6
+Thomsen,BRSB,8,6
+Tranberg,BRSB,8,6
+Schødt,BRSB,8,6
+Oscar,BRSB,8,6
+Max,BRSB,8,6
+Grønne,BRSB,8,6
+Maul,BRSB,8,6
+Svendsen,BRSB,8,6
+Bjørskov,BRSB,8,6
+Auken,BRSB,8,6
+Elgstrøm,BRSB,8,6
+Randløv,BRSB,8,6
+Caroline,Vietnam,8,6
+Thien,Vietnam,8,6
+Ida Gunge,Balthazar,8,6
+Viola,Balthazar,8,6
+Cammi,Noah,8,6
+Anna Schultz,Lukas,8,6
+Kasper ,Dea,8,6
+Kristoffer Kjær,Beboerhuset,8,6
+Carla,30B,8,6
+Emma,30B,8,6
+Søren La Cour,30B,8,6
+Lydia,DMJX,8,6
+Martha,DMJX,8,6
+Frida,DMJX,8,6
+David,DMJX,8,6
+William ,DMJX,8,6
+Emil,DMJX,8,6
+Rasmus,DMJX,8,6
+Sahra,DMJX,8,6
+Sarah Albæk,DMJX,8,6
+Sarah Nørgaard,DMJX,8,6
+Julie Brande Bæk,DMJX,8,6
+Chzisztof,GJK,8,6
+Mikkel Grønjords,GJK,8,6
+Tiantian,GJK,8,6
+Chaiti,GJK,8,6
+Dipok,GJK,8,6
+Sarah Cornelia,GJK,8,6
+Sarah Cornelia,GJK,8,6
+Mia,MIG,9,0
+Mor,Familie,9,1
+Far,Familie,9,1
+Baka Nena,Familie,9,2
+Zirajeta,Familie venner,9,5
+Teta Mini,Familie,9,3
+Dundo,Familie,9,4
+Stara Baka,Familie,9,3
+Dida Zlatko,Familie,9,3
+Freja,Familie,9,1
+Farmor,Familie,9,2
+Farfar,Familie,9,2
+Anika,Familie,9,2
+Laura Byskov,Familie,9,2
+Nikolaj,Familie,9,2
+Frederik,Familie,9,2
+Mathias ,Familie,9,3
+Kasper,Familie,9,3
+Nanna,FS Rosa,9,5
+Laura,FS Rosa,9,5
+Dea,LPS,9,2
+Fatmir,Dea,9,3
+Linda,Dea,9,3
+Henriette,LPS,9,1
+Tim,Henriette,9,3
+Trine,Henriette,9,3
+Cecilie,LPS,9,3
+Sarah S,LPS,9,3
+Sofia,LPS,9,3
+Vanessa,LPS,9,3
+August Trier,LPS,9,3
+Mathias,LPS,9,3
+Carl Terp,LPS,9,3
+Omar ,LPS,9,5
+Andreas Lærer,LPS,9,3
+Christiane Lærer,LPS,9,3
+Charlotte Lærer,LPS,9,6
+Kirsten Lærer,LPS,9,6
+Rasmus Lærer,LPS,9,6
+Ram,AVK,9,6
+Molly Walbum,AVK,9,6
+Didde Siig,AVK,9,6
+Frederikke Winther,AVK,9,6
+Alice Wendelin,AVK,9,6
+Alfa ,MK31,9,6
+Dominika ,MK31,9,6
+Ella,Familie,9,6
+Anders,Familie,9,6
+Rigmor,Familie,9,6
+Sigrid,Familie,9,6
+Anna Marie Dahl,Familie,9,6
+Jens Christian,Familie,9,6
+Thomas ,Familie,9,6
+Anette,Familie,9,6
+Edwin,Familie,9,6
+Edith,Familie,9,6
+August Ballhorn,Familie venner,9,6
+Tanja Ballhorn,Familie venner,9,6
+Katrine Elliot,Familie venner,9,6
+Oliver Elliot,Familie venner,9,6
+William Elliot,Familie venner,9,6
+Roland,Familie venner,9,4
+Katrine (fars veninde),Familie venner,9,6
+Nora (Katrine),Familie venner,9,6
+Julia,TG,9,6
+Laura Appel,TG,9,6
+Halfdan,MK31,9,6
+Daniel,MK31,9,6
+August,MK31,9,4
+Balthazar,CG,9,6
+Mikkel,CG,9,6
+Anton,CG,9,6
+Elias,CG,9,6
+Noah,CG,9,6
+Rachel,CG,9,6
+Freja Smilla,CG,9,6
+Nefer,CG,9,6
+Alvilda,CG,9,6
+Marie,CG,9,6
+Johannes,CG,9,6
+Jasper,CG,9,6
+Philip ,CG,9,6
+Aslak ,CG,9,6
+Theo ,CG,9,6
+Emil Dam,CG,9,6
+Emil Mujacic ,CG,9,6
+Magnus Levanius,Noah,9,6
+Hans Vest,Anton,9,6
+Tobias Frimurer,Anton,9,6
+Alexandra,LMS,9,6
+Cille,LMS,9,6
+Cecilie Juul,LMS,9,6
+Liva,LMS,9,6
+Frederikke,LMS,9,6
+Maya Msafiri,Ingolfs,9,6
+Baldur,Ingolfs,9,6
+Martin Hemmingsen,Ingolfs,9,6
+Gustav Kokkelev,Ingolfs,9,6
+Steen,DGI,9,6
+Marike,DGI,9,6
+Kimberly,DGI,9,6
+Jasmin,DGI,9,6
+Viktor,DGI,9,6
+Tina Andersen,DGI,9,6
+Steven,Film,9,6
+Roni,Film,9,6
+Bakir,Film,9,6
+Mathilde,Film,9,6
+Dagmar,Krogerup,9,6
+Viktoria,Krogerup,9,6
+Mai,Krogerup,9,6
+Magnus Velling,Krogerup,9,6
+Albert Fink,Krogerup,9,6
+Asger,Krogerup,9,6
+Johan Mussmann,Krogerup,9,6
+Signe,Krogerup,9,6
+Clara Roslev,Krogerup,9,6
+Villads Tynell,Krogerup,9,6
+Therese,Krogerup,9,6
+Carl,Familie,9,6
+Pernille,Familie,9,6
+Laura Welinder,Skoleskibet,9,6
+Lukas,Skoleskibet,9,6
+Rosa,Skoleskibet,9,6
+Rose,Skoleskibet,9,6
+Oliver,Skoleskibet,9,6
+Jonas Ullman,Skoleskibet,9,6
+Sara Svendsen,Skoleskibet,9,6
+Jacob Tryk,Skoleskibet,9,6
+Johan Fischer,Skoleskibet,9,6
+Mie Wieder,Skoleskibet,9,6
+Anna Bertoli,Anton,9,6
+Ida,Familie,9,6
+Viktor,Familie,9,6
+Johan,Familie,9,6
+Nor,OD,9,6
+Mattis ,Nor,9,6
+Tania ,Nor,9,6
+Peter,Nor,9,6
+Oskar,OD,9,6
+Ella Moskvitin,OD,9,6
+Lise,OD,9,6
+Elisabeth,OD,9,6
+Carl-Auguste,OD,9,6
+Katinka,OD,9,6
+Hanne,OD,9,6
+Juli,OD,9,6
+Maj Navntoft,OD,9,6
+Celine Mina,OD,9,6
+Jad,OD,9,6
+Maher,OD,9,6
+Sigge,OD,9,6
+Tine Dam,DGUB,9,6
+Vibeke,DGUB,9,6
+Abbe,DFUNK,9,6
+Yonis,DFUNK,9,6
+Fidan,DFUNK,9,6
+Zainab,DFUNK,9,6
+Medina,DFUNK,9,6
+Feodora,Balthazar,9,6
+Rasmus Tiemann,Balthazar,9,6
+Thomsen,BRSB,9,6
+Tranberg,BRSB,9,6
+Schødt,BRSB,9,6
+Oscar,BRSB,9,6
+Max,BRSB,9,6
+Grønne,BRSB,9,6
+Maul,BRSB,9,6
+Svendsen,BRSB,9,6
+Bjørskov,BRSB,9,6
+Auken,BRSB,9,6
+Elgstrøm,BRSB,9,6
+Randløv,BRSB,9,6
+Caroline,Vietnam,9,6
+Thien,Vietnam,9,6
+Ida Gunge,Balthazar,9,6
+Viola,Balthazar,9,6
+Cammi,Noah,9,6
+Anna Schultz,Lukas,9,6
+Kasper ,Dea,9,6
+Kristoffer Kjær,Beboerhuset,9,6
+Carla,30B,9,6
+Emma,30B,9,6
+Søren La Cour,30B,9,6
+Lydia,DMJX,9,6
+Martha,DMJX,9,6
+Frida,DMJX,9,6
+David,DMJX,9,6
+William ,DMJX,9,6
+Emil,DMJX,9,6
+Rasmus,DMJX,9,6
+Sahra,DMJX,9,6
+Sarah Albæk,DMJX,9,6
+Sarah Nørgaard,DMJX,9,6
+Julie Brande Bæk,DMJX,9,6
+Chzisztof,GJK,9,6
+Mikkel Grønjords,GJK,9,6
+Tiantian,GJK,9,6
+Chaiti,GJK,9,6
+Dipok,GJK,9,6
+Sarah Cornelia,GJK,9,6
+Sarah Cornelia,GJK,9,6
+Mia,MIG,10,0
+Mor,Familie,10,1
+Far,Familie,10,1
+Baka Nena,Familie,10,2
+Zirajeta,Familie venner,10,5
+Teta Mini,Familie,10,3
+Dundo,Familie,10,4
+Stara Baka,Familie,10,3
+Dida Zlatko,Familie,10,3
+Freja,Familie,10,1
+Farmor,Familie,10,2
+Farfar,Familie,10,2
+Anika,Familie,10,2
+Laura Byskov,Familie,10,2
+Nikolaj,Familie,10,2
+Frederik,Familie,10,2
+Mathias ,Familie,10,3
+Kasper,Familie,10,3
+Nanna,FS Rosa,10,5
+Laura,FS Rosa,10,5
+Dea,LPS,10,2
+Fatmir,Dea,10,3
+Linda,Dea,10,3
+Henriette,LPS,10,2
+Tim,Henriette,10,3
+Trine,Henriette,10,3
+Cecilie,LPS,10,3
+Sarah S,LPS,10,3
+Sofia,LPS,10,3
+Vanessa,LPS,10,3
+August Trier,LPS,10,3
+Mathias,LPS,10,3
+Carl Terp,LPS,10,3
+Omar ,LPS,10,5
+Andreas Lærer,LPS,10,3
+Christiane Lærer,LPS,10,3
+Charlotte Lærer,LPS,10,3
+Kirsten Lærer,LPS,10,6
+Rasmus Lærer,LPS,10,6
+Ram,AVK,10,6
+Molly Walbum,AVK,10,6
+Didde Siig,AVK,10,6
+Frederikke Winther,AVK,10,6
+Alice Wendelin,AVK,10,6
+Alfa ,MK31,10,6
+Dominika ,MK31,10,6
+Ella,Familie,10,6
+Anders,Familie,10,1
+Rigmor,Familie,10,2
+Sigrid,Familie,10,2
+Anna Marie Dahl,Familie,10,3
+Jens Christian,Familie,10,3
+Thomas ,Familie,10,3
+Anette,Familie,10,3
+Edwin,Familie,10,3
+Edith,Familie,10,3
+August Ballhorn,Familie venner,10,3
+Tanja Ballhorn,Familie venner,10,3
+Katrine Elliot,Familie venner,10,6
+Oliver Elliot,Familie venner,10,6
+William Elliot,Familie venner,10,6
+Roland,Familie venner,10,4
+Katrine (fars veninde),Familie venner,10,3
+Nora (Katrine),Familie venner,10,3
+Julia,TG,10,6
+Laura Appel,TG,10,6
+Halfdan,MK31,10,6
+Daniel,MK31,10,6
+August,MK31,10,4
+Balthazar,CG,10,6
+Mikkel,CG,10,6
+Anton,CG,10,6
+Elias,CG,10,6
+Noah,CG,10,6
+Rachel,CG,10,6
+Freja Smilla,CG,10,6
+Nefer,CG,10,6
+Alvilda,CG,10,6
+Marie,CG,10,6
+Johannes,CG,10,6
+Jasper,CG,10,6
+Philip ,CG,10,6
+Aslak ,CG,10,6
+Theo ,CG,10,6
+Emil Dam,CG,10,6
+Emil Mujacic ,CG,10,6
+Magnus Levanius,Noah,10,6
+Hans Vest,Anton,10,6
+Tobias Frimurer,Anton,10,6
+Alexandra,LMS,10,6
+Cille,LMS,10,6
+Cecilie Juul,LMS,10,6
+Liva,LMS,10,6
+Frederikke,LMS,10,6
+Maya Msafiri,Ingolfs,10,6
+Baldur,Ingolfs,10,6
+Martin Hemmingsen,Ingolfs,10,6
+Gustav Kokkelev,Ingolfs,10,6
+Steen,DGI,10,6
+Marike,DGI,10,6
+Kimberly,DGI,10,6
+Jasmin,DGI,10,6
+Viktor,DGI,10,6
+Tina Andersen,DGI,10,6
+Steven,Film,10,6
+Roni,Film,10,6
+Bakir,Film,10,6
+Mathilde,Film,10,6
+Dagmar,Krogerup,10,6
+Viktoria,Krogerup,10,6
+Mai,Krogerup,10,6
+Magnus Velling,Krogerup,10,6
+Albert Fink,Krogerup,10,6
+Asger,Krogerup,10,6
+Johan Mussmann,Krogerup,10,6
+Signe,Krogerup,10,6
+Clara Roslev,Krogerup,10,6
+Villads Tynell,Krogerup,10,6
+Therese,Krogerup,10,6
+Carl,Familie,10,6
+Pernille,Familie,10,6
+Laura Welinder,Skoleskibet,10,6
+Lukas,Skoleskibet,10,6
+Rosa,Skoleskibet,10,6
+Rose,Skoleskibet,10,6
+Oliver,Skoleskibet,10,6
+Jonas Ullman,Skoleskibet,10,6
+Sara Svendsen,Skoleskibet,10,6
+Jacob Tryk,Skoleskibet,10,6
+Johan Fischer,Skoleskibet,10,6
+Mie Wieder,Skoleskibet,10,6
+Anna Bertoli,Anton,10,6
+Ida,Familie,10,6
+Viktor,Familie,10,6
+Johan,Familie,10,6
+Nor,OD,10,6
+Mattis ,Nor,10,6
+Tania ,Nor,10,6
+Peter,Nor,10,6
+Oskar,OD,10,6
+Ella Moskvitin,OD,10,6
+Lise,OD,10,6
+Elisabeth,OD,10,6
+Carl-Auguste,OD,10,6
+Katinka,OD,10,6
+Hanne,OD,10,6
+Juli,OD,10,6
+Maj Navntoft,OD,10,6
+Celine Mina,OD,10,6
+Jad,OD,10,6
+Maher,OD,10,6
+Sigge,OD,10,6
+Tine Dam,DGUB,10,6
+Vibeke,DGUB,10,6
+Abbe,DFUNK,10,6
+Yonis,DFUNK,10,6
+Fidan,DFUNK,10,6
+Zainab,DFUNK,10,6
+Medina,DFUNK,10,6
+Feodora,Balthazar,10,6
+Rasmus Tiemann,Balthazar,10,6
+Thomsen,BRSB,10,6
+Tranberg,BRSB,10,6
+Schødt,BRSB,10,6
+Oscar,BRSB,10,6
+Max,BRSB,10,6
+Grønne,BRSB,10,6
+Maul,BRSB,10,6
+Svendsen,BRSB,10,6
+Bjørskov,BRSB,10,6
+Auken,BRSB,10,6
+Elgstrøm,BRSB,10,6
+Randløv,BRSB,10,6
+Caroline,Vietnam,10,6
+Thien,Vietnam,10,6
+Ida Gunge,Balthazar,10,6
+Viola,Balthazar,10,6
+Cammi,Noah,10,6
+Anna Schultz,Lukas,10,6
+Kasper ,Dea,10,6
+Kristoffer Kjær,Beboerhuset,10,6
+Carla,30B,10,6
+Emma,30B,10,6
+Søren La Cour,30B,10,6
+Lydia,DMJX,10,6
+Martha,DMJX,10,6
+Frida,DMJX,10,6
+David,DMJX,10,6
+William ,DMJX,10,6
+Emil,DMJX,10,6
+Rasmus,DMJX,10,6
+Sahra,DMJX,10,6
+Sarah Albæk,DMJX,10,6
+Sarah Nørgaard,DMJX,10,6
+Julie Brande Bæk,DMJX,10,6
+Chzisztof,GJK,10,6
+Mikkel Grønjords,GJK,10,6
+Tiantian,GJK,10,6
+Chaiti,GJK,10,6
+Dipok,GJK,10,6
+Sarah Cornelia,GJK,10,6
+Sarah Cornelia,GJK,10,6
+Mia,MIG,11,0
+Mor,Familie,11,1
+Far,Familie,11,1
+Baka Nena,Familie,11,2
+Zirajeta,Familie venner,11,5
+Teta Mini,Familie,11,3
+Dundo,Familie,11,4
+Stara Baka,Familie,11,3
+Dida Zlatko,Familie,11,3
+Freja,Familie,11,1
+Farmor,Familie,11,2
+Farfar,Familie,11,2
+Anika,Familie,11,2
+Laura Byskov,Familie,11,2
+Nikolaj,Familie,11,2
+Frederik,Familie,11,2
+Mathias ,Familie,11,3
+Kasper,Familie,11,3
+Nanna,FS Rosa,11,5
+Laura,FS Rosa,11,5
+Dea,LPS,11,1
+Fatmir,Dea,11,3
+Linda,Dea,11,3
+Henriette,LPS,11,2
+Tim,Henriette,11,3
+Trine,Henriette,11,3
+Cecilie,LPS,11,3
+Sarah S,LPS,11,2
+Sofia,LPS,11,3
+Vanessa,LPS,11,2
+August Trier,LPS,11,3
+Mathias,LPS,11,3
+Carl Terp,LPS,11,3
+Omar ,LPS,11,5
+Andreas Lærer,LPS,11,5
+Christiane Lærer,LPS,11,3
+Charlotte Lærer,LPS,11,3
+Kirsten Lærer,LPS,11,6
+Rasmus Lærer,LPS,11,6
+Ram,AVK,11,6
+Molly Walbum,AVK,11,6
+Didde Siig,AVK,11,6
+Frederikke Winther,AVK,11,6
+Alice Wendelin,AVK,11,6
+Alfa ,MK31,11,6
+Dominika ,MK31,11,6
+Ella,Familie,11,6
+Anders,Familie,11,1
+Rigmor,Familie,11,2
+Sigrid,Familie,11,2
+Anna Marie Dahl,Familie,11,3
+Jens Christian,Familie,11,3
+Thomas ,Familie,11,3
+Anette,Familie,11,3
+Edwin,Familie,11,3
+Edith,Familie,11,3
+August Ballhorn,Familie venner,11,3
+Tanja Ballhorn,Familie venner,11,3
+Katrine Elliot,Familie venner,11,6
+Oliver Elliot,Familie venner,11,6
+William Elliot,Familie venner,11,6
+Roland,Familie venner,11,4
+Katrine (fars veninde),Familie venner,11,2
+Nora (Katrine),Familie venner,11,2
+Julia,TG,11,6
+Laura Appel,TG,11,6
+Halfdan,MK31,11,6
+Daniel,MK31,11,6
+August,MK31,11,4
+Balthazar,CG,11,6
+Mikkel,CG,11,6
+Anton,CG,11,6
+Elias,CG,11,6
+Noah,CG,11,6
+Rachel,CG,11,6
+Freja Smilla,CG,11,6
+Nefer,CG,11,6
+Alvilda,CG,11,6
+Marie,CG,11,6
+Johannes,CG,11,6
+Jasper,CG,11,6
+Philip ,CG,11,6
+Aslak ,CG,11,6
+Theo ,CG,11,6
+Emil Dam,CG,11,6
+Emil Mujacic ,CG,11,6
+Magnus Levanius,Noah,11,6
+Hans Vest,Anton,11,6
+Tobias Frimurer,Anton,11,6
+Alexandra,LMS,11,6
+Cille,LMS,11,6
+Cecilie Juul,LMS,11,6
+Liva,LMS,11,6
+Frederikke,LMS,11,6
+Maya Msafiri,Ingolfs,11,6
+Baldur,Ingolfs,11,6
+Martin Hemmingsen,Ingolfs,11,6
+Gustav Kokkelev,Ingolfs,11,6
+Steen,DGI,11,6
+Marike,DGI,11,6
+Kimberly,DGI,11,6
+Jasmin,DGI,11,6
+Viktor,DGI,11,6
+Tina Andersen,DGI,11,6
+Steven,Film,11,6
+Roni,Film,11,6
+Bakir,Film,11,6
+Mathilde,Film,11,6
+Dagmar,Krogerup,11,6
+Viktoria,Krogerup,11,6
+Mai,Krogerup,11,6
+Magnus Velling,Krogerup,11,6
+Albert Fink,Krogerup,11,6
+Asger,Krogerup,11,6
+Johan Mussmann,Krogerup,11,6
+Signe,Krogerup,11,6
+Clara Roslev,Krogerup,11,6
+Villads Tynell,Krogerup,11,6
+Therese,Krogerup,11,6
+Carl,Familie,11,6
+Pernille,Familie,11,6
+Laura Welinder,Skoleskibet,11,6
+Lukas,Skoleskibet,11,6
+Rosa,Skoleskibet,11,6
+Rose,Skoleskibet,11,6
+Oliver,Skoleskibet,11,6
+Jonas Ullman,Skoleskibet,11,6
+Sara Svendsen,Skoleskibet,11,6
+Jacob Tryk,Skoleskibet,11,6
+Johan Fischer,Skoleskibet,11,6
+Mie Wieder,Skoleskibet,11,6
+Anna Bertoli,Anton,11,6
+Ida,Familie,11,6
+Viktor,Familie,11,6
+Johan,Familie,11,6
+Nor,OD,11,6
+Mattis ,Nor,11,6
+Tania ,Nor,11,6
+Peter,Nor,11,6
+Oskar,OD,11,6
+Ella Moskvitin,OD,11,6
+Lise,OD,11,6
+Elisabeth,OD,11,6
+Carl-Auguste,OD,11,6
+Katinka,OD,11,6
+Hanne,OD,11,6
+Juli,OD,11,6
+Maj Navntoft,OD,11,6
+Celine Mina,OD,11,6
+Jad,OD,11,6
+Maher,OD,11,6
+Sigge,OD,11,6
+Tine Dam,DGUB,11,6
+Vibeke,DGUB,11,6
+Abbe,DFUNK,11,6
+Yonis,DFUNK,11,6
+Fidan,DFUNK,11,6
+Zainab,DFUNK,11,6
+Medina,DFUNK,11,6
+Feodora,Balthazar,11,6
+Rasmus Tiemann,Balthazar,11,6
+Thomsen,BRSB,11,6
+Tranberg,BRSB,11,6
+Schødt,BRSB,11,6
+Oscar,BRSB,11,6
+Max,BRSB,11,6
+Grønne,BRSB,11,6
+Maul,BRSB,11,6
+Svendsen,BRSB,11,6
+Bjørskov,BRSB,11,6
+Auken,BRSB,11,6
+Elgstrøm,BRSB,11,6
+Randløv,BRSB,11,6
+Caroline,Vietnam,11,6
+Thien,Vietnam,11,6
+Ida Gunge,Balthazar,11,6
+Viola,Balthazar,11,6
+Cammi,Noah,11,6
+Anna Schultz,Lukas,11,6
+Kasper ,Dea,11,6
+Kristoffer Kjær,Beboerhuset,11,6
+Carla,30B,11,6
+Emma,30B,11,6
+Søren La Cour,30B,11,6
+Lydia,DMJX,11,6
+Martha,DMJX,11,6
+Frida,DMJX,11,6
+David,DMJX,11,6
+William ,DMJX,11,6
+Emil,DMJX,11,6
+Rasmus,DMJX,11,6
+Sahra,DMJX,11,6
+Sarah Albæk,DMJX,11,6
+Sarah Nørgaard,DMJX,11,6
+Julie Brande Bæk,DMJX,11,6
+Chzisztof,GJK,11,6
+Mikkel Grønjords,GJK,11,6
+Tiantian,GJK,11,6
+Chaiti,GJK,11,6
+Dipok,GJK,11,6
+Sarah Cornelia,GJK,11,6
+Sarah Cornelia,GJK,11,6
+Mia,MIG,12,0
+Mor,Familie,12,1
+Far,Familie,12,1
+Baka Nena,Familie,12,2
+Zirajeta,Familie venner,12,5
+Teta Mini,Familie,12,3
+Dundo,Familie,12,4
+Stara Baka,Familie,12,3
+Dida Zlatko,Familie,12,3
+Freja,Familie,12,1
+Farmor,Familie,12,2
+Farfar,Familie,12,2
+Anika,Familie,12,2
+Laura Byskov,Familie,12,2
+Nikolaj,Familie,12,2
+Frederik,Familie,12,2
+Mathias ,Familie,12,3
+Kasper,Familie,12,3
+Nanna,FS Rosa,12,5
+Laura,FS Rosa,12,5
+Dea,LPS,12,1
+Fatmir,Dea,12,3
+Linda,Dea,12,3
+Henriette,LPS,12,2
+Tim,Henriette,12,3
+Trine,Henriette,12,3
+Cecilie,LPS,12,3
+Sarah S,LPS,12,2
+Sofia,LPS,12,3
+Vanessa,LPS,12,2
+August Trier,LPS,12,4
+Mathias,LPS,12,3
+Carl Terp,LPS,12,3
+Omar ,LPS,12,5
+Andreas Lærer,LPS,12,5
+Christiane Lærer,LPS,12,3
+Charlotte Lærer,LPS,12,3
+Kirsten Lærer,LPS,12,3
+Rasmus Lærer,LPS,12,6
+Ram,AVK,12,6
+Molly Walbum,AVK,12,6
+Didde Siig,AVK,12,6
+Frederikke Winther,AVK,12,6
+Alice Wendelin,AVK,12,6
+Alfa ,MK31,12,6
+Dominika ,MK31,12,6
+Ella,Familie,12,6
+Anders,Familie,12,1
+Rigmor,Familie,12,2
+Sigrid,Familie,12,2
+Anna Marie Dahl,Familie,12,3
+Jens Christian,Familie,12,3
+Thomas ,Familie,12,3
+Anette,Familie,12,3
+Edwin,Familie,12,3
+Edith,Familie,12,3
+August Ballhorn,Familie venner,12,3
+Tanja Ballhorn,Familie venner,12,3
+Katrine Elliot,Familie venner,12,2
+Oliver Elliot,Familie venner,12,2
+William Elliot,Familie venner,12,2
+Roland,Familie venner,12,4
+Katrine (fars veninde),Familie venner,12,3
+Nora (Katrine),Familie venner,12,3
+Julia,TG,12,6
+Laura Appel,TG,12,6
+Halfdan,MK31,12,6
+Daniel,MK31,12,6
+August,MK31,12,4
+Balthazar,CG,12,6
+Mikkel,CG,12,6
+Anton,CG,12,6
+Elias,CG,12,6
+Noah,CG,12,6
+Rachel,CG,12,6
+Freja Smilla,CG,12,6
+Nefer,CG,12,6
+Alvilda,CG,12,6
+Marie,CG,12,6
+Johannes,CG,12,6
+Jasper,CG,12,6
+Philip ,CG,12,6
+Aslak ,CG,12,6
+Theo ,CG,12,6
+Emil Dam,CG,12,6
+Emil Mujacic ,CG,12,6
+Magnus Levanius,Noah,12,6
+Hans Vest,Anton,12,6
+Tobias Frimurer,Anton,12,6
+Alexandra,LMS,12,6
+Cille,LMS,12,6
+Cecilie Juul,LMS,12,6
+Liva,LMS,12,6
+Frederikke,LMS,12,6
+Maya Msafiri,Ingolfs,12,6
+Baldur,Ingolfs,12,6
+Martin Hemmingsen,Ingolfs,12,6
+Gustav Kokkelev,Ingolfs,12,6
+Steen,DGI,12,6
+Marike,DGI,12,6
+Kimberly,DGI,12,6
+Jasmin,DGI,12,6
+Viktor,DGI,12,6
+Tina Andersen,DGI,12,6
+Steven,Film,12,6
+Roni,Film,12,6
+Bakir,Film,12,6
+Mathilde,Film,12,6
+Dagmar,Krogerup,12,6
+Viktoria,Krogerup,12,6
+Mai,Krogerup,12,6
+Magnus Velling,Krogerup,12,6
+Albert Fink,Krogerup,12,6
+Asger,Krogerup,12,6
+Johan Mussmann,Krogerup,12,6
+Signe,Krogerup,12,6
+Clara Roslev,Krogerup,12,6
+Villads Tynell,Krogerup,12,6
+Therese,Krogerup,12,6
+Carl,Familie,12,6
+Pernille,Familie,12,6
+Laura Welinder,Skoleskibet,12,6
+Lukas,Skoleskibet,12,6
+Rosa,Skoleskibet,12,6
+Rose,Skoleskibet,12,6
+Oliver,Skoleskibet,12,6
+Jonas Ullman,Skoleskibet,12,6
+Sara Svendsen,Skoleskibet,12,6
+Jacob Tryk,Skoleskibet,12,6
+Johan Fischer,Skoleskibet,12,6
+Mie Wieder,Skoleskibet,12,6
+Anna Bertoli,Anton,12,6
+Ida,Familie,12,6
+Viktor,Familie,12,6
+Johan,Familie,12,6
+Nor,OD,12,6
+Mattis ,Nor,12,6
+Tania ,Nor,12,6
+Peter,Nor,12,6
+Oskar,OD,12,6
+Ella Moskvitin,OD,12,6
+Lise,OD,12,6
+Elisabeth,OD,12,6
+Carl-Auguste,OD,12,6
+Katinka,OD,12,6
+Hanne,OD,12,6
+Juli,OD,12,6
+Maj Navntoft,OD,12,6
+Celine Mina,OD,12,6
+Jad,OD,12,6
+Maher,OD,12,6
+Sigge,OD,12,6
+Tine Dam,DGUB,12,6
+Vibeke,DGUB,12,6
+Abbe,DFUNK,12,6
+Yonis,DFUNK,12,6
+Fidan,DFUNK,12,6
+Zainab,DFUNK,12,6
+Medina,DFUNK,12,6
+Feodora,Balthazar,12,6
+Rasmus Tiemann,Balthazar,12,6
+Thomsen,BRSB,12,6
+Tranberg,BRSB,12,6
+Schødt,BRSB,12,6
+Oscar,BRSB,12,6
+Max,BRSB,12,6
+Grønne,BRSB,12,6
+Maul,BRSB,12,6
+Svendsen,BRSB,12,6
+Bjørskov,BRSB,12,6
+Auken,BRSB,12,6
+Elgstrøm,BRSB,12,6
+Randløv,BRSB,12,6
+Caroline,Vietnam,12,6
+Thien,Vietnam,12,6
+Ida Gunge,Balthazar,12,6
+Viola,Balthazar,12,6
+Cammi,Noah,12,6
+Anna Schultz,Lukas,12,6
+Kasper ,Dea,12,6
+Kristoffer Kjær,Beboerhuset,12,6
+Carla,30B,12,6
+Emma,30B,12,6
+Søren La Cour,30B,12,6
+Lydia,DMJX,12,6
+Martha,DMJX,12,6
+Frida,DMJX,12,6
+David,DMJX,12,6
+William ,DMJX,12,6
+Emil,DMJX,12,6
+Rasmus,DMJX,12,6
+Sahra,DMJX,12,6
+Sarah Albæk,DMJX,12,6
+Sarah Nørgaard,DMJX,12,6
+Julie Brande Bæk,DMJX,12,6
+Chzisztof,GJK,12,6
+Mikkel Grønjords,GJK,12,6
+Tiantian,GJK,12,6
+Chaiti,GJK,12,6
+Dipok,GJK,12,6
+Sarah Cornelia,GJK,12,6
+Sarah Cornelia,GJK,12,6
+Mia,MIG,13,0
+Mor,Familie,13,1
+Far,Familie,13,1
+Baka Nena,Familie,13,2
+Zirajeta,Familie venner,13,5
+Teta Mini,Familie,13,3
+Dundo,Familie,13,4
+Stara Baka,Familie,13,3
+Dida Zlatko,Familie,13,7
+Freja,Familie,13,1
+Farmor,Familie,13,2
+Farfar,Familie,13,2
+Anika,Familie,13,2
+Laura Byskov,Familie,13,2
+Nikolaj,Familie,13,2
+Frederik,Familie,13,2
+Mathias ,Familie,13,3
+Kasper,Familie,13,3
+Nanna,FS Rosa,13,5
+Laura,FS Rosa,13,5
+Dea,LPS,13,1
+Fatmir,Dea,13,3
+Linda,Dea,13,3
+Henriette,LPS,13,2
+Tim,Henriette,13,3
+Trine,Henriette,13,3
+Cecilie,LPS,13,3
+Sarah S,LPS,13,4
+Sofia,LPS,13,2
+Vanessa,LPS,13,3
+August Trier,LPS,13,4
+Mathias,LPS,13,3
+Carl Terp,LPS,13,3
+Omar ,LPS,13,5
+Andreas Lærer,LPS,13,5
+Christiane Lærer,LPS,13,5
+Charlotte Lærer,LPS,13,3
+Kirsten Lærer,LPS,13,3
+Rasmus Lærer,LPS,13,6
+Ram,AVK,13,4
+Molly Walbum,AVK,13,4
+Didde Siig,AVK,13,4
+Frederikke Winther,AVK,13,4
+Alice Wendelin,AVK,13,6
+Alfa ,MK31,13,6
+Dominika ,MK31,13,6
+Ella,Familie,13,1
+Anders,Familie,13,1
+Rigmor,Familie,13,2
+Sigrid,Familie,13,2
+Anna Marie Dahl,Familie,13,3
+Jens Christian,Familie,13,3
+Thomas ,Familie,13,3
+Anette,Familie,13,3
+Edwin,Familie,13,3
+Edith,Familie,13,3
+August Ballhorn,Familie venner,13,3
+Tanja Ballhorn,Familie venner,13,3
+Katrine Elliot,Familie venner,13,3
+Oliver Elliot,Familie venner,13,3
+William Elliot,Familie venner,13,3
+Roland,Familie venner,13,4
+Katrine (fars veninde),Familie venner,13,4
+Nora (Katrine),Familie venner,13,4
+Julia,TG,13,6
+Laura Appel,TG,13,6
+Halfdan,MK31,13,6
+Daniel,MK31,13,6
+August,MK31,13,4
+Balthazar,CG,13,6
+Mikkel,CG,13,6
+Anton,CG,13,6
+Elias,CG,13,6
+Noah,CG,13,6
+Rachel,CG,13,6
+Freja Smilla,CG,13,6
+Nefer,CG,13,6
+Alvilda,CG,13,6
+Marie,CG,13,6
+Johannes,CG,13,6
+Jasper,CG,13,6
+Philip ,CG,13,6
+Aslak ,CG,13,6
+Theo ,CG,13,6
+Emil Dam,CG,13,6
+Emil Mujacic ,CG,13,6
+Magnus Levanius,Noah,13,6
+Hans Vest,Anton,13,6
+Tobias Frimurer,Anton,13,6
+Alexandra,LMS,13,6
+Cille,LMS,13,6
+Cecilie Juul,LMS,13,6
+Liva,LMS,13,6
+Frederikke,LMS,13,6
+Maya Msafiri,Ingolfs,13,6
+Baldur,Ingolfs,13,6
+Martin Hemmingsen,Ingolfs,13,6
+Gustav Kokkelev,Ingolfs,13,6
+Steen,DGI,13,6
+Marike,DGI,13,6
+Kimberly,DGI,13,6
+Jasmin,DGI,13,6
+Viktor,DGI,13,6
+Tina Andersen,DGI,13,6
+Steven,Film,13,6
+Roni,Film,13,6
+Bakir,Film,13,6
+Mathilde,Film,13,6
+Dagmar,Krogerup,13,6
+Viktoria,Krogerup,13,6
+Mai,Krogerup,13,6
+Magnus Velling,Krogerup,13,6
+Albert Fink,Krogerup,13,6
+Asger,Krogerup,13,6
+Johan Mussmann,Krogerup,13,6
+Signe,Krogerup,13,6
+Clara Roslev,Krogerup,13,6
+Villads Tynell,Krogerup,13,6
+Therese,Krogerup,13,6
+Carl,Familie,13,6
+Pernille,Familie,13,6
+Laura Welinder,Skoleskibet,13,6
+Lukas,Skoleskibet,13,6
+Rosa,Skoleskibet,13,6
+Rose,Skoleskibet,13,6
+Oliver,Skoleskibet,13,6
+Jonas Ullman,Skoleskibet,13,6
+Sara Svendsen,Skoleskibet,13,6
+Jacob Tryk,Skoleskibet,13,6
+Johan Fischer,Skoleskibet,13,6
+Mie Wieder,Skoleskibet,13,6
+Anna Bertoli,Anton,13,6
+Ida,Familie,13,6
+Viktor,Familie,13,6
+Johan,Familie,13,6
+Nor,OD,13,6
+Mattis ,Nor,13,6
+Tania ,Nor,13,6
+Peter,Nor,13,6
+Oskar,OD,13,6
+Ella Moskvitin,OD,13,6
+Lise,OD,13,6
+Elisabeth,OD,13,6
+Carl-Auguste,OD,13,6
+Katinka,OD,13,6
+Hanne,OD,13,6
+Juli,OD,13,6
+Maj Navntoft,OD,13,6
+Celine Mina,OD,13,6
+Jad,OD,13,6
+Maher,OD,13,6
+Sigge,OD,13,6
+Tine Dam,DGUB,13,6
+Vibeke,DGUB,13,6
+Abbe,DFUNK,13,6
+Yonis,DFUNK,13,6
+Fidan,DFUNK,13,6
+Zainab,DFUNK,13,6
+Medina,DFUNK,13,6
+Feodora,Balthazar,13,6
+Rasmus Tiemann,Balthazar,13,6
+Thomsen,BRSB,13,6
+Tranberg,BRSB,13,6
+Schødt,BRSB,13,6
+Oscar,BRSB,13,6
+Max,BRSB,13,6
+Grønne,BRSB,13,6
+Maul,BRSB,13,6
+Svendsen,BRSB,13,6
+Bjørskov,BRSB,13,6
+Auken,BRSB,13,6
+Elgstrøm,BRSB,13,6
+Randløv,BRSB,13,6
+Caroline,Vietnam,13,6
+Thien,Vietnam,13,6
+Ida Gunge,Balthazar,13,6
+Viola,Balthazar,13,6
+Cammi,Noah,13,6
+Anna Schultz,Lukas,13,6
+Kasper ,Dea,13,6
+Kristoffer Kjær,Beboerhuset,13,6
+Carla,30B,13,6
+Emma,30B,13,6
+Søren La Cour,30B,13,6
+Lydia,DMJX,13,6
+Martha,DMJX,13,6
+Frida,DMJX,13,6
+David,DMJX,13,6
+William ,DMJX,13,6
+Emil,DMJX,13,6
+Rasmus,DMJX,13,6
+Sahra,DMJX,13,6
+Sarah Albæk,DMJX,13,6
+Sarah Nørgaard,DMJX,13,6
+Julie Brande Bæk,DMJX,13,6
+Chzisztof,GJK,13,6
+Mikkel Grønjords,GJK,13,6
+Tiantian,GJK,13,6
+Chaiti,GJK,13,6
+Dipok,GJK,13,6
+Sarah Cornelia,GJK,13,6
+Sarah Cornelia,GJK,13,6
+Mia,MIG,14,0
+Mor,Familie,14,1
+Far,Familie,14,1
+Baka Nena,Familie,14,2
+Zirajeta,Familie venner,14,5
+Teta Mini,Familie,14,3
+Dundo,Familie,14,4
+Stara Baka,Familie,14,3
+Dida Zlatko,Familie,14,7
+Freja,Familie,14,1
+Farmor,Familie,14,2
+Farfar,Familie,14,2
+Anika,Familie,14,2
+Laura Byskov,Familie,14,2
+Nikolaj,Familie,14,2
+Frederik,Familie,14,2
+Mathias ,Familie,14,3
+Kasper,Familie,14,3
+Nanna,FS Rosa,14,5
+Laura,FS Rosa,14,5
+Dea,LPS,14,2
+Fatmir,Dea,14,3
+Linda,Dea,14,3
+Henriette,LPS,14,1
+Tim,Henriette,14,3
+Trine,Henriette,14,3
+Cecilie,LPS,14,3
+Sarah S,LPS,14,5
+Sofia,LPS,14,2
+Vanessa,LPS,14,3
+August Trier,LPS,14,4
+Mathias,LPS,14,3
+Carl Terp,LPS,14,3
+Omar ,LPS,14,5
+Andreas Lærer,LPS,14,5
+Christiane Lærer,LPS,14,5
+Charlotte Lærer,LPS,14,5
+Kirsten Lærer,LPS,14,3
+Rasmus Lærer,LPS,14,3
+Ram,AVK,14,3
+Molly Walbum,AVK,14,3
+Didde Siig,AVK,14,3
+Frederikke Winther,AVK,14,3
+Alice Wendelin,AVK,14,3
+Alfa ,MK31,14,6
+Dominika ,MK31,14,6
+Ella,Familie,14,1
+Anders,Familie,14,1
+Rigmor,Familie,14,2
+Sigrid,Familie,14,2
+Anna Marie Dahl,Familie,14,3
+Jens Christian,Familie,14,3
+Thomas ,Familie,14,3
+Anette,Familie,14,3
+Edwin,Familie,14,3
+Edith,Familie,14,3
+August Ballhorn,Familie venner,14,3
+Tanja Ballhorn,Familie venner,14,3
+Katrine Elliot,Familie venner,14,3
+Oliver Elliot,Familie venner,14,3
+William Elliot,Familie venner,14,3
+Roland,Familie venner,14,4
+Katrine (fars veninde),Familie venner,14,4
+Nora (Katrine),Familie venner,14,4
+Julia,TG,14,6
+Laura Appel,TG,14,6
+Halfdan,MK31,14,6
+Daniel,MK31,14,6
+August,MK31,14,4
+Balthazar,CG,14,6
+Mikkel,CG,14,6
+Anton,CG,14,6
+Elias,CG,14,6
+Noah,CG,14,6
+Rachel,CG,14,6
+Freja Smilla,CG,14,6
+Nefer,CG,14,6
+Alvilda,CG,14,6
+Marie,CG,14,6
+Johannes,CG,14,6
+Jasper,CG,14,6
+Philip ,CG,14,6
+Aslak ,CG,14,6
+Theo ,CG,14,6
+Emil Dam,CG,14,6
+Emil Mujacic ,CG,14,6
+Magnus Levanius,Noah,14,6
+Hans Vest,Anton,14,6
+Tobias Frimurer,Anton,14,6
+Alexandra,LMS,14,6
+Cille,LMS,14,6
+Cecilie Juul,LMS,14,6
+Liva,LMS,14,6
+Frederikke,LMS,14,6
+Maya Msafiri,Ingolfs,14,6
+Baldur,Ingolfs,14,6
+Martin Hemmingsen,Ingolfs,14,6
+Gustav Kokkelev,Ingolfs,14,6
+Steen,DGI,14,6
+Marike,DGI,14,6
+Kimberly,DGI,14,6
+Jasmin,DGI,14,6
+Viktor,DGI,14,6
+Tina Andersen,DGI,14,6
+Steven,Film,14,6
+Roni,Film,14,6
+Bakir,Film,14,6
+Mathilde,Film,14,6
+Dagmar,Krogerup,14,6
+Viktoria,Krogerup,14,6
+Mai,Krogerup,14,6
+Magnus Velling,Krogerup,14,6
+Albert Fink,Krogerup,14,6
+Asger,Krogerup,14,6
+Johan Mussmann,Krogerup,14,6
+Signe,Krogerup,14,6
+Clara Roslev,Krogerup,14,6
+Villads Tynell,Krogerup,14,6
+Therese,Krogerup,14,6
+Carl,Familie,14,6
+Pernille,Familie,14,6
+Laura Welinder,Skoleskibet,14,6
+Lukas,Skoleskibet,14,6
+Rosa,Skoleskibet,14,6
+Rose,Skoleskibet,14,6
+Oliver,Skoleskibet,14,6
+Jonas Ullman,Skoleskibet,14,6
+Sara Svendsen,Skoleskibet,14,6
+Jacob Tryk,Skoleskibet,14,6
+Johan Fischer,Skoleskibet,14,6
+Mie Wieder,Skoleskibet,14,6
+Anna Bertoli,Anton,14,6
+Ida,Familie,14,6
+Viktor,Familie,14,6
+Johan,Familie,14,6
+Nor,OD,14,6
+Mattis ,Nor,14,6
+Tania ,Nor,14,6
+Peter,Nor,14,6
+Oskar,OD,14,6
+Ella Moskvitin,OD,14,6
+Lise,OD,14,6
+Elisabeth,OD,14,6
+Carl-Auguste,OD,14,6
+Katinka,OD,14,6
+Hanne,OD,14,6
+Juli,OD,14,6
+Maj Navntoft,OD,14,6
+Celine Mina,OD,14,6
+Jad,OD,14,6
+Maher,OD,14,6
+Sigge,OD,14,6
+Tine Dam,DGUB,14,6
+Vibeke,DGUB,14,6
+Abbe,DFUNK,14,6
+Yonis,DFUNK,14,6
+Fidan,DFUNK,14,6
+Zainab,DFUNK,14,6
+Medina,DFUNK,14,6
+Feodora,Balthazar,14,6
+Rasmus Tiemann,Balthazar,14,6
+Thomsen,BRSB,14,6
+Tranberg,BRSB,14,6
+Schødt,BRSB,14,6
+Oscar,BRSB,14,6
+Max,BRSB,14,6
+Grønne,BRSB,14,6
+Maul,BRSB,14,6
+Svendsen,BRSB,14,6
+Bjørskov,BRSB,14,6
+Auken,BRSB,14,6
+Elgstrøm,BRSB,14,6
+Randløv,BRSB,14,6
+Caroline,Vietnam,14,6
+Thien,Vietnam,14,6
+Ida Gunge,Balthazar,14,6
+Viola,Balthazar,14,6
+Cammi,Noah,14,6
+Anna Schultz,Lukas,14,6
+Kasper ,Dea,14,6
+Kristoffer Kjær,Beboerhuset,14,6
+Carla,30B,14,6
+Emma,30B,14,6
+Søren La Cour,30B,14,6
+Lydia,DMJX,14,6
+Martha,DMJX,14,6
+Frida,DMJX,14,6
+David,DMJX,14,6
+William ,DMJX,14,6
+Emil,DMJX,14,6
+Rasmus,DMJX,14,6
+Sahra,DMJX,14,6
+Sarah Albæk,DMJX,14,6
+Sarah Nørgaard,DMJX,14,6
+Julie Brande Bæk,DMJX,14,6
+Chzisztof,GJK,14,6
+Mikkel Grønjords,GJK,14,6
+Tiantian,GJK,14,6
+Chaiti,GJK,14,6
+Dipok,GJK,14,6
+Sarah Cornelia,GJK,14,6
+Sarah Cornelia,GJK,14,6
+Mia,MIG,15,0
+Mor,Familie,15,1
+Far,Familie,15,1
+Baka Nena,Familie,15,3
+Zirajeta,Familie venner,15,5
+Teta Mini,Familie,15,3
+Dundo,Familie,15,4
+Stara Baka,Familie,15,3
+Dida Zlatko,Familie,15,7
+Freja,Familie,15,1
+Farmor,Familie,15,3
+Farfar,Familie,15,3
+Anika,Familie,15,3
+Laura Byskov,Familie,15,3
+Nikolaj,Familie,15,3
+Frederik,Familie,15,3
+Mathias ,Familie,15,3
+Kasper,Familie,15,3
+Nanna,FS Rosa,15,3
+Laura,FS Rosa,15,5
+Dea,LPS,15,2
+Fatmir,Dea,15,3
+Linda,Dea,15,3
+Henriette,LPS,15,1
+Tim,Henriette,15,3
+Trine,Henriette,15,3
+Cecilie,LPS,15,3
+Sarah S,LPS,15,5
+Sofia,LPS,15,2
+Vanessa,LPS,15,3
+August Trier,LPS,15,4
+Mathias,LPS,15,3
+Carl Terp,LPS,15,3
+Omar ,LPS,15,4
+Andreas Lærer,LPS,15,5
+Christiane Lærer,LPS,15,5
+Charlotte Lærer,LPS,15,5
+Kirsten Lærer,LPS,15,3
+Rasmus Lærer,LPS,15,3
+Ram,AVK,15,3
+Molly Walbum,AVK,15,3
+Didde Siig,AVK,15,3
+Frederikke Winther,AVK,15,3
+Alice Wendelin,AVK,15,3
+Alfa ,MK31,15,6
+Dominika ,MK31,15,6
+Ella,Familie,15,1
+Anders,Familie,15,1
+Rigmor,Familie,15,2
+Sigrid,Familie,15,2
+Anna Marie Dahl,Familie,15,3
+Jens Christian,Familie,15,3
+Thomas ,Familie,15,3
+Anette,Familie,15,3
+Edwin,Familie,15,3
+Edith,Familie,15,3
+August Ballhorn,Familie venner,15,3
+Tanja Ballhorn,Familie venner,15,3
+Katrine Elliot,Familie venner,15,3
+Oliver Elliot,Familie venner,15,3
+William Elliot,Familie venner,15,3
+Roland,Familie venner,15,4
+Katrine (fars veninde),Familie venner,15,4
+Nora (Katrine),Familie venner,15,4
+Julia,TG,15,6
+Laura Appel,TG,15,6
+Halfdan,MK31,15,6
+Daniel,MK31,15,6
+August,MK31,15,4
+Balthazar,CG,15,6
+Mikkel,CG,15,6
+Anton,CG,15,6
+Elias,CG,15,6
+Noah,CG,15,6
+Rachel,CG,15,6
+Freja Smilla,CG,15,6
+Nefer,CG,15,6
+Alvilda,CG,15,6
+Marie,CG,15,6
+Johannes,CG,15,6
+Jasper,CG,15,6
+Philip ,CG,15,6
+Aslak ,CG,15,6
+Theo ,CG,15,6
+Emil Dam,CG,15,6
+Emil Mujacic ,CG,15,6
+Magnus Levanius,Noah,15,6
+Hans Vest,Anton,15,6
+Tobias Frimurer,Anton,15,6
+Alexandra,LMS,15,6
+Cille,LMS,15,6
+Cecilie Juul,LMS,15,6
+Liva,LMS,15,6
+Frederikke,LMS,15,6
+Maya Msafiri,Ingolfs,15,6
+Baldur,Ingolfs,15,6
+Martin Hemmingsen,Ingolfs,15,6
+Gustav Kokkelev,Ingolfs,15,6
+Steen,DGI,15,6
+Marike,DGI,15,6
+Kimberly,DGI,15,6
+Jasmin,DGI,15,6
+Viktor,DGI,15,6
+Tina Andersen,DGI,15,6
+Steven,Film,15,6
+Roni,Film,15,6
+Bakir,Film,15,6
+Mathilde,Film,15,6
+Dagmar,Krogerup,15,6
+Viktoria,Krogerup,15,6
+Mai,Krogerup,15,6
+Magnus Velling,Krogerup,15,6
+Albert Fink,Krogerup,15,6
+Asger,Krogerup,15,6
+Johan Mussmann,Krogerup,15,6
+Signe,Krogerup,15,6
+Clara Roslev,Krogerup,15,6
+Villads Tynell,Krogerup,15,6
+Therese,Krogerup,15,6
+Carl,Familie,15,6
+Pernille,Familie,15,6
+Laura Welinder,Skoleskibet,15,6
+Lukas,Skoleskibet,15,6
+Rosa,Skoleskibet,15,6
+Rose,Skoleskibet,15,6
+Oliver,Skoleskibet,15,6
+Jonas Ullman,Skoleskibet,15,6
+Sara Svendsen,Skoleskibet,15,6
+Jacob Tryk,Skoleskibet,15,6
+Johan Fischer,Skoleskibet,15,6
+Mie Wieder,Skoleskibet,15,6
+Anna Bertoli,Anton,15,6
+Ida,Familie,15,6
+Viktor,Familie,15,6
+Johan,Familie,15,6
+Nor,OD,15,6
+Mattis ,Nor,15,6
+Tania ,Nor,15,6
+Peter,Nor,15,6
+Oskar,OD,15,6
+Ella Moskvitin,OD,15,6
+Lise,OD,15,6
+Elisabeth,OD,15,6
+Carl-Auguste,OD,15,6
+Katinka,OD,15,6
+Hanne,OD,15,6
+Juli,OD,15,6
+Maj Navntoft,OD,15,6
+Celine Mina,OD,15,6
+Jad,OD,15,6
+Maher,OD,15,6
+Sigge,OD,15,6
+Tine Dam,DGUB,15,6
+Vibeke,DGUB,15,6
+Abbe,DFUNK,15,6
+Yonis,DFUNK,15,6
+Fidan,DFUNK,15,6
+Zainab,DFUNK,15,6
+Medina,DFUNK,15,6
+Feodora,Balthazar,15,6
+Rasmus Tiemann,Balthazar,15,6
+Thomsen,BRSB,15,6
+Tranberg,BRSB,15,6
+Schødt,BRSB,15,6
+Oscar,BRSB,15,6
+Max,BRSB,15,6
+Grønne,BRSB,15,6
+Maul,BRSB,15,6
+Svendsen,BRSB,15,6
+Bjørskov,BRSB,15,6
+Auken,BRSB,15,6
+Elgstrøm,BRSB,15,6
+Randløv,BRSB,15,6
+Caroline,Vietnam,15,6
+Thien,Vietnam,15,6
+Ida Gunge,Balthazar,15,6
+Viola,Balthazar,15,6
+Cammi,Noah,15,6
+Anna Schultz,Lukas,15,6
+Kasper ,Dea,15,6
+Kristoffer Kjær,Beboerhuset,15,6
+Carla,30B,15,6
+Emma,30B,15,6
+Søren La Cour,30B,15,6
+Lydia,DMJX,15,6
+Martha,DMJX,15,6
+Frida,DMJX,15,6
+David,DMJX,15,6
+William ,DMJX,15,6
+Emil,DMJX,15,6
+Rasmus,DMJX,15,6
+Sahra,DMJX,15,6
+Sarah Albæk,DMJX,15,6
+Sarah Nørgaard,DMJX,15,6
+Julie Brande Bæk,DMJX,15,6
+Chzisztof,GJK,15,6
+Mikkel Grønjords,GJK,15,6
+Tiantian,GJK,15,6
+Chaiti,GJK,15,6
+Dipok,GJK,15,6
+Sarah Cornelia,GJK,15,6
+Sarah Cornelia,GJK,15,6
+Mia,MIG,16,0
+Mor,Familie,16,1
+Far,Familie,16,1
+Baka Nena,Familie,16,3
+Zirajeta,Familie venner,16,5
+Teta Mini,Familie,16,3
+Dundo,Familie,16,4
+Stara Baka,Familie,16,7
+Dida Zlatko,Familie,16,7
+Freja,Familie,16,1
+Farmor,Familie,16,3
+Farfar,Familie,16,3
+Anika,Familie,16,4
+Laura Byskov,Familie,16,4
+Nikolaj,Familie,16,4
+Frederik,Familie,16,4
+Mathias ,Familie,16,4
+Kasper,Familie,16,4
+Nanna,FS Rosa,16,4
+Laura,FS Rosa,16,5
+Dea,LPS,16,2
+Fatmir,Dea,16,3
+Linda,Dea,16,3
+Henriette,LPS,16,1
+Tim,Henriette,16,3
+Trine,Henriette,16,3
+Cecilie,LPS,16,3
+Sarah S,LPS,16,5
+Sofia,LPS,16,2
+Vanessa,LPS,16,3
+August Trier,LPS,16,4
+Mathias,LPS,16,3
+Carl Terp,LPS,16,3
+Omar ,LPS,16,4
+Andreas Lærer,LPS,16,5
+Christiane Lærer,LPS,16,5
+Charlotte Lærer,LPS,16,5
+Kirsten Lærer,LPS,16,3
+Rasmus Lærer,LPS,16,3
+Ram,AVK,16,5
+Molly Walbum,AVK,16,5
+Didde Siig,AVK,16,5
+Frederikke Winther,AVK,16,5
+Alice Wendelin,AVK,16,5
+Alfa ,MK31,16,4
+Dominika ,MK31,16,3
+Ella,Familie,16,1
+Anders,Familie,16,1
+Rigmor,Familie,16,2
+Sigrid,Familie,16,2
+Anna Marie Dahl,Familie,16,3
+Jens Christian,Familie,16,3
+Thomas ,Familie,16,3
+Anette,Familie,16,3
+Edwin,Familie,16,3
+Edith,Familie,16,3
+August Ballhorn,Familie venner,16,3
+Tanja Ballhorn,Familie venner,16,3
+Katrine Elliot,Familie venner,16,3
+Oliver Elliot,Familie venner,16,3
+William Elliot,Familie venner,16,3
+Roland,Familie venner,16,4
+Katrine (fars veninde),Familie venner,16,4
+Nora (Katrine),Familie venner,16,4
+Julia,TG,16,6
+Laura Appel,TG,16,6
+Halfdan,MK31,16,6
+Daniel,MK31,16,6
+August,MK31,16,4
+Balthazar,CG,16,6
+Mikkel,CG,16,6
+Anton,CG,16,6
+Elias,CG,16,6
+Noah,CG,16,6
+Rachel,CG,16,6
+Freja Smilla,CG,16,6
+Nefer,CG,16,6
+Alvilda,CG,16,6
+Marie,CG,16,6
+Johannes,CG,16,6
+Jasper,CG,16,6
+Philip ,CG,16,6
+Aslak ,CG,16,6
+Theo ,CG,16,6
+Emil Dam,CG,16,6
+Emil Mujacic ,CG,16,6
+Magnus Levanius,Noah,16,6
+Hans Vest,Anton,16,6
+Tobias Frimurer,Anton,16,6
+Alexandra,LMS,16,6
+Cille,LMS,16,6
+Cecilie Juul,LMS,16,6
+Liva,LMS,16,6
+Frederikke,LMS,16,6
+Maya Msafiri,Ingolfs,16,6
+Baldur,Ingolfs,16,6
+Martin Hemmingsen,Ingolfs,16,6
+Gustav Kokkelev,Ingolfs,16,6
+Steen,DGI,16,6
+Marike,DGI,16,6
+Kimberly,DGI,16,6
+Jasmin,DGI,16,6
+Viktor,DGI,16,6
+Tina Andersen,DGI,16,6
+Steven,Film,16,6
+Roni,Film,16,6
+Bakir,Film,16,6
+Mathilde,Film,16,6
+Dagmar,Krogerup,16,6
+Viktoria,Krogerup,16,6
+Mai,Krogerup,16,6
+Magnus Velling,Krogerup,16,6
+Albert Fink,Krogerup,16,6
+Asger,Krogerup,16,6
+Johan Mussmann,Krogerup,16,6
+Signe,Krogerup,16,6
+Clara Roslev,Krogerup,16,6
+Villads Tynell,Krogerup,16,6
+Therese,Krogerup,16,6
+Carl,Familie,16,6
+Pernille,Familie,16,6
+Laura Welinder,Skoleskibet,16,6
+Lukas,Skoleskibet,16,6
+Rosa,Skoleskibet,16,6
+Rose,Skoleskibet,16,6
+Oliver,Skoleskibet,16,6
+Jonas Ullman,Skoleskibet,16,6
+Sara Svendsen,Skoleskibet,16,6
+Jacob Tryk,Skoleskibet,16,6
+Johan Fischer,Skoleskibet,16,6
+Mie Wieder,Skoleskibet,16,6
+Anna Bertoli,Anton,16,6
+Ida,Familie,16,6
+Viktor,Familie,16,6
+Johan,Familie,16,6
+Nor,OD,16,6
+Mattis ,Nor,16,6
+Tania ,Nor,16,6
+Peter,Nor,16,6
+Oskar,OD,16,6
+Ella Moskvitin,OD,16,6
+Lise,OD,16,6
+Elisabeth,OD,16,6
+Carl-Auguste,OD,16,6
+Katinka,OD,16,6
+Hanne,OD,16,6
+Juli,OD,16,6
+Maj Navntoft,OD,16,6
+Celine Mina,OD,16,6
+Jad,OD,16,6
+Maher,OD,16,6
+Sigge,OD,16,6
+Tine Dam,DGUB,16,6
+Vibeke,DGUB,16,6
+Abbe,DFUNK,16,6
+Yonis,DFUNK,16,6
+Fidan,DFUNK,16,6
+Zainab,DFUNK,16,6
+Medina,DFUNK,16,6
+Feodora,Balthazar,16,6
+Rasmus Tiemann,Balthazar,16,6
+Thomsen,BRSB,16,6
+Tranberg,BRSB,16,6
+Schødt,BRSB,16,6
+Oscar,BRSB,16,6
+Max,BRSB,16,6
+Grønne,BRSB,16,6
+Maul,BRSB,16,6
+Svendsen,BRSB,16,6
+Bjørskov,BRSB,16,6
+Auken,BRSB,16,6
+Elgstrøm,BRSB,16,6
+Randløv,BRSB,16,6
+Caroline,Vietnam,16,6
+Thien,Vietnam,16,6
+Ida Gunge,Balthazar,16,6
+Viola,Balthazar,16,6
+Cammi,Noah,16,6
+Anna Schultz,Lukas,16,6
+Kasper ,Dea,16,6
+Kristoffer Kjær,Beboerhuset,16,6
+Carla,30B,16,6
+Emma,30B,16,6
+Søren La Cour,30B,16,6
+Lydia,DMJX,16,6
+Martha,DMJX,16,6
+Frida,DMJX,16,6
+David,DMJX,16,6
+William ,DMJX,16,6
+Emil,DMJX,16,6
+Rasmus,DMJX,16,6
+Sahra,DMJX,16,6
+Sarah Albæk,DMJX,16,6
+Sarah Nørgaard,DMJX,16,6
+Julie Brande Bæk,DMJX,16,6
+Chzisztof,GJK,16,6
+Mikkel Grønjords,GJK,16,6
+Tiantian,GJK,16,6
+Chaiti,GJK,16,6
+Dipok,GJK,16,6
+Sarah Cornelia,GJK,16,6
+Sarah Cornelia,GJK,16,6
+Mia,MIG,17,0
+Mor,Familie,17,1
+Far,Familie,17,1
+Baka Nena,Familie,17,3
+Zirajeta,Familie venner,17,5
+Teta Mini,Familie,17,3
+Dundo,Familie,17,4
+Stara Baka,Familie,17,7
+Dida Zlatko,Familie,17,7
+Freja,Familie,17,1
+Farmor,Familie,17,3
+Farfar,Familie,17,3
+Anika,Familie,17,4
+Laura Byskov,Familie,17,4
+Nikolaj,Familie,17,4
+Frederik,Familie,17,4
+Mathias ,Familie,17,4
+Kasper,Familie,17,4
+Nanna,FS Rosa,17,4
+Laura,FS Rosa,17,4
+Dea,LPS,17,2
+Fatmir,Dea,17,3
+Linda,Dea,17,3
+Henriette,LPS,17,2
+Tim,Henriette,17,3
+Trine,Henriette,17,3
+Cecilie,LPS,17,3
+Sarah S,LPS,17,5
+Sofia,LPS,17,2
+Vanessa,LPS,17,3
+August Trier,LPS,17,3
+Mathias,LPS,17,3
+Carl Terp,LPS,17,4
+Omar ,LPS,17,4
+Andreas Lærer,LPS,17,5
+Christiane Lærer,LPS,17,5
+Charlotte Lærer,LPS,17,5
+Kirsten Lærer,LPS,17,5
+Rasmus Lærer,LPS,17,5
+Ram,AVK,17,5
+Molly Walbum,AVK,17,5
+Didde Siig,AVK,17,5
+Frederikke Winther,AVK,17,5
+Alice Wendelin,AVK,17,3
+Alfa ,MK31,17,4
+Dominika ,MK31,17,3
+Ella,Familie,17,1
+Anders,Familie,17,1
+Rigmor,Familie,17,2
+Sigrid,Familie,17,2
+Anna Marie Dahl,Familie,17,3
+Jens Christian,Familie,17,3
+Thomas ,Familie,17,3
+Anette,Familie,17,3
+Edwin,Familie,17,3
+Edith,Familie,17,3
+August Ballhorn,Familie venner,17,3
+Tanja Ballhorn,Familie venner,17,3
+Katrine Elliot,Familie venner,17,4
+Oliver Elliot,Familie venner,17,3
+William Elliot,Familie venner,17,4
+Roland,Familie venner,17,4
+Katrine (fars veninde),Familie venner,17,4
+Nora (Katrine),Familie venner,17,4
+Julia,TG,17,6
+Laura Appel,TG,17,6
+Halfdan,MK31,17,6
+Daniel,MK31,17,6
+August,MK31,17,4
+Balthazar,CG,17,6
+Mikkel,CG,17,6
+Anton,CG,17,6
+Elias,CG,17,6
+Noah,CG,17,6
+Rachel,CG,17,6
+Freja Smilla,CG,17,6
+Nefer,CG,17,6
+Alvilda,CG,17,6
+Marie,CG,17,6
+Johannes,CG,17,6
+Jasper,CG,17,6
+Philip ,CG,17,6
+Aslak ,CG,17,6
+Theo ,CG,17,6
+Emil Dam,CG,17,6
+Emil Mujacic ,CG,17,6
+Magnus Levanius,Noah,17,6
+Hans Vest,Anton,17,6
+Tobias Frimurer,Anton,17,6
+Alexandra,LMS,17,6
+Cille,LMS,17,6
+Cecilie Juul,LMS,17,6
+Liva,LMS,17,6
+Frederikke,LMS,17,6
+Maya Msafiri,Ingolfs,17,6
+Baldur,Ingolfs,17,6
+Martin Hemmingsen,Ingolfs,17,6
+Gustav Kokkelev,Ingolfs,17,6
+Steen,DGI,17,6
+Marike,DGI,17,6
+Kimberly,DGI,17,6
+Jasmin,DGI,17,6
+Viktor,DGI,17,6
+Tina Andersen,DGI,17,6
+Steven,Film,17,6
+Roni,Film,17,6
+Bakir,Film,17,6
+Mathilde,Film,17,6
+Dagmar,Krogerup,17,6
+Viktoria,Krogerup,17,6
+Mai,Krogerup,17,6
+Magnus Velling,Krogerup,17,6
+Albert Fink,Krogerup,17,6
+Asger,Krogerup,17,6
+Johan Mussmann,Krogerup,17,6
+Signe,Krogerup,17,6
+Clara Roslev,Krogerup,17,6
+Villads Tynell,Krogerup,17,6
+Therese,Krogerup,17,6
+Carl,Familie,17,6
+Pernille,Familie,17,6
+Laura Welinder,Skoleskibet,17,6
+Lukas,Skoleskibet,17,6
+Rosa,Skoleskibet,17,6
+Rose,Skoleskibet,17,6
+Oliver,Skoleskibet,17,6
+Jonas Ullman,Skoleskibet,17,6
+Sara Svendsen,Skoleskibet,17,6
+Jacob Tryk,Skoleskibet,17,6
+Johan Fischer,Skoleskibet,17,6
+Mie Wieder,Skoleskibet,17,6
+Anna Bertoli,Anton,17,6
+Ida,Familie,17,6
+Viktor,Familie,17,6
+Johan,Familie,17,6
+Nor,OD,17,6
+Mattis ,Nor,17,6
+Tania ,Nor,17,6
+Peter,Nor,17,6
+Oskar,OD,17,6
+Ella Moskvitin,OD,17,6
+Lise,OD,17,6
+Elisabeth,OD,17,6
+Carl-Auguste,OD,17,6
+Katinka,OD,17,6
+Hanne,OD,17,6
+Juli,OD,17,6
+Maj Navntoft,OD,17,6
+Celine Mina,OD,17,6
+Jad,OD,17,6
+Maher,OD,17,6
+Sigge,OD,17,6
+Tine Dam,DGUB,17,6
+Vibeke,DGUB,17,6
+Abbe,DFUNK,17,6
+Yonis,DFUNK,17,6
+Fidan,DFUNK,17,6
+Zainab,DFUNK,17,6
+Medina,DFUNK,17,6
+Feodora,Balthazar,17,6
+Rasmus Tiemann,Balthazar,17,6
+Thomsen,BRSB,17,6
+Tranberg,BRSB,17,6
+Schødt,BRSB,17,6
+Oscar,BRSB,17,6
+Max,BRSB,17,6
+Grønne,BRSB,17,6
+Maul,BRSB,17,6
+Svendsen,BRSB,17,6
+Bjørskov,BRSB,17,6
+Auken,BRSB,17,6
+Elgstrøm,BRSB,17,6
+Randløv,BRSB,17,6
+Caroline,Vietnam,17,6
+Thien,Vietnam,17,6
+Ida Gunge,Balthazar,17,6
+Viola,Balthazar,17,6
+Cammi,Noah,17,6
+Anna Schultz,Lukas,17,6
+Kasper ,Dea,17,6
+Kristoffer Kjær,Beboerhuset,17,6
+Carla,30B,17,6
+Emma,30B,17,6
+Søren La Cour,30B,17,6
+Lydia,DMJX,17,6
+Martha,DMJX,17,6
+Frida,DMJX,17,6
+David,DMJX,17,6
+William ,DMJX,17,6
+Emil,DMJX,17,6
+Rasmus,DMJX,17,6
+Sahra,DMJX,17,6
+Sarah Albæk,DMJX,17,6
+Sarah Nørgaard,DMJX,17,6
+Julie Brande Bæk,DMJX,17,6
+Chzisztof,GJK,17,6
+Mikkel Grønjords,GJK,17,6
+Tiantian,GJK,17,6
+Chaiti,GJK,17,6
+Dipok,GJK,17,6
+Sarah Cornelia,GJK,17,6
+Sarah Cornelia,GJK,17,6
+Mia,MIG,18,0
+Mor,Familie,18,1
+Far,Familie,18,1
+Baka Nena,Familie,18,3
+Zirajeta,Familie venner,18,5
+Teta Mini,Familie,18,3
+Dundo,Familie,18,4
+Stara Baka,Familie,18,7
+Dida Zlatko,Familie,18,7
+Freja,Familie,18,1
+Farmor,Familie,18,3
+Farfar,Familie,18,3
+Anika,Familie,18,3
+Laura Byskov,Familie,18,4
+Nikolaj,Familie,18,3
+Frederik,Familie,18,3
+Mathias ,Familie,18,3
+Kasper,Familie,18,3
+Nanna,FS Rosa,18,4
+Laura,FS Rosa,18,4
+Dea,LPS,18,3
+Fatmir,Dea,18,3
+Linda,Dea,18,3
+Henriette,LPS,18,2
+Tim,Henriette,18,3
+Trine,Henriette,18,3
+Cecilie,LPS,18,3
+Sarah S,LPS,18,5
+Sofia,LPS,18,3
+Vanessa,LPS,18,5
+August Trier,LPS,18,3
+Mathias,LPS,18,3
+Carl Terp,LPS,18,3
+Omar ,LPS,18,3
+Andreas Lærer,LPS,18,5
+Christiane Lærer,LPS,18,5
+Charlotte Lærer,LPS,18,5
+Kirsten Lærer,LPS,18,5
+Rasmus Lærer,LPS,18,5
+Ram,AVK,18,5
+Molly Walbum,AVK,18,5
+Didde Siig,AVK,18,5
+Frederikke Winther,AVK,18,5
+Alice Wendelin,AVK,18,3
+Alfa ,MK31,18,5
+Dominika ,MK31,18,5
+Ella,Familie,18,1
+Anders,Familie,18,1
+Rigmor,Familie,18,2
+Sigrid,Familie,18,2
+Anna Marie Dahl,Familie,18,3
+Jens Christian,Familie,18,3
+Thomas ,Familie,18,3
+Anette,Familie,18,3
+Edwin,Familie,18,3
+Edith,Familie,18,3
+August Ballhorn,Familie venner,18,3
+Tanja Ballhorn,Familie venner,18,3
+Katrine Elliot,Familie venner,18,4
+Oliver Elliot,Familie venner,18,3
+William Elliot,Familie venner,18,4
+Roland,Familie venner,18,4
+Katrine (fars veninde),Familie venner,18,4
+Nora (Katrine),Familie venner,18,4
+Julia,TG,18,2
+Laura Appel,TG,18,2
+Halfdan,MK31,18,3
+Daniel,MK31,18,4
+August,MK31,18,3
+Balthazar,CG,18,2
+Mikkel,CG,18,6
+Anton,CG,18,2
+Elias,CG,18,2
+Noah,CG,18,2
+Rachel,CG,18,2
+Freja Smilla,CG,18,2
+Nefer,CG,18,3
+Alvilda,CG,18,2
+Marie,CG,18,2
+Johannes,CG,18,3
+Jasper,CG,18,3
+Philip ,CG,18,3
+Aslak ,CG,18,3
+Theo ,CG,18,3
+Emil Dam,CG,18,3
+Emil Mujacic ,CG,18,3
+Magnus Levanius,Noah,18,6
+Hans Vest,Anton,18,4
+Tobias Frimurer,Anton,18,6
+Alexandra,LMS,18,6
+Cille,LMS,18,6
+Cecilie Juul,LMS,18,6
+Liva,LMS,18,6
+Frederikke,LMS,18,6
+Maya Msafiri,Ingolfs,18,6
+Baldur,Ingolfs,18,6
+Martin Hemmingsen,Ingolfs,18,6
+Gustav Kokkelev,Ingolfs,18,6
+Steen,DGI,18,6
+Marike,DGI,18,6
+Kimberly,DGI,18,6
+Jasmin,DGI,18,6
+Viktor,DGI,18,6
+Tina Andersen,DGI,18,6
+Steven,Film,18,6
+Roni,Film,18,6
+Bakir,Film,18,6
+Mathilde,Film,18,6
+Dagmar,Krogerup,18,6
+Viktoria,Krogerup,18,6
+Mai,Krogerup,18,6
+Magnus Velling,Krogerup,18,6
+Albert Fink,Krogerup,18,6
+Asger,Krogerup,18,6
+Johan Mussmann,Krogerup,18,6
+Signe,Krogerup,18,6
+Clara Roslev,Krogerup,18,6
+Villads Tynell,Krogerup,18,6
+Therese,Krogerup,18,6
+Carl,Familie,18,6
+Pernille,Familie,18,6
+Laura Welinder,Skoleskibet,18,6
+Lukas,Skoleskibet,18,6
+Rosa,Skoleskibet,18,6
+Rose,Skoleskibet,18,6
+Oliver,Skoleskibet,18,6
+Jonas Ullman,Skoleskibet,18,6
+Sara Svendsen,Skoleskibet,18,6
+Jacob Tryk,Skoleskibet,18,6
+Johan Fischer,Skoleskibet,18,6
+Mie Wieder,Skoleskibet,18,6
+Anna Bertoli,Anton,18,6
+Ida,Familie,18,6
+Viktor,Familie,18,6
+Johan,Familie,18,6
+Nor,OD,18,6
+Mattis ,Nor,18,6
+Tania ,Nor,18,6
+Peter,Nor,18,6
+Oskar,OD,18,6
+Ella Moskvitin,OD,18,6
+Lise,OD,18,6
+Elisabeth,OD,18,6
+Carl-Auguste,OD,18,6
+Katinka,OD,18,6
+Hanne,OD,18,6
+Juli,OD,18,6
+Maj Navntoft,OD,18,6
+Celine Mina,OD,18,6
+Jad,OD,18,6
+Maher,OD,18,6
+Sigge,OD,18,6
+Tine Dam,DGUB,18,6
+Vibeke,DGUB,18,6
+Abbe,DFUNK,18,6
+Yonis,DFUNK,18,6
+Fidan,DFUNK,18,6
+Zainab,DFUNK,18,6
+Medina,DFUNK,18,6
+Feodora,Balthazar,18,6
+Rasmus Tiemann,Balthazar,18,6
+Thomsen,BRSB,18,6
+Tranberg,BRSB,18,6
+Schødt,BRSB,18,6
+Oscar,BRSB,18,6
+Max,BRSB,18,6
+Grønne,BRSB,18,6
+Maul,BRSB,18,6
+Svendsen,BRSB,18,6
+Bjørskov,BRSB,18,6
+Auken,BRSB,18,6
+Elgstrøm,BRSB,18,6
+Randløv,BRSB,18,6
+Caroline,Vietnam,18,6
+Thien,Vietnam,18,6
+Ida Gunge,Balthazar,18,6
+Viola,Balthazar,18,6
+Cammi,Noah,18,6
+Anna Schultz,Lukas,18,6
+Kasper ,Dea,18,6
+Kristoffer Kjær,Beboerhuset,18,6
+Carla,30B,18,6
+Emma,30B,18,6
+Søren La Cour,30B,18,6
+Lydia,DMJX,18,6
+Martha,DMJX,18,6
+Frida,DMJX,18,6
+David,DMJX,18,6
+William ,DMJX,18,6
+Emil,DMJX,18,6
+Rasmus,DMJX,18,6
+Sahra,DMJX,18,6
+Sarah Albæk,DMJX,18,6
+Sarah Nørgaard,DMJX,18,6
+Julie Brande Bæk,DMJX,18,6
+Chzisztof,GJK,18,6
+Mikkel Grønjords,GJK,18,6
+Tiantian,GJK,18,6
+Chaiti,GJK,18,6
+Dipok,GJK,18,6
+Sarah Cornelia,GJK,18,6
+Sarah Cornelia,GJK,18,6
+Mia,MIG,19,0
+Mor,Familie,19,1
+Far,Familie,19,1
+Baka Nena,Familie,19,3
+Zirajeta,Familie venner,19,5
+Teta Mini,Familie,19,3
+Dundo,Familie,19,4
+Stara Baka,Familie,19,7
+Dida Zlatko,Familie,19,7
+Freja,Familie,19,1
+Farmor,Familie,19,3
+Farfar,Familie,19,3
+Anika,Familie,19,3
+Laura Byskov,Familie,19,4
+Nikolaj,Familie,19,3
+Frederik,Familie,19,3
+Mathias ,Familie,19,3
+Kasper,Familie,19,3
+Nanna,FS Rosa,19,4
+Laura,FS Rosa,19,4
+Dea,LPS,19,2
+Fatmir,Dea,19,3
+Linda,Dea,19,3
+Henriette,LPS,19,2
+Tim,Henriette,19,3
+Trine,Henriette,19,3
+Cecilie,LPS,19,2
+Sarah S,LPS,19,5
+Sofia,LPS,19,2
+Vanessa,LPS,19,5
+August Trier,LPS,19,3
+Mathias,LPS,19,3
+Carl Terp,LPS,19,3
+Omar ,LPS,19,3
+Andreas Lærer,LPS,19,5
+Christiane Lærer,LPS,19,5
+Charlotte Lærer,LPS,19,5
+Kirsten Lærer,LPS,19,5
+Rasmus Lærer,LPS,19,5
+Ram,AVK,19,5
+Molly Walbum,AVK,19,5
+Didde Siig,AVK,19,5
+Frederikke Winther,AVK,19,5
+Alice Wendelin,AVK,19,3
+Alfa ,MK31,19,5
+Dominika ,MK31,19,5
+Ella,Familie,19,1
+Anders,Familie,19,1
+Rigmor,Familie,19,2
+Sigrid,Familie,19,2
+Anna Marie Dahl,Familie,19,3
+Jens Christian,Familie,19,3
+Thomas ,Familie,19,3
+Anette,Familie,19,3
+Edwin,Familie,19,3
+Edith,Familie,19,3
+August Ballhorn,Familie venner,19,3
+Tanja Ballhorn,Familie venner,19,3
+Katrine Elliot,Familie venner,19,4
+Oliver Elliot,Familie venner,19,3
+William Elliot,Familie venner,19,4
+Roland,Familie venner,19,4
+Katrine (fars veninde),Familie venner,19,4
+Nora (Katrine),Familie venner,19,4
+Julia,TG,19,2
+Laura Appel,TG,19,3
+Halfdan,MK31,19,3
+Daniel,MK31,19,3
+August,MK31,19,3
+Balthazar,CG,19,2
+Mikkel,CG,19,3
+Anton,CG,19,2
+Elias,CG,19,2
+Noah,CG,19,2
+Rachel,CG,19,2
+Freja Smilla,CG,19,2
+Nefer,CG,19,3
+Alvilda,CG,19,2
+Marie,CG,19,2
+Johannes,CG,19,2
+Jasper,CG,19,2
+Philip ,CG,19,2
+Aslak ,CG,19,2
+Theo ,CG,19,2
+Emil Dam,CG,19,3
+Emil Mujacic ,CG,19,3
+Magnus Levanius,Noah,19,5
+Hans Vest,Anton,19,4
+Tobias Frimurer,Anton,19,6
+Alexandra,LMS,19,6
+Cille,LMS,19,6
+Cecilie Juul,LMS,19,6
+Liva,LMS,19,6
+Frederikke,LMS,19,6
+Maya Msafiri,Ingolfs,19,4
+Baldur,Ingolfs,19,4
+Martin Hemmingsen,Ingolfs,19,3
+Gustav Kokkelev,Ingolfs,19,3
+Steen,DGI,19,6
+Marike,DGI,19,6
+Kimberly,DGI,19,6
+Jasmin,DGI,19,6
+Viktor,DGI,19,6
+Tina Andersen,DGI,19,6
+Steven,Film,19,6
+Roni,Film,19,6
+Bakir,Film,19,6
+Mathilde,Film,19,6
+Dagmar,Krogerup,19,6
+Viktoria,Krogerup,19,6
+Mai,Krogerup,19,6
+Magnus Velling,Krogerup,19,6
+Albert Fink,Krogerup,19,6
+Asger,Krogerup,19,6
+Johan Mussmann,Krogerup,19,6
+Signe,Krogerup,19,6
+Clara Roslev,Krogerup,19,6
+Villads Tynell,Krogerup,19,6
+Therese,Krogerup,19,6
+Carl,Familie,19,6
+Pernille,Familie,19,6
+Laura Welinder,Skoleskibet,19,6
+Lukas,Skoleskibet,19,6
+Rosa,Skoleskibet,19,6
+Rose,Skoleskibet,19,6
+Oliver,Skoleskibet,19,6
+Jonas Ullman,Skoleskibet,19,6
+Sara Svendsen,Skoleskibet,19,6
+Jacob Tryk,Skoleskibet,19,6
+Johan Fischer,Skoleskibet,19,6
+Mie Wieder,Skoleskibet,19,6
+Anna Bertoli,Anton,19,6
+Ida,Familie,19,6
+Viktor,Familie,19,6
+Johan,Familie,19,6
+Nor,OD,19,6
+Mattis ,Nor,19,6
+Tania ,Nor,19,6
+Peter,Nor,19,6
+Oskar,OD,19,6
+Ella Moskvitin,OD,19,6
+Lise,OD,19,6
+Elisabeth,OD,19,6
+Carl-Auguste,OD,19,6
+Katinka,OD,19,6
+Hanne,OD,19,6
+Juli,OD,19,6
+Maj Navntoft,OD,19,6
+Celine Mina,OD,19,6
+Jad,OD,19,6
+Maher,OD,19,6
+Sigge,OD,19,6
+Tine Dam,DGUB,19,6
+Vibeke,DGUB,19,6
+Abbe,DFUNK,19,6
+Yonis,DFUNK,19,6
+Fidan,DFUNK,19,6
+Zainab,DFUNK,19,6
+Medina,DFUNK,19,6
+Feodora,Balthazar,19,6
+Rasmus Tiemann,Balthazar,19,6
+Thomsen,BRSB,19,6
+Tranberg,BRSB,19,6
+Schødt,BRSB,19,6
+Oscar,BRSB,19,6
+Max,BRSB,19,6
+Grønne,BRSB,19,6
+Maul,BRSB,19,6
+Svendsen,BRSB,19,6
+Bjørskov,BRSB,19,6
+Auken,BRSB,19,6
+Elgstrøm,BRSB,19,6
+Randløv,BRSB,19,6
+Caroline,Vietnam,19,6
+Thien,Vietnam,19,6
+Ida Gunge,Balthazar,19,6
+Viola,Balthazar,19,6
+Cammi,Noah,19,6
+Anna Schultz,Lukas,19,6
+Kasper ,Dea,19,6
+Kristoffer Kjær,Beboerhuset,19,6
+Carla,30B,19,6
+Emma,30B,19,6
+Søren La Cour,30B,19,6
+Lydia,DMJX,19,6
+Martha,DMJX,19,6
+Frida,DMJX,19,6
+David,DMJX,19,6
+William ,DMJX,19,6
+Emil,DMJX,19,6
+Rasmus,DMJX,19,6
+Sahra,DMJX,19,6
+Sarah Albæk,DMJX,19,6
+Sarah Nørgaard,DMJX,19,6
+Julie Brande Bæk,DMJX,19,6
+Chzisztof,GJK,19,6
+Mikkel Grønjords,GJK,19,6
+Tiantian,GJK,19,6
+Chaiti,GJK,19,6
+Dipok,GJK,19,6
+Sarah Cornelia,GJK,19,6
+Sarah Cornelia,GJK,19,6
+Mia,MIG,20,0
+Mor,Familie,20,1
+Far,Familie,20,1
+Baka Nena,Familie,20,3
+Zirajeta,Familie venner,20,5
+Teta Mini,Familie,20,3
+Dundo,Familie,20,4
+Stara Baka,Familie,20,7
+Dida Zlatko,Familie,20,7
+Freja,Familie,20,1
+Farmor,Familie,20,3
+Farfar,Familie,20,3
+Anika,Familie,20,3
+Laura Byskov,Familie,20,4
+Nikolaj,Familie,20,3
+Frederik,Familie,20,3
+Mathias ,Familie,20,3
+Kasper,Familie,20,3
+Nanna,FS Rosa,20,4
+Laura,FS Rosa,20,4
+Dea,LPS,20,1
+Fatmir,Dea,20,3
+Linda,Dea,20,3
+Henriette,LPS,20,1
+Tim,Henriette,20,3
+Trine,Henriette,20,3
+Cecilie,LPS,20,2
+Sarah S,LPS,20,5
+Sofia,LPS,20,2
+Vanessa,LPS,20,5
+August Trier,LPS,20,3
+Mathias,LPS,20,3
+Carl Terp,LPS,20,3
+Omar ,LPS,20,3
+Andreas Lærer,LPS,20,5
+Christiane Lærer,LPS,20,5
+Charlotte Lærer,LPS,20,5
+Kirsten Lærer,LPS,20,5
+Rasmus Lærer,LPS,20,5
+Ram,AVK,20,5
+Molly Walbum,AVK,20,5
+Didde Siig,AVK,20,5
+Frederikke Winther,AVK,20,5
+Alice Wendelin,AVK,20,5
+Alfa ,MK31,20,5
+Dominika ,MK31,20,5
+Ella,Familie,20,1
+Anders,Familie,20,1
+Rigmor,Familie,20,2
+Sigrid,Familie,20,2
+Anna Marie Dahl,Familie,20,3
+Jens Christian,Familie,20,3
+Thomas ,Familie,20,3
+Anette,Familie,20,3
+Edwin,Familie,20,3
+Edith,Familie,20,3
+August Ballhorn,Familie venner,20,4
+Tanja Ballhorn,Familie venner,20,4
+Katrine Elliot,Familie venner,20,4
+Oliver Elliot,Familie venner,20,4
+William Elliot,Familie venner,20,4
+Roland,Familie venner,20,4
+Katrine (fars veninde),Familie venner,20,4
+Nora (Katrine),Familie venner,20,4
+Julia,TG,20,1
+Laura Appel,TG,20,3
+Halfdan,MK31,20,3
+Daniel,MK31,20,3
+August,MK31,20,3
+Balthazar,CG,20,2
+Mikkel,CG,20,3
+Anton,CG,20,2
+Elias,CG,20,2
+Noah,CG,20,2
+Rachel,CG,20,2
+Freja Smilla,CG,20,2
+Nefer,CG,20,2
+Alvilda,CG,20,2
+Marie,CG,20,2
+Johannes,CG,20,2
+Jasper,CG,20,2
+Philip ,CG,20,2
+Aslak ,CG,20,2
+Theo ,CG,20,3
+Emil Dam,CG,20,3
+Emil Mujacic ,CG,20,3
+Magnus Levanius,Noah,20,4
+Hans Vest,Anton,20,4
+Tobias Frimurer,Anton,20,5
+Alexandra,LMS,20,6
+Cille,LMS,20,3
+Cecilie Juul,LMS,20,3
+Liva,LMS,20,3
+Frederikke,LMS,20,3
+Maya Msafiri,Ingolfs,20,4
+Baldur,Ingolfs,20,4
+Martin Hemmingsen,Ingolfs,20,4
+Gustav Kokkelev,Ingolfs,20,4
+Steen,DGI,20,4
+Marike,DGI,20,3
+Kimberly,DGI,20,3
+Jasmin,DGI,20,4
+Viktor,DGI,20,4
+Tina Andersen,DGI,20,4
+Steven,Film,20,6
+Roni,Film,20,6
+Bakir,Film,20,6
+Mathilde,Film,20,6
+Dagmar,Krogerup,20,6
+Viktoria,Krogerup,20,6
+Mai,Krogerup,20,6
+Magnus Velling,Krogerup,20,6
+Albert Fink,Krogerup,20,6
+Asger,Krogerup,20,6
+Johan Mussmann,Krogerup,20,6
+Signe,Krogerup,20,6
+Clara Roslev,Krogerup,20,6
+Villads Tynell,Krogerup,20,6
+Therese,Krogerup,20,6
+Carl,Familie,20,6
+Pernille,Familie,20,6
+Laura Welinder,Skoleskibet,20,6
+Lukas,Skoleskibet,20,6
+Rosa,Skoleskibet,20,6
+Rose,Skoleskibet,20,6
+Oliver,Skoleskibet,20,6
+Jonas Ullman,Skoleskibet,20,6
+Sara Svendsen,Skoleskibet,20,6
+Jacob Tryk,Skoleskibet,20,6
+Johan Fischer,Skoleskibet,20,6
+Mie Wieder,Skoleskibet,20,6
+Anna Bertoli,Anton,20,6
+Ida,Familie,20,6
+Viktor,Familie,20,6
+Johan,Familie,20,6
+Nor,OD,20,6
+Mattis ,Nor,20,6
+Tania ,Nor,20,6
+Peter,Nor,20,6
+Oskar,OD,20,6
+Ella Moskvitin,OD,20,6
+Lise,OD,20,6
+Elisabeth,OD,20,6
+Carl-Auguste,OD,20,6
+Katinka,OD,20,6
+Hanne,OD,20,6
+Juli,OD,20,6
+Maj Navntoft,OD,20,6
+Celine Mina,OD,20,6
+Jad,OD,20,6
+Maher,OD,20,6
+Sigge,OD,20,6
+Tine Dam,DGUB,20,6
+Vibeke,DGUB,20,6
+Abbe,DFUNK,20,6
+Yonis,DFUNK,20,6
+Fidan,DFUNK,20,6
+Zainab,DFUNK,20,6
+Medina,DFUNK,20,6
+Feodora,Balthazar,20,6
+Rasmus Tiemann,Balthazar,20,6
+Thomsen,BRSB,20,6
+Tranberg,BRSB,20,6
+Schødt,BRSB,20,6
+Oscar,BRSB,20,6
+Max,BRSB,20,6
+Grønne,BRSB,20,6
+Maul,BRSB,20,6
+Svendsen,BRSB,20,6
+Bjørskov,BRSB,20,6
+Auken,BRSB,20,6
+Elgstrøm,BRSB,20,6
+Randløv,BRSB,20,6
+Caroline,Vietnam,20,6
+Thien,Vietnam,20,6
+Ida Gunge,Balthazar,20,6
+Viola,Balthazar,20,6
+Cammi,Noah,20,6
+Anna Schultz,Lukas,20,6
+Kasper ,Dea,20,6
+Kristoffer Kjær,Beboerhuset,20,6
+Carla,30B,20,6
+Emma,30B,20,6
+Søren La Cour,30B,20,6
+Lydia,DMJX,20,6
+Martha,DMJX,20,6
+Frida,DMJX,20,6
+David,DMJX,20,6
+William ,DMJX,20,6
+Emil,DMJX,20,6
+Rasmus,DMJX,20,6
+Sahra,DMJX,20,6
+Sarah Albæk,DMJX,20,6
+Sarah Nørgaard,DMJX,20,6
+Julie Brande Bæk,DMJX,20,6
+Chzisztof,GJK,20,6
+Mikkel Grønjords,GJK,20,6
+Tiantian,GJK,20,6
+Chaiti,GJK,20,6
+Dipok,GJK,20,6
+Sarah Cornelia,GJK,20,6
+Sarah Cornelia,GJK,20,6
+Mia,MIG,21,0
+Mor,Familie,21,1
+Far,Familie,21,1
+Baka Nena,Familie,21,3
+Zirajeta,Familie venner,21,5
+Teta Mini,Familie,21,3
+Dundo,Familie,21,4
+Stara Baka,Familie,21,7
+Dida Zlatko,Familie,21,7
+Freja,Familie,21,1
+Farmor,Familie,21,3
+Farfar,Familie,21,3
+Anika,Familie,21,3
+Laura Byskov,Familie,21,4
+Nikolaj,Familie,21,3
+Frederik,Familie,21,3
+Mathias ,Familie,21,3
+Kasper,Familie,21,3
+Nanna,FS Rosa,21,5
+Laura,FS Rosa,21,5
+Dea,LPS,21,1
+Fatmir,Dea,21,3
+Linda,Dea,21,3
+Henriette,LPS,21,2
+Tim,Henriette,21,3
+Trine,Henriette,21,3
+Cecilie,LPS,21,2
+Sarah S,LPS,21,5
+Sofia,LPS,21,3
+Vanessa,LPS,21,5
+August Trier,LPS,21,3
+Mathias,LPS,21,3
+Carl Terp,LPS,21,3
+Omar ,LPS,21,3
+Andreas Lærer,LPS,21,5
+Christiane Lærer,LPS,21,5
+Charlotte Lærer,LPS,21,5
+Kirsten Lærer,LPS,21,5
+Rasmus Lærer,LPS,21,5
+Ram,AVK,21,5
+Molly Walbum,AVK,21,5
+Didde Siig,AVK,21,5
+Frederikke Winther,AVK,21,5
+Alice Wendelin,AVK,21,5
+Alfa ,MK31,21,5
+Dominika ,MK31,21,5
+Ella,Familie,21,1
+Anders,Familie,21,1
+Rigmor,Familie,21,2
+Sigrid,Familie,21,2
+Anna Marie Dahl,Familie,21,3
+Jens Christian,Familie,21,3
+Thomas ,Familie,21,3
+Anette,Familie,21,3
+Edwin,Familie,21,3
+Edith,Familie,21,3
+August Ballhorn,Familie venner,21,4
+Tanja Ballhorn,Familie venner,21,4
+Katrine Elliot,Familie venner,21,4
+Oliver Elliot,Familie venner,21,4
+William Elliot,Familie venner,21,4
+Roland,Familie venner,21,5
+Katrine (fars veninde),Familie venner,21,4
+Nora (Katrine),Familie venner,21,4
+Julia,TG,21,1
+Laura Appel,TG,21,3
+Halfdan,MK31,21,3
+Daniel,MK31,21,3
+August,MK31,21,3
+Balthazar,CG,21,1
+Mikkel,CG,21,3
+Anton,CG,21,2
+Elias,CG,21,2
+Noah,CG,21,2
+Rachel,CG,21,2
+Freja Smilla,CG,21,2
+Nefer,CG,21,2
+Alvilda,CG,21,3
+Marie,CG,21,3
+Johannes,CG,21,2
+Jasper,CG,21,2
+Philip ,CG,21,2
+Aslak ,CG,21,2
+Theo ,CG,21,3
+Emil Dam,CG,21,3
+Emil Mujacic ,CG,21,4
+Magnus Levanius,Noah,21,3
+Hans Vest,Anton,21,4
+Tobias Frimurer,Anton,21,4
+Alexandra,LMS,21,3
+Cille,LMS,21,5
+Cecilie Juul,LMS,21,5
+Liva,LMS,21,5
+Frederikke,LMS,21,5
+Maya Msafiri,Ingolfs,21,5
+Baldur,Ingolfs,21,5
+Martin Hemmingsen,Ingolfs,21,5
+Gustav Kokkelev,Ingolfs,21,5
+Steen,DGI,21,5
+Marike,DGI,21,5
+Kimberly,DGI,21,5
+Jasmin,DGI,21,5
+Viktor,DGI,21,5
+Tina Andersen,DGI,21,5
+Steven,Film,21,3
+Roni,Film,21,3
+Bakir,Film,21,3
+Mathilde,Film,21,3
+Dagmar,Krogerup,21,6
+Viktoria,Krogerup,21,6
+Mai,Krogerup,21,6
+Magnus Velling,Krogerup,21,6
+Albert Fink,Krogerup,21,6
+Asger,Krogerup,21,6
+Johan Mussmann,Krogerup,21,6
+Signe,Krogerup,21,6
+Clara Roslev,Krogerup,21,6
+Villads Tynell,Krogerup,21,6
+Therese,Krogerup,21,6
+Carl,Familie,21,6
+Pernille,Familie,21,6
+Laura Welinder,Skoleskibet,21,6
+Lukas,Skoleskibet,21,6
+Rosa,Skoleskibet,21,6
+Rose,Skoleskibet,21,6
+Oliver,Skoleskibet,21,6
+Jonas Ullman,Skoleskibet,21,6
+Sara Svendsen,Skoleskibet,21,6
+Jacob Tryk,Skoleskibet,21,6
+Johan Fischer,Skoleskibet,21,6
+Mie Wieder,Skoleskibet,21,6
+Anna Bertoli,Anton,21,6
+Ida,Familie,21,6
+Viktor,Familie,21,6
+Johan,Familie,21,6
+Nor,OD,21,6
+Mattis ,Nor,21,6
+Tania ,Nor,21,6
+Peter,Nor,21,6
+Oskar,OD,21,6
+Ella Moskvitin,OD,21,6
+Lise,OD,21,6
+Elisabeth,OD,21,6
+Carl-Auguste,OD,21,6
+Katinka,OD,21,6
+Hanne,OD,21,6
+Juli,OD,21,6
+Maj Navntoft,OD,21,6
+Celine Mina,OD,21,6
+Jad,OD,21,6
+Maher,OD,21,6
+Sigge,OD,21,6
+Tine Dam,DGUB,21,6
+Vibeke,DGUB,21,6
+Abbe,DFUNK,21,6
+Yonis,DFUNK,21,6
+Fidan,DFUNK,21,6
+Zainab,DFUNK,21,6
+Medina,DFUNK,21,6
+Feodora,Balthazar,21,6
+Rasmus Tiemann,Balthazar,21,6
+Thomsen,BRSB,21,6
+Tranberg,BRSB,21,6
+Schødt,BRSB,21,6
+Oscar,BRSB,21,6
+Max,BRSB,21,6
+Grønne,BRSB,21,6
+Maul,BRSB,21,6
+Svendsen,BRSB,21,6
+Bjørskov,BRSB,21,6
+Auken,BRSB,21,6
+Elgstrøm,BRSB,21,6
+Randløv,BRSB,21,6
+Caroline,Vietnam,21,6
+Thien,Vietnam,21,6
+Ida Gunge,Balthazar,21,6
+Viola,Balthazar,21,6
+Cammi,Noah,21,6
+Anna Schultz,Lukas,21,6
+Kasper ,Dea,21,6
+Kristoffer Kjær,Beboerhuset,21,6
+Carla,30B,21,6
+Emma,30B,21,6
+Søren La Cour,30B,21,6
+Lydia,DMJX,21,6
+Martha,DMJX,21,6
+Frida,DMJX,21,6
+David,DMJX,21,6
+William ,DMJX,21,6
+Emil,DMJX,21,6
+Rasmus,DMJX,21,6
+Sahra,DMJX,21,6
+Sarah Albæk,DMJX,21,6
+Sarah Nørgaard,DMJX,21,6
+Julie Brande Bæk,DMJX,21,6
+Chzisztof,GJK,21,6
+Mikkel Grønjords,GJK,21,6
+Tiantian,GJK,21,6
+Chaiti,GJK,21,6
+Dipok,GJK,21,6
+Sarah Cornelia,GJK,21,6
+Sarah Cornelia,GJK,21,6
+Mia,MIG,22,0
+Mor,Familie,22,1
+Far,Familie,22,1
+Baka Nena,Familie,22,3
+Zirajeta,Familie venner,22,5
+Teta Mini,Familie,22,3
+Dundo,Familie,22,4
+Stara Baka,Familie,22,7
+Dida Zlatko,Familie,22,7
+Freja,Familie,22,1
+Farmor,Familie,22,3
+Farfar,Familie,22,3
+Anika,Familie,22,3
+Laura Byskov,Familie,22,4
+Nikolaj,Familie,22,3
+Frederik,Familie,22,3
+Mathias ,Familie,22,3
+Kasper,Familie,22,3
+Nanna,FS Rosa,22,5
+Laura,FS Rosa,22,5
+Dea,LPS,22,1
+Fatmir,Dea,22,3
+Linda,Dea,22,3
+Henriette,LPS,22,2
+Tim,Henriette,22,3
+Trine,Henriette,22,3
+Cecilie,LPS,22,3
+Sarah S,LPS,22,5
+Sofia,LPS,22,4
+Vanessa,LPS,22,5
+August Trier,LPS,22,3
+Mathias,LPS,22,3
+Carl Terp,LPS,22,3
+Omar ,LPS,22,3
+Andreas Lærer,LPS,22,5
+Christiane Lærer,LPS,22,5
+Charlotte Lærer,LPS,22,5
+Kirsten Lærer,LPS,22,5
+Rasmus Lærer,LPS,22,5
+Ram,AVK,22,5
+Molly Walbum,AVK,22,5
+Didde Siig,AVK,22,5
+Frederikke Winther,AVK,22,5
+Alice Wendelin,AVK,22,5
+Alfa ,MK31,22,5
+Dominika ,MK31,22,5
+Ella,Familie,22,1
+Anders,Familie,22,1
+Rigmor,Familie,22,2
+Sigrid,Familie,22,2
+Anna Marie Dahl,Familie,22,3
+Jens Christian,Familie,22,3
+Thomas ,Familie,22,3
+Anette,Familie,22,3
+Edwin,Familie,22,3
+Edith,Familie,22,3
+August Ballhorn,Familie venner,22,4
+Tanja Ballhorn,Familie venner,22,4
+Katrine Elliot,Familie venner,22,4
+Oliver Elliot,Familie venner,22,4
+William Elliot,Familie venner,22,4
+Roland,Familie venner,22,5
+Katrine (fars veninde),Familie venner,22,4
+Nora (Katrine),Familie venner,22,4
+Julia,TG,22,1
+Laura Appel,TG,22,4
+Halfdan,MK31,22,4
+Daniel,MK31,22,3
+August,MK31,22,3
+Balthazar,CG,22,1
+Mikkel,CG,22,3
+Anton,CG,22,2
+Elias,CG,22,2
+Noah,CG,22,2
+Rachel,CG,22,3
+Freja Smilla,CG,22,3
+Nefer,CG,22,2
+Alvilda,CG,22,3
+Marie,CG,22,3
+Johannes,CG,22,2
+Jasper,CG,22,2
+Philip ,CG,22,4
+Aslak ,CG,22,2
+Theo ,CG,22,3
+Emil Dam,CG,22,4
+Emil Mujacic ,CG,22,4
+Magnus Levanius,Noah,22,3
+Hans Vest,Anton,22,4
+Tobias Frimurer,Anton,22,3
+Alexandra,LMS,22,5
+Cille,LMS,22,5
+Cecilie Juul,LMS,22,5
+Liva,LMS,22,5
+Frederikke,LMS,22,5
+Maya Msafiri,Ingolfs,22,5
+Baldur,Ingolfs,22,5
+Martin Hemmingsen,Ingolfs,22,5
+Gustav Kokkelev,Ingolfs,22,5
+Steen,DGI,22,5
+Marike,DGI,22,5
+Kimberly,DGI,22,5
+Jasmin,DGI,22,5
+Viktor,DGI,22,5
+Tina Andersen,DGI,22,5
+Steven,Film,22,3
+Roni,Film,22,3
+Bakir,Film,22,3
+Mathilde,Film,22,3
+Dagmar,Krogerup,22,2
+Viktoria,Krogerup,22,2
+Mai,Krogerup,22,3
+Magnus Velling,Krogerup,22,4
+Albert Fink,Krogerup,22,4
+Asger,Krogerup,22,4
+Johan Mussmann,Krogerup,22,4
+Signe,Krogerup,22,2
+Clara Roslev,Krogerup,22,3
+Villads Tynell,Krogerup,22,4
+Therese,Krogerup,22,3
+Carl,Familie,22,1
+Pernille,Familie,22,3
+Laura Welinder,Skoleskibet,22,6
+Lukas,Skoleskibet,22,6
+Rosa,Skoleskibet,22,6
+Rose,Skoleskibet,22,6
+Oliver,Skoleskibet,22,6
+Jonas Ullman,Skoleskibet,22,6
+Sara Svendsen,Skoleskibet,22,6
+Jacob Tryk,Skoleskibet,22,6
+Johan Fischer,Skoleskibet,22,6
+Mie Wieder,Skoleskibet,22,6
+Anna Bertoli,Anton,22,6
+Ida,Familie,22,6
+Viktor,Familie,22,6
+Johan,Familie,22,6
+Nor,OD,22,6
+Mattis ,Nor,22,6
+Tania ,Nor,22,6
+Peter,Nor,22,6
+Oskar,OD,22,6
+Ella Moskvitin,OD,22,6
+Lise,OD,22,6
+Elisabeth,OD,22,6
+Carl-Auguste,OD,22,6
+Katinka,OD,22,6
+Hanne,OD,22,6
+Juli,OD,22,6
+Maj Navntoft,OD,22,6
+Celine Mina,OD,22,6
+Jad,OD,22,6
+Maher,OD,22,6
+Sigge,OD,22,6
+Tine Dam,DGUB,22,6
+Vibeke,DGUB,22,6
+Abbe,DFUNK,22,6
+Yonis,DFUNK,22,6
+Fidan,DFUNK,22,6
+Zainab,DFUNK,22,6
+Medina,DFUNK,22,6
+Feodora,Balthazar,22,6
+Rasmus Tiemann,Balthazar,22,6
+Thomsen,BRSB,22,6
+Tranberg,BRSB,22,6
+Schødt,BRSB,22,6
+Oscar,BRSB,22,6
+Max,BRSB,22,6
+Grønne,BRSB,22,6
+Maul,BRSB,22,6
+Svendsen,BRSB,22,6
+Bjørskov,BRSB,22,6
+Auken,BRSB,22,6
+Elgstrøm,BRSB,22,6
+Randløv,BRSB,22,6
+Caroline,Vietnam,22,6
+Thien,Vietnam,22,6
+Ida Gunge,Balthazar,22,3
+Viola,Balthazar,22,6
+Cammi,Noah,22,6
+Anna Schultz,Lukas,22,6
+Kasper ,Dea,22,6
+Kristoffer Kjær,Beboerhuset,22,6
+Carla,30B,22,6
+Emma,30B,22,6
+Søren La Cour,30B,22,6
+Lydia,DMJX,22,6
+Martha,DMJX,22,6
+Frida,DMJX,22,6
+David,DMJX,22,6
+William ,DMJX,22,6
+Emil,DMJX,22,6
+Rasmus,DMJX,22,6
+Sahra,DMJX,22,6
+Sarah Albæk,DMJX,22,6
+Sarah Nørgaard,DMJX,22,6
+Julie Brande Bæk,DMJX,22,6
+Chzisztof,GJK,22,6
+Mikkel Grønjords,GJK,22,6
+Tiantian,GJK,22,6
+Chaiti,GJK,22,6
+Dipok,GJK,22,6
+Sarah Cornelia,GJK,22,6
+Sarah Cornelia,GJK,22,6
+Mia,MIG,23,0
+Mor,Familie,23,1
+Far,Familie,23,1
+Baka Nena,Familie,23,3
+Zirajeta,Familie venner,23,5
+Teta Mini,Familie,23,3
+Dundo,Familie,23,4
+Stara Baka,Familie,23,7
+Dida Zlatko,Familie,23,7
+Freja,Familie,23,1
+Farmor,Familie,23,3
+Farfar,Familie,23,3
+Anika,Familie,23,3
+Laura Byskov,Familie,23,4
+Nikolaj,Familie,23,3
+Frederik,Familie,23,3
+Mathias ,Familie,23,3
+Kasper,Familie,23,3
+Nanna,FS Rosa,23,5
+Laura,FS Rosa,23,5
+Dea,LPS,23,1
+Fatmir,Dea,23,3
+Linda,Dea,23,3
+Henriette,LPS,23,2
+Tim,Henriette,23,3
+Trine,Henriette,23,3
+Cecilie,LPS,23,3
+Sarah S,LPS,23,5
+Sofia,LPS,23,4
+Vanessa,LPS,23,5
+August Trier,LPS,23,3
+Mathias,LPS,23,4
+Carl Terp,LPS,23,3
+Omar ,LPS,23,3
+Andreas Lærer,LPS,23,5
+Christiane Lærer,LPS,23,5
+Charlotte Lærer,LPS,23,5
+Kirsten Lærer,LPS,23,5
+Rasmus Lærer,LPS,23,5
+Ram,AVK,23,5
+Molly Walbum,AVK,23,5
+Didde Siig,AVK,23,5
+Frederikke Winther,AVK,23,5
+Alice Wendelin,AVK,23,5
+Alfa ,MK31,23,5
+Dominika ,MK31,23,5
+Ella,Familie,23,1
+Anders,Familie,23,1
+Rigmor,Familie,23,2
+Sigrid,Familie,23,2
+Anna Marie Dahl,Familie,23,3
+Jens Christian,Familie,23,3
+Thomas ,Familie,23,3
+Anette,Familie,23,3
+Edwin,Familie,23,3
+Edith,Familie,23,3
+August Ballhorn,Familie venner,23,4
+Tanja Ballhorn,Familie venner,23,4
+Katrine Elliot,Familie venner,23,4
+Oliver Elliot,Familie venner,23,4
+William Elliot,Familie venner,23,4
+Roland,Familie venner,23,5
+Katrine (fars veninde),Familie venner,23,4
+Nora (Katrine),Familie venner,23,4
+Julia,TG,23,1
+Laura Appel,TG,23,4
+Halfdan,MK31,23,4
+Daniel,MK31,23,4
+August,MK31,23,3
+Balthazar,CG,23,1
+Mikkel,CG,23,1
+Anton,CG,23,1
+Elias,CG,23,2
+Noah,CG,23,2
+Rachel,CG,23,3
+Freja Smilla,CG,23,3
+Nefer,CG,23,2
+Alvilda,CG,23,4
+Marie,CG,23,4
+Johannes,CG,23,2
+Jasper,CG,23,2
+Philip ,CG,23,4
+Aslak ,CG,23,3
+Theo ,CG,23,3
+Emil Dam,CG,23,4
+Emil Mujacic ,CG,23,5
+Magnus Levanius,Noah,23,4
+Hans Vest,Anton,23,4
+Tobias Frimurer,Anton,23,3
+Alexandra,LMS,23,5
+Cille,LMS,23,5
+Cecilie Juul,LMS,23,5
+Liva,LMS,23,5
+Frederikke,LMS,23,5
+Maya Msafiri,Ingolfs,23,5
+Baldur,Ingolfs,23,5
+Martin Hemmingsen,Ingolfs,23,5
+Gustav Kokkelev,Ingolfs,23,5
+Steen,DGI,23,5
+Marike,DGI,23,5
+Kimberly,DGI,23,5
+Jasmin,DGI,23,5
+Viktor,DGI,23,5
+Tina Andersen,DGI,23,5
+Steven,Film,23,5
+Roni,Film,23,5
+Bakir,Film,23,5
+Mathilde,Film,23,5
+Dagmar,Krogerup,23,3
+Viktoria,Krogerup,23,3
+Mai,Krogerup,23,4
+Magnus Velling,Krogerup,23,3
+Albert Fink,Krogerup,23,5
+Asger,Krogerup,23,5
+Johan Mussmann,Krogerup,23,5
+Signe,Krogerup,23,5
+Clara Roslev,Krogerup,23,5
+Villads Tynell,Krogerup,23,5
+Therese,Krogerup,23,5
+Carl,Familie,23,1
+Pernille,Familie,23,3
+Laura Welinder,Skoleskibet,23,1
+Lukas,Skoleskibet,23,1
+Rosa,Skoleskibet,23,2
+Rose,Skoleskibet,23,1
+Oliver,Skoleskibet,23,1
+Jonas Ullman,Skoleskibet,23,3
+Sara Svendsen,Skoleskibet,23,3
+Jacob Tryk,Skoleskibet,23,4
+Johan Fischer,Skoleskibet,23,3
+Mie Wieder,Skoleskibet,23,4
+Anna Bertoli,Anton,23,4
+Ida,Familie,23,6
+Viktor,Familie,23,6
+Johan,Familie,23,6
+Nor,OD,23,6
+Mattis ,Nor,23,6
+Tania ,Nor,23,6
+Peter,Nor,23,6
+Oskar,OD,23,6
+Ella Moskvitin,OD,23,6
+Lise,OD,23,6
+Elisabeth,OD,23,6
+Carl-Auguste,OD,23,6
+Katinka,OD,23,6
+Hanne,OD,23,6
+Juli,OD,23,6
+Maj Navntoft,OD,23,6
+Celine Mina,OD,23,6
+Jad,OD,23,6
+Maher,OD,23,6
+Sigge,OD,23,6
+Tine Dam,DGUB,23,6
+Vibeke,DGUB,23,6
+Abbe,DFUNK,23,6
+Yonis,DFUNK,23,6
+Fidan,DFUNK,23,6
+Zainab,DFUNK,23,6
+Medina,DFUNK,23,6
+Feodora,Balthazar,23,6
+Rasmus Tiemann,Balthazar,23,6
+Thomsen,BRSB,23,6
+Tranberg,BRSB,23,6
+Schødt,BRSB,23,6
+Oscar,BRSB,23,6
+Max,BRSB,23,6
+Grønne,BRSB,23,6
+Maul,BRSB,23,6
+Svendsen,BRSB,23,6
+Bjørskov,BRSB,23,6
+Auken,BRSB,23,6
+Elgstrøm,BRSB,23,6
+Randløv,BRSB,23,6
+Caroline,Vietnam,23,6
+Thien,Vietnam,23,6
+Ida Gunge,Balthazar,23,3
+Viola,Balthazar,23,6
+Cammi,Noah,23,6
+Anna Schultz,Lukas,23,6
+Kasper ,Dea,23,6
+Kristoffer Kjær,Beboerhuset,23,6
+Carla,30B,23,6
+Emma,30B,23,6
+Søren La Cour,30B,23,6
+Lydia,DMJX,23,6
+Martha,DMJX,23,6
+Frida,DMJX,23,6
+David,DMJX,23,6
+William ,DMJX,23,6
+Emil,DMJX,23,6
+Rasmus,DMJX,23,6
+Sahra,DMJX,23,6
+Sarah Albæk,DMJX,23,6
+Sarah Nørgaard,DMJX,23,6
+Julie Brande Bæk,DMJX,23,6
+Chzisztof,GJK,23,6
+Mikkel Grønjords,GJK,23,6
+Tiantian,GJK,23,6
+Chaiti,GJK,23,6
+Dipok,GJK,23,6
+Sarah Cornelia,GJK,23,6
+Sarah Cornelia,GJK,23,6
+Mia,MIG,24,0
+Mor,Familie,24,1
+Far,Familie,24,1
+Baka Nena,Familie,24,3
+Zirajeta,Familie venner,24,5
+Teta Mini,Familie,24,3
+Dundo,Familie,24,4
+Stara Baka,Familie,24,7
+Dida Zlatko,Familie,24,7
+Freja,Familie,24,1
+Farmor,Familie,24,3
+Farfar,Familie,24,3
+Anika,Familie,24,3
+Laura Byskov,Familie,24,4
+Nikolaj,Familie,24,3
+Frederik,Familie,24,3
+Mathias ,Familie,24,3
+Kasper,Familie,24,3
+Nanna,FS Rosa,24,5
+Laura,FS Rosa,24,5
+Dea,LPS,24,1
+Fatmir,Dea,24,3
+Linda,Dea,24,3
+Henriette,LPS,24,2
+Tim,Henriette,24,3
+Trine,Henriette,24,3
+Cecilie,LPS,24,3
+Sarah S,LPS,24,5
+Sofia,LPS,24,4
+Vanessa,LPS,24,5
+August Trier,LPS,24,3
+Mathias,LPS,24,4
+Carl Terp,LPS,24,3
+Omar ,LPS,24,3
+Andreas Lærer,LPS,24,5
+Christiane Lærer,LPS,24,5
+Charlotte Lærer,LPS,24,5
+Kirsten Lærer,LPS,24,5
+Rasmus Lærer,LPS,24,5
+Ram,AVK,24,5
+Molly Walbum,AVK,24,5
+Didde Siig,AVK,24,5
+Frederikke Winther,AVK,24,5
+Alice Wendelin,AVK,24,5
+Alfa ,MK31,24,4
+Dominika ,MK31,24,5
+Ella,Familie,24,1
+Anders,Familie,24,1
+Rigmor,Familie,24,2
+Sigrid,Familie,24,2
+Anna Marie Dahl,Familie,24,3
+Jens Christian,Familie,24,3
+Thomas ,Familie,24,3
+Anette,Familie,24,3
+Edwin,Familie,24,3
+Edith,Familie,24,3
+August Ballhorn,Familie venner,24,4
+Tanja Ballhorn,Familie venner,24,4
+Katrine Elliot,Familie venner,24,4
+Oliver Elliot,Familie venner,24,4
+William Elliot,Familie venner,24,4
+Roland,Familie venner,24,5
+Katrine (fars veninde),Familie venner,24,4
+Nora (Katrine),Familie venner,24,4
+Julia,TG,24,1
+Laura Appel,TG,24,4
+Halfdan,MK31,24,4
+Daniel,MK31,24,4
+August,MK31,24,4
+Balthazar,CG,24,1
+Mikkel,CG,24,2
+Anton,CG,24,1
+Elias,CG,24,2
+Noah,CG,24,2
+Rachel,CG,24,3
+Freja Smilla,CG,24,3
+Nefer,CG,24,2
+Alvilda,CG,24,4
+Marie,CG,24,4
+Johannes,CG,24,2
+Jasper,CG,24,2
+Philip ,CG,24,4
+Aslak ,CG,24,3
+Theo ,CG,24,3
+Emil Dam,CG,24,4
+Emil Mujacic ,CG,24,5
+Magnus Levanius,Noah,24,4
+Hans Vest,Anton,24,4
+Tobias Frimurer,Anton,24,3
+Alexandra,LMS,24,5
+Cille,LMS,24,5
+Cecilie Juul,LMS,24,5
+Liva,LMS,24,5
+Frederikke,LMS,24,5
+Maya Msafiri,Ingolfs,24,5
+Baldur,Ingolfs,24,5
+Martin Hemmingsen,Ingolfs,24,5
+Gustav Kokkelev,Ingolfs,24,5
+Steen,DGI,24,5
+Marike,DGI,24,5
+Kimberly,DGI,24,5
+Jasmin,DGI,24,5
+Viktor,DGI,24,5
+Tina Andersen,DGI,24,5
+Steven,Film,24,5
+Roni,Film,24,5
+Bakir,Film,24,5
+Mathilde,Film,24,5
+Dagmar,Krogerup,24,4
+Viktoria,Krogerup,24,4
+Mai,Krogerup,24,4
+Magnus Velling,Krogerup,24,5
+Albert Fink,Krogerup,24,5
+Asger,Krogerup,24,5
+Johan Mussmann,Krogerup,24,5
+Signe,Krogerup,24,5
+Clara Roslev,Krogerup,24,5
+Villads Tynell,Krogerup,24,5
+Therese,Krogerup,24,5
+Carl,Familie,24,1
+Pernille,Familie,24,5
+Laura Welinder,Skoleskibet,24,2
+Lukas,Skoleskibet,24,3
+Rosa,Skoleskibet,24,4
+Rose,Skoleskibet,24,4
+Oliver,Skoleskibet,24,5
+Jonas Ullman,Skoleskibet,24,4
+Sara Svendsen,Skoleskibet,24,5
+Jacob Tryk,Skoleskibet,24,5
+Johan Fischer,Skoleskibet,24,5
+Mie Wieder,Skoleskibet,24,4
+Anna Bertoli,Anton,24,3
+Ida,Familie,24,2
+Viktor,Familie,24,6
+Johan,Familie,24,6
+Nor,OD,24,1
+Mattis ,Nor,24,6
+Tania ,Nor,24,6
+Peter,Nor,24,6
+Oskar,OD,24,3
+Ella Moskvitin,OD,24,3
+Lise,OD,24,4
+Elisabeth,OD,24,4
+Carl-Auguste,OD,24,3
+Katinka,OD,24,3
+Hanne,OD,24,3
+Juli,OD,24,3
+Maj Navntoft,OD,24,4
+Celine Mina,OD,24,3
+Jad,OD,24,3
+Maher,OD,24,3
+Sigge,OD,24,6
+Tine Dam,DGUB,24,3
+Vibeke,DGUB,24,3
+Abbe,DFUNK,24,3
+Yonis,DFUNK,24,3
+Fidan,DFUNK,24,3
+Zainab,DFUNK,24,3
+Medina,DFUNK,24,3
+Feodora,Balthazar,24,3
+Rasmus Tiemann,Balthazar,24,3
+Thomsen,BRSB,24,6
+Tranberg,BRSB,24,6
+Schødt,BRSB,24,6
+Oscar,BRSB,24,6
+Max,BRSB,24,6
+Grønne,BRSB,24,6
+Maul,BRSB,24,6
+Svendsen,BRSB,24,6
+Bjørskov,BRSB,24,6
+Auken,BRSB,24,6
+Elgstrøm,BRSB,24,6
+Randløv,BRSB,24,6
+Caroline,Vietnam,24,6
+Thien,Vietnam,24,6
+Ida Gunge,Balthazar,24,5
+Viola,Balthazar,24,6
+Cammi,Noah,24,6
+Anna Schultz,Lukas,24,6
+Kasper ,Dea,24,6
+Kristoffer Kjær,Beboerhuset,24,6
+Carla,30B,24,6
+Emma,30B,24,6
+Søren La Cour,30B,24,6
+Lydia,DMJX,24,6
+Martha,DMJX,24,6
+Frida,DMJX,24,6
+David,DMJX,24,6
+William ,DMJX,24,6
+Emil,DMJX,24,6
+Rasmus,DMJX,24,6
+Sahra,DMJX,24,6
+Sarah Albæk,DMJX,24,6
+Sarah Nørgaard,DMJX,24,6
+Julie Brande Bæk,DMJX,24,6
+Chzisztof,GJK,24,6
+Mikkel Grønjords,GJK,24,6
+Tiantian,GJK,24,6
+Chaiti,GJK,24,6
+Dipok,GJK,24,6
+Sarah Cornelia,GJK,24,6
+Sarah Cornelia,GJK,24,6
+Mia,MIG,25,0
+Mor,Familie,25,1
+Far,Familie,25,1
+Baka Nena,Familie,25,1
+Zirajeta,Familie venner,25,5
+Teta Mini,Familie,25,3
+Dundo,Familie,25,7
+Stara Baka,Familie,25,7
+Dida Zlatko,Familie,25,7
+Freja,Familie,25,1
+Farmor,Familie,25,3
+Farfar,Familie,25,3
+Anika,Familie,25,3
+Laura Byskov,Familie,25,4
+Nikolaj,Familie,25,3
+Frederik,Familie,25,3
+Mathias ,Familie,25,3
+Kasper,Familie,25,3
+Nanna,FS Rosa,25,5
+Laura,FS Rosa,25,5
+Dea,LPS,25,1
+Fatmir,Dea,25,3
+Linda,Dea,25,3
+Henriette,LPS,25,2
+Tim,Henriette,25,3
+Trine,Henriette,25,3
+Cecilie,LPS,25,3
+Sarah S,LPS,25,5
+Sofia,LPS,25,4
+Vanessa,LPS,25,5
+August Trier,LPS,25,4
+Mathias,LPS,25,4
+Carl Terp,LPS,25,3
+Omar ,LPS,25,3
+Andreas Lærer,LPS,25,5
+Christiane Lærer,LPS,25,5
+Charlotte Lærer,LPS,25,5
+Kirsten Lærer,LPS,25,5
+Rasmus Lærer,LPS,25,5
+Ram,AVK,25,5
+Molly Walbum,AVK,25,5
+Didde Siig,AVK,25,5
+Frederikke Winther,AVK,25,5
+Alice Wendelin,AVK,25,5
+Alfa ,MK31,25,5
+Dominika ,MK31,25,5
+Ella,Familie,25,1
+Anders,Familie,25,1
+Rigmor,Familie,25,2
+Sigrid,Familie,25,2
+Anna Marie Dahl,Familie,25,3
+Jens Christian,Familie,25,3
+Thomas ,Familie,25,3
+Anette,Familie,25,3
+Edwin,Familie,25,3
+Edith,Familie,25,3
+August Ballhorn,Familie venner,25,4
+Tanja Ballhorn,Familie venner,25,4
+Katrine Elliot,Familie venner,25,4
+Oliver Elliot,Familie venner,25,4
+William Elliot,Familie venner,25,4
+Roland,Familie venner,25,5
+Katrine (fars veninde),Familie venner,25,4
+Nora (Katrine),Familie venner,25,4
+Julia,TG,25,1
+Laura Appel,TG,25,4
+Halfdan,MK31,25,4
+Daniel,MK31,25,4
+August,MK31,25,4
+Balthazar,CG,25,1
+Mikkel,CG,25,3
+Anton,CG,25,2
+Elias,CG,25,2
+Noah,CG,25,2
+Rachel,CG,25,2
+Freja Smilla,CG,25,3
+Nefer,CG,25,1
+Alvilda,CG,25,4
+Marie,CG,25,4
+Johannes,CG,25,3
+Jasper,CG,25,3
+Philip ,CG,25,4
+Aslak ,CG,25,3
+Theo ,CG,25,4
+Emil Dam,CG,25,4
+Emil Mujacic ,CG,25,5
+Magnus Levanius,Noah,25,4
+Hans Vest,Anton,25,4
+Tobias Frimurer,Anton,25,3
+Alexandra,LMS,25,5
+Cille,LMS,25,5
+Cecilie Juul,LMS,25,5
+Liva,LMS,25,5
+Frederikke,LMS,25,5
+Maya Msafiri,Ingolfs,25,5
+Baldur,Ingolfs,25,5
+Martin Hemmingsen,Ingolfs,25,5
+Gustav Kokkelev,Ingolfs,25,5
+Steen,DGI,25,5
+Marike,DGI,25,5
+Kimberly,DGI,25,5
+Jasmin,DGI,25,5
+Viktor,DGI,25,5
+Tina Andersen,DGI,25,5
+Steven,Film,25,5
+Roni,Film,25,5
+Bakir,Film,25,5
+Mathilde,Film,25,5
+Dagmar,Krogerup,25,4
+Viktoria,Krogerup,25,4
+Mai,Krogerup,25,4
+Magnus Velling,Krogerup,25,5
+Albert Fink,Krogerup,25,5
+Asger,Krogerup,25,4
+Johan Mussmann,Krogerup,25,5
+Signe,Krogerup,25,5
+Clara Roslev,Krogerup,25,5
+Villads Tynell,Krogerup,25,5
+Therese,Krogerup,25,5
+Carl,Familie,25,1
+Pernille,Familie,25,5
+Laura Welinder,Skoleskibet,25,2
+Lukas,Skoleskibet,25,2
+Rosa,Skoleskibet,25,5
+Rose,Skoleskibet,25,5
+Oliver,Skoleskibet,25,5
+Jonas Ullman,Skoleskibet,25,5
+Sara Svendsen,Skoleskibet,25,5
+Jacob Tryk,Skoleskibet,25,3
+Johan Fischer,Skoleskibet,25,5
+Mie Wieder,Skoleskibet,25,4
+Anna Bertoli,Anton,25,4
+Ida,Familie,25,2
+Viktor,Familie,25,4
+Johan,Familie,25,4
+Nor,OD,25,1
+Mattis ,Nor,25,3
+Tania ,Nor,25,3
+Peter,Nor,25,3
+Oskar,OD,25,3
+Ella Moskvitin,OD,25,3
+Lise,OD,25,3
+Elisabeth,OD,25,3
+Carl-Auguste,OD,25,3
+Katinka,OD,25,3
+Hanne,OD,25,3
+Juli,OD,25,3
+Maj Navntoft,OD,25,3
+Celine Mina,OD,25,4
+Jad,OD,25,4
+Maher,OD,25,4
+Sigge,OD,25,5
+Tine Dam,DGUB,25,4
+Vibeke,DGUB,25,4
+Abbe,DFUNK,25,4
+Yonis,DFUNK,25,3
+Fidan,DFUNK,25,4
+Zainab,DFUNK,25,4
+Medina,DFUNK,25,4
+Feodora,Balthazar,25,3
+Rasmus Tiemann,Balthazar,25,3
+Thomsen,BRSB,25,2
+Tranberg,BRSB,25,2
+Schødt,BRSB,25,2
+Oscar,BRSB,25,3
+Max,BRSB,25,3
+Grønne,BRSB,25,3
+Maul,BRSB,25,3
+Svendsen,BRSB,25,3
+Bjørskov,BRSB,25,3
+Auken,BRSB,25,2
+Elgstrøm,BRSB,25,3
+Randløv,BRSB,25,2
+Caroline,Vietnam,25,3
+Thien,Vietnam,25,3
+Ida Gunge,Balthazar,25,5
+Viola,Balthazar,25,5
+Cammi,Noah,25,6
+Anna Schultz,Lukas,25,2
+Kasper ,Dea,25,5
+Kristoffer Kjær,Beboerhuset,25,5
+Carla,30B,25,6
+Emma,30B,25,6
+Søren La Cour,30B,25,5
+Lydia,DMJX,25,6
+Martha,DMJX,25,6
+Frida,DMJX,25,6
+David,DMJX,25,6
+William ,DMJX,25,6
+Emil,DMJX,25,6
+Rasmus,DMJX,25,6
+Sahra,DMJX,25,6
+Sarah Albæk,DMJX,25,6
+Sarah Nørgaard,DMJX,25,6
+Julie Brande Bæk,DMJX,25,6
+Chzisztof,GJK,25,6
+Mikkel Grønjords,GJK,25,6
+Tiantian,GJK,25,6
+Chaiti,GJK,25,6
+Dipok,GJK,25,6
+Sarah Cornelia,GJK,25,6
+Sarah Cornelia,GJK,25,6
+Mia,MIG,26,0
+Mor,Familie,26,1
+Far,Familie,26,1
+Baka Nena,Familie,26,2
+Zirajeta,Familie venner,26,5
+Teta Mini,Familie,26,3
+Dundo,Familie,26,7
+Stara Baka,Familie,26,7
+Dida Zlatko,Familie,26,7
+Freja,Familie,26,1
+Farmor,Familie,26,3
+Farfar,Familie,26,3
+Anika,Familie,26,3
+Laura Byskov,Familie,26,4
+Nikolaj,Familie,26,3
+Frederik,Familie,26,3
+Mathias ,Familie,26,3
+Kasper,Familie,26,3
+Nanna,FS Rosa,26,5
+Laura,FS Rosa,26,5
+Dea,LPS,26,1
+Fatmir,Dea,26,3
+Linda,Dea,26,7
+Henriette,LPS,26,2
+Tim,Henriette,26,3
+Trine,Henriette,26,3
+Cecilie,LPS,26,3
+Sarah S,LPS,26,5
+Sofia,LPS,26,3
+Vanessa,LPS,26,5
+August Trier,LPS,26,4
+Mathias,LPS,26,4
+Carl Terp,LPS,26,3
+Omar ,LPS,26,3
+Andreas Lærer,LPS,26,5
+Christiane Lærer,LPS,26,5
+Charlotte Lærer,LPS,26,5
+Kirsten Lærer,LPS,26,5
+Rasmus Lærer,LPS,26,5
+Ram,AVK,26,5
+Molly Walbum,AVK,26,5
+Didde Siig,AVK,26,5
+Frederikke Winther,AVK,26,5
+Alice Wendelin,AVK,26,5
+Alfa ,MK31,26,5
+Dominika ,MK31,26,5
+Ella,Familie,26,1
+Anders,Familie,26,1
+Rigmor,Familie,26,2
+Sigrid,Familie,26,2
+Anna Marie Dahl,Familie,26,3
+Jens Christian,Familie,26,3
+Thomas ,Familie,26,3
+Anette,Familie,26,3
+Edwin,Familie,26,3
+Edith,Familie,26,3
+August Ballhorn,Familie venner,26,4
+Tanja Ballhorn,Familie venner,26,4
+Katrine Elliot,Familie venner,26,4
+Oliver Elliot,Familie venner,26,4
+William Elliot,Familie venner,26,4
+Roland,Familie venner,26,5
+Katrine (fars veninde),Familie venner,26,4
+Nora (Katrine),Familie venner,26,4
+Julia,TG,26,1
+Laura Appel,TG,26,3
+Halfdan,MK31,26,4
+Daniel,MK31,26,3
+August,MK31,26,4
+Balthazar,CG,26,1
+Mikkel,CG,26,3
+Anton,CG,26,3
+Elias,CG,26,2
+Noah,CG,26,2
+Rachel,CG,26,2
+Freja Smilla,CG,26,3
+Nefer,CG,26,1
+Alvilda,CG,26,4
+Marie,CG,26,4
+Johannes,CG,26,3
+Jasper,CG,26,3
+Philip ,CG,26,4
+Aslak ,CG,26,4
+Theo ,CG,26,4
+Emil Dam,CG,26,4
+Emil Mujacic ,CG,26,5
+Magnus Levanius,Noah,26,4
+Hans Vest,Anton,26,4
+Tobias Frimurer,Anton,26,3
+Alexandra,LMS,26,5
+Cille,LMS,26,5
+Cecilie Juul,LMS,26,5
+Liva,LMS,26,5
+Frederikke,LMS,26,5
+Maya Msafiri,Ingolfs,26,5
+Baldur,Ingolfs,26,5
+Martin Hemmingsen,Ingolfs,26,5
+Gustav Kokkelev,Ingolfs,26,5
+Steen,DGI,26,5
+Marike,DGI,26,5
+Kimberly,DGI,26,5
+Jasmin,DGI,26,5
+Viktor,DGI,26,5
+Tina Andersen,DGI,26,5
+Steven,Film,26,5
+Roni,Film,26,5
+Bakir,Film,26,5
+Mathilde,Film,26,5
+Dagmar,Krogerup,26,4
+Viktoria,Krogerup,26,4
+Mai,Krogerup,26,4
+Magnus Velling,Krogerup,26,5
+Albert Fink,Krogerup,26,5
+Asger,Krogerup,26,5
+Johan Mussmann,Krogerup,26,5
+Signe,Krogerup,26,5
+Clara Roslev,Krogerup,26,5
+Villads Tynell,Krogerup,26,5
+Therese,Krogerup,26,5
+Carl,Familie,26,1
+Pernille,Familie,26,5
+Laura Welinder,Skoleskibet,26,2
+Lukas,Skoleskibet,26,3
+Rosa,Skoleskibet,26,5
+Rose,Skoleskibet,26,5
+Oliver,Skoleskibet,26,5
+Jonas Ullman,Skoleskibet,26,5
+Sara Svendsen,Skoleskibet,26,5
+Jacob Tryk,Skoleskibet,26,5
+Johan Fischer,Skoleskibet,26,5
+Mie Wieder,Skoleskibet,26,4
+Anna Bertoli,Anton,26,4
+Ida,Familie,26,2
+Viktor,Familie,26,3
+Johan,Familie,26,3
+Nor,OD,26,3
+Mattis ,Nor,26,4
+Tania ,Nor,26,5
+Peter,Nor,26,5
+Oskar,OD,26,3
+Ella Moskvitin,OD,26,4
+Lise,OD,26,2
+Elisabeth,OD,26,3
+Carl-Auguste,OD,26,4
+Katinka,OD,26,4
+Hanne,OD,26,4
+Juli,OD,26,4
+Maj Navntoft,OD,26,3
+Celine Mina,OD,26,5
+Jad,OD,26,5
+Maher,OD,26,5
+Sigge,OD,26,3
+Tine Dam,DGUB,26,4
+Vibeke,DGUB,26,4
+Abbe,DFUNK,26,5
+Yonis,DFUNK,26,3
+Fidan,DFUNK,26,4
+Zainab,DFUNK,26,4
+Medina,DFUNK,26,5
+Feodora,Balthazar,26,5
+Rasmus Tiemann,Balthazar,26,5
+Thomsen,BRSB,26,3
+Tranberg,BRSB,26,3
+Schødt,BRSB,26,4
+Oscar,BRSB,26,5
+Max,BRSB,26,5
+Grønne,BRSB,26,5
+Maul,BRSB,26,5
+Svendsen,BRSB,26,5
+Bjørskov,BRSB,26,5
+Auken,BRSB,26,5
+Elgstrøm,BRSB,26,5
+Randløv,BRSB,26,5
+Caroline,Vietnam,26,5
+Thien,Vietnam,26,5
+Ida Gunge,Balthazar,26,5
+Viola,Balthazar,26,3
+Cammi,Noah,26,3
+Anna Schultz,Lukas,26,3
+Kasper ,Dea,26,3
+Kristoffer Kjær,Beboerhuset,26,3
+Carla,30B,26,2
+Emma,30B,26,2
+Søren La Cour,30B,26,5
+Lydia,DMJX,26,2
+Martha,DMJX,26,2
+Frida,DMJX,26,3
+David,DMJX,26,3
+William ,DMJX,26,3
+Emil,DMJX,26,3
+Rasmus,DMJX,26,3
+Sahra,DMJX,26,3
+Sarah Albæk,DMJX,26,3
+Sarah Nørgaard,DMJX,26,3
+Julie Brande Bæk,DMJX,26,3
+Chzisztof,GJK,26,4
+Mikkel Grønjords,GJK,26,3
+Tiantian,GJK,26,3
+Chaiti,GJK,26,3
+Dipok,GJK,26,3
+Sarah Cornelia,GJK,26,3
+Sarah Cornelia,GJK,26,3

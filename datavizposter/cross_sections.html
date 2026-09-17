@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Relationship Cross-Sections</title>
+  <style>
+    :root {
+      --ink: #17211b;
+      --muted: #68756c;
+      --paper: #e9e5c7;
+      --panel: #fffdf7;
+      --line: #d8d8c9;
+      --accent: #b04c33;
+      --ring: #aab8aa;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: radial-gradient(circle at 15% 0%, #fffaf0 0, var(--paper) 42%, #dfe7db 100%);
+      font-family: Georgia, "Times New Roman", serif;
+    }
+    header, main { max-width: 1500px; margin: 0 auto; padding: 24px; }
+    header { display: flex; justify-content: space-between; gap: 24px; align-items: end; }
+    h1 { margin: 0; font-size: clamp(2rem, 4vw, 4rem); line-height: .95; letter-spacing: 0; }
+    .intro { max-width: 520px; color: var(--muted); line-height: 1.45; }
+    .controls { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 18px; align-items: center; }
+    input, select, button {
+      min-height: 40px; border: 1px solid var(--line); border-radius: 4px;
+      padding: 8px 12px; background: var(--panel); color: var(--ink); font: inherit;
+    }
+    button { cursor: pointer; background: var(--ink); color: white; border-color: var(--ink); }
+    .status { color: var(--muted); font: 14px/1.3 ui-sans-serif, system-ui, sans-serif; }
+    .legend { display: flex; flex-wrap: wrap; gap: 14px; margin: 0 0 22px; color: var(--muted); font: 13px ui-sans-serif, system-ui, sans-serif; }
+    .legend span { display: inline-flex; gap: 6px; align-items: center; }
+    .swatch { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+    .swatch.core { background: #243d2b; }
+    .swatch.ring { background: var(--accent); }
+    .swatch.stranger { background: #a8afa9; }
+    .swatch.dead { background: #a8afa9; opacity: .3; }
+    .sections { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 14px; }
+    .section { background: rgba(255, 253, 247, .86); border: 1px solid var(--line); padding: 12px; box-shadow: 0 8px 24px rgba(31, 47, 35, .07); }
+    .section h2 { margin: 0 0 6px; font-size: 1.1rem; font-weight: normal; }
+    .section p { margin: 0 0 8px; color: var(--muted); font: 12px ui-sans-serif, system-ui, sans-serif; }
+    svg { display: block; width: 100%; height: auto; aspect-ratio: 1; background: #f7f5ec; }
+    .ring-line { fill: none; stroke: var(--ring); stroke-width: 1; }
+    .axis { stroke: #dfe2d5; stroke-width: 1; }
+    .person { stroke: #fffdf7; stroke-width: .7; cursor: pointer; }
+    .person:hover { stroke: var(--ink); stroke-width: 2; }
+    .empty { grid-column: 1 / -1; padding: 40px; text-align: center; color: var(--muted); }
+    @media (max-width: 700px) { header { display: block; } .intro { margin-top: 14px; } main, header { padding: 16px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Syvogtyve<br>menneske sektioner</h1>
+    </div>
+    <div class="intro">Hver sektion er en alder. Centeret er tæthedsværdi 0; ydercirklen er tæthedsværdi 5. Fremmede er udenfor ringen, mens 7 er folk der er døde.</div>
+  </header>
+  <main>
+    <div class="controls">
+      <input id="file" type="file" accept=".csv" aria-label="Choose CSV file">
+      <select id="place"><option value="">Alle steder</option></select>
+      <input id="search" type="search" placeholder="Find a person" aria-label="Find a person">
+      <button id="reset" type="button">Reset filters</button>
+      <span id="status" class="status">Loading data...</span>
+    </div>
+    <div class="legend">
+      <span><i class="swatch core"></i> tæt på kernen</span>
+      <span><i class="swatch ring"></i> tæthedsværdi 1-5</span>
+      <span><i class="swatch stranger"></i> fremmede (6)</span>
+      <span><i class="swatch dead"></i> dødsværdi (7)</span>
+    </div>
+    <section id="sections" class="sections"><div class="empty">Venter på CSV...</div></section>
+  </main>
+  <script>
+    const DATA_FILE = "Mennesker-Alder-Tæthedsværdi_long_v01.csv";
+    const sections = document.querySelector("#sections");
+    const status = document.querySelector("#status");
+    const placeSelect = document.querySelector("#place");
+    const searchInput = document.querySelector("#search");
+    let rows = [];
+
+    function parseCsv(text) {
+      const lines = text.trim().split(/\r?\n/);
+      const headers = lines.shift().split(",");
+      return lines.map(line => {
+        const values = line.split(",");
+        return Object.fromEntries(headers.map((header, index) => [header, values[index] ?? ""]));
+      });
+    }
+
+    function hash(value) {
+      let result = 0;
+      for (const character of value) result = (result * 31 + character.charCodeAt(0)) >>> 0;
+      return result;
+    }
+
+    function colorFor(place) {
+      const hue = hash(place) % 360;
+      return `hsl(${hue} 46% 38%)`;
+    }
+
+    function radiusFor(value, center, ringGap) {
+      if (value <= 0) return center;
+      if (value <= 5) return center + value * ringGap;
+      return center + ringGap * 5 + (value - 5) * ringGap * .65;
+    }
+
+    function drawSection(age, data) {
+      const width = 220;
+      const center = width / 2;
+      const ringGap = 15;
+      const innerRadius = 18;
+      const visible = data.filter(row => {
+        const placeMatch = !placeSelect.value || row.Sted === placeSelect.value;
+        const searchMatch = !searchInput.value || row.Navn.toLowerCase().includes(searchInput.value.toLowerCase());
+        return placeMatch && searchMatch;
+      });
+      const rings = [1, 2, 3, 4, 5].map(level => `<circle class="ring-line" cx="${center}" cy="${center}" r="${innerRadius + level * ringGap}" />`).join("");
+      const dots = visible.map((row, index) => {
+        const value = Number(row.Closeness);
+        const angle = ((hash(`${row.Navn}-${row.Sted}`) % 360) + index * 17) * Math.PI / 180;
+        const jitter = ((hash(`${row.Navn}-${age}`) % 100) / 100 - .5) * 7;
+        const radius = radiusFor(value, innerRadius, ringGap) + jitter;
+        const x = center + Math.cos(angle) * radius;
+        const y = center + Math.sin(angle) * radius;
+        const isDeath = value === 7;
+        const fill = value === 6 ? "#9ca59e" : isDeath ? "#9ca59e" : colorFor(row.Sted);
+        const opacity = isDeath ? .22 : value === 6 ? .48 : .9;
+        return `<circle class="person" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${value === 0 ? 3.2 : 2.4}" fill="${fill}" opacity="${opacity}"><title>${row.Navn} | ${row.Sted} | closeness ${value}</title></circle>`;
+      }).join("");
+      return `<article class="section"><h2>Age ${age}</h2><p>${visible.length} people shown</p><svg viewBox="0 0 ${width} ${width}" role="img" aria-label="Relationship cross-section at age ${age}"><line class="axis" x1="${center}" y1="8" x2="${center}" y2="${width - 8}" /><line class="axis" x1="8" y1="${center}" x2="${width - 8}" y2="${center}" />${rings}<circle cx="${center}" cy="${center}" r="${innerRadius}" fill="#243d2b" opacity=".16" />${dots}</svg></article>`;
+    }
+
+    function render() {
+      if (!rows.length) return;
+      const byAge = new Map();
+      for (const row of rows) {
+        const age = Number(row.Age);
+        if (!byAge.has(age)) byAge.set(age, []);
+        byAge.get(age).push(row);
+      }
+      sections.innerHTML = [...byAge.keys()].sort((a, b) => a - b).map(age => drawSection(age, byAge.get(age))).join("");
+      status.textContent = `${rows.length} records loaded; duplicate records hidden`;
+    }
+
+    function loadText(text) {
+      const unique = new Map();
+      for (const row of parseCsv(text)) unique.set(`${row.Navn}|${row.Sted}|${row.Age}`, row);
+      rows = [...unique.values()];
+      const places = [...new Set(rows.map(row => row.Sted))].sort();
+      placeSelect.innerHTML = '<option value="">All places</option>' + places.map(place => `<option>${place}</option>`).join("");
+      render();
+    }
+
+    document.querySelector("#file").addEventListener("change", event => {
+      const file = event.target.files[0];
+      if (file) file.text().then(loadText);
+    });
+    placeSelect.addEventListener("change", render);
+    searchInput.addEventListener("input", render);
+    document.querySelector("#reset").addEventListener("click", () => { placeSelect.value = ""; searchInput.value = ""; render(); });
+    fetch(DATA_FILE).then(response => response.text()).then(loadText).catch(() => { status.textContent = "Choose the CSV file above to load it."; });
+  </script>
+</body>
+</html>

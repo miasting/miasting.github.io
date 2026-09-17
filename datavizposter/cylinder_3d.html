@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Relationship Cylinder</title>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"
+      }
+    }
+  </script>
+  <style>
+    html, body { margin: 0; height: 100%; overflow: hidden; background: #101813; color: #f3f0e7; font-family: Georgia, "Times New Roman", serif; }
+    #scene { width: 100%; height: 100%; display: block; }
+    .hud { position: fixed; inset: 20px auto auto 22px; max-width: 360px; pointer-events: none; }
+    h1 { margin: 0 0 8px; font-size: clamp(1.8rem, 4vw, 3.6rem); line-height: .92; font-weight: normal; }
+    p { margin: 0; color: #b5c1b7; line-height: 1.4; }
+    .search { margin-top: 16px; width: 260px; max-width: 100%; pointer-events: auto; border: 1px solid #657568; border-radius: 4px; padding: 10px 12px; background: #18231b; color: #f3f0e7; font: inherit; }
+    .tooltip { position: fixed; display: none; z-index: 5; pointer-events: none; padding: 8px 10px; border: 1px solid #657568; border-radius: 4px; background: rgba(24, 35, 27, .94); color: #f3f0e7; font: 12px/1.35 ui-sans-serif, system-ui, sans-serif; }
+    .key { position: fixed; right: 22px; bottom: 20px; color: #b5c1b7; font: 12px/1.7 ui-sans-serif, system-ui, sans-serif; text-align: right; }
+    .key b { color: #f3f0e7; }
+    .status { position: fixed; left: 22px; bottom: 20px; color: #b5c1b7; font: 12px ui-sans-serif, system-ui, sans-serif; }
+  </style>
+</head>
+<body>
+  <canvas id="scene"></canvas>
+  <div class="hud"><h1>Relationship<br>cylinder</h1><p>Height is age. Distance from the axis is closeness. Strangers are hidden; death returns a faded line to the core.</p><input id="search" class="search" type="search" placeholder="Search a name" aria-label="Search a name"></div>
+  <div class="status" id="status">Loading data...</div>
+  <div class="key"><b>0</b> core &nbsp; <b>1-5</b> relationships &nbsp; <b>6</b> stranger hidden &nbsp; <b>7</b> death</div>
+  <div class="tooltip" id="tooltip"></div>
+  <script type="module">
+    import * as THREE from "three";
+    import { OrbitControls } from "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/controls/OrbitControls.js";
+
+    const canvas = document.querySelector("#scene");
+    const status = document.querySelector("#status");
+    const search = document.querySelector("#search");
+    const tooltip = document.querySelector("#tooltip");
+    const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: false });
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.setClearColor(0x101813, 1);
+
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(42, 1, .1, 200);
+    camera.position.set(16, 14, 19);
+    const controls = new OrbitControls(camera, renderer.domElement);
+    controls.target.set(0, 8, 0);
+    controls.enableDamping = true;
+    controls.minDistance = 8;
+    controls.maxDistance = 50;
+
+    const raycaster = new THREE.Raycaster();
+    raycaster.params.Line.threshold = .25;
+    const pointer = new THREE.Vector2();
+
+    scene.add(new THREE.HemisphereLight(0xdfe8d9, 0x182019, 2));
+    const cylinderHeight = 16;
+    const cylinderRadius = 5;
+    const ageMax = 26;
+    const root = new THREE.Group();
+    scene.add(root);
+    const bornPeople = new Set([
+      "Mia|MIG",
+      "Freja|Familie",
+      "Nikolaj|Familie",
+      "Frederik|Familie",
+      "Kasper|Familie",
+      "Mathias|Familie",
+      "Ella|Familie",
+      "Carl|Familie"
+    ]);
+
+    const cylinder = new THREE.Mesh(
+      new THREE.CylinderGeometry(cylinderRadius, cylinderRadius, cylinderHeight, 64, 1, true),
+      new THREE.MeshBasicMaterial({ color: 0xa9bcaa, transparent: true, opacity: .08, wireframe: true })
+    );
+    cylinder.position.y = cylinderHeight / 2;
+    root.add(cylinder);
+
+    for (let age = 0; age <= ageMax; age++) {
+      const ring = new THREE.LineLoop(
+        new THREE.CircleGeometry(cylinderRadius, 64),
+        new THREE.LineBasicMaterial({ color: 0x73877a, transparent: true, opacity: .26 })
+      );
+      ring.rotation.x = Math.PI / 2;
+      ring.position.y = age / ageMax * cylinderHeight;
+      root.add(ring);
+    }
+
+    function parseCsv(text) {
+      const lines = text.trim().split(/\r?\n/);
+      const headers = lines.shift().split(",");
+      return lines.map(line => {
+        const values = line.split(",");
+        return Object.fromEntries(headers.map((header, index) => [header, values[index] ?? ""]));
+      });
+    }
+
+    function hash(value) {
+      let result = 0;
+      for (const character of value) result = (result * 31 + character.charCodeAt(0)) >>> 0;
+      return result;
+    }
+
+    function colorFor(place) {
+      const color = new THREE.Color();
+      color.setHSL((hash(place) % 360) / 360, .52, .57);
+      return color;
+    }
+
+    function pointFor(row, age) {
+      const value = Number(row.Closeness);
+      const baseRadius = value === 7 ? 0 : value <= 5 ? value : 5 + (value - 5) * 1.8;
+      const placeAngle = hash(row.Sted) % 360;
+      const personOffset = ((hash(row.Navn) % 100) / 100 - .5) * 46;
+      const angle = (placeAngle + personOffset) * Math.PI / 180;
+      const jitter = value === 0 ? ((hash(`${row.Navn}-${age}`) % 100) / 100 - .5) * .12 : 0;
+      return new THREE.Vector3(
+        Math.cos(angle) * (baseRadius + jitter),
+        age / ageMax * cylinderHeight,
+        Math.sin(angle) * (baseRadius + jitter)
+      );
+    }
+
+    function addPeople(rows) {
+      const people = new Map();
+      for (const row of rows) {
+        const key = `${row.Navn}|${row.Sted}`;
+        if (!people.has(key)) people.set(key, []);
+        people.get(key).push(row);
+      }
+      let sequence = 0;
+      for (const [key, personRows] of people) {
+        const ordered = personRows.sort((a, b) => Number(a.Age) - Number(b.Age));
+        const firstKnownIndex = ordered.findIndex(row => Number(row.Closeness) <= 5);
+        if (firstKnownIndex < 0) continue;
+        const born = bornPeople.has(key) || ordered.slice(0, firstKnownIndex).some(row => Number(row.Closeness) === 8);
+        const entryPoints = [];
+        if (!born) {
+          const entryRow = { ...ordered[firstKnownIndex], Closeness: 5 };
+          entryPoints.push(pointFor(entryRow, Number(entryRow.Age)));
+        }
+        const visibleRows = ordered.slice(firstKnownIndex).filter(row => Number(row.Closeness) !== 6);
+        const deathIndex = visibleRows.findIndex(row => Number(row.Closeness) === 7);
+        const livingRows = deathIndex >= 0 ? visibleRows.slice(0, deathIndex) : visibleRows;
+        const livingPoints = entryPoints.concat(livingRows.map(row => pointFor(row, Number(row.Age))));
+        const color = colorFor(ordered[0].Sted);
+
+        function addPersonLine(points, opacity, dashed) {
+          if (points.length < 2) return;
+          const curve = new THREE.CatmullRomCurve3(points);
+          const geometry = new THREE.BufferGeometry().setFromPoints(curve.getPoints(Math.max(24, points.length * 8)));
+          const material = dashed
+            ? new THREE.LineDashedMaterial({ color, transparent: true, opacity, dashSize: .28, gapSize: .16 })
+            : new THREE.LineBasicMaterial({ color, transparent: true, opacity });
+          const line = new THREE.Line(geometry, material);
+          if (dashed) line.computeLineDistances();
+          line.userData.isPerson = true;
+          line.userData.name = ordered[0].Navn;
+          line.userData.place = ordered[0].Sted;
+          line.userData.baseOpacity = opacity;
+          root.add(line);
+        }
+
+        addPersonLine(livingPoints, .94, false);
+        if (deathIndex >= 0 && livingPoints.length) {
+          const deathPoint = pointFor(visibleRows[deathIndex], Number(visibleRows[deathIndex].Age));
+          addPersonLine([livingPoints[livingPoints.length - 1], deathPoint], .42, true);
+        }
+        sequence += 1;
+      }
+      status.textContent = `${people.size} people plotted; drag to rotate, scroll to zoom`;
+    }
+
+    search.addEventListener("input", () => {
+      const query = search.value.trim().toLowerCase();
+      let matches = 0;
+      root.children.forEach(child => {
+        if (!child.userData.isPerson) return;
+        const match = !query || child.userData.name.toLowerCase().includes(query);
+        child.material.opacity = match ? child.userData.baseOpacity : .025;
+        if (match) matches += 1;
+      });
+      status.textContent = query ? `${matches} matching people; drag to rotate, scroll to zoom` : "201 people plotted; drag to rotate, scroll to zoom";
+    });
+
+    canvas.addEventListener("pointermove", event => {
+      const bounds = canvas.getBoundingClientRect();
+      pointer.x = ((event.clientX - bounds.left) / bounds.width) * 2 - 1;
+      pointer.y = -((event.clientY - bounds.top) / bounds.height) * 2 + 1;
+      raycaster.setFromCamera(pointer, camera);
+      const personLines = root.children.filter(child => child.userData.isPerson);
+      const hit = raycaster.intersectObjects(personLines, false)[0];
+      if (!hit) {
+        tooltip.style.display = "none";
+        return;
+      }
+      tooltip.innerHTML = `<strong>${hit.object.userData.name}</strong><br>${hit.object.userData.place}`;
+      tooltip.style.left = `${event.clientX + 14}px`;
+      tooltip.style.top = `${event.clientY + 14}px`;
+      tooltip.style.display = "block";
+    });
+    canvas.addEventListener("pointerleave", () => { tooltip.style.display = "none"; });
+
+    fetch("Mennesker-Alder-Tæthedsværdi_long_births_v01.csv")
+      .then(response => response.text())
+      .then(text => {
+        const unique = new Map();
+        for (const row of parseCsv(text)) unique.set(`${row.Navn}|${row.Sted}|${row.Age}`, row);
+        addPeople([...unique.values()]);
+      })
+      .catch(() => { status.textContent = "Could not load the CSV. Start the local server in this folder."; });
+
+    function resize() {
+      const width = window.innerWidth;
+      const height = window.innerHeight;
+      renderer.setSize(width, height, false);
+      camera.aspect = width / height;
+      camera.updateProjectionMatrix();
+    }
+    window.addEventListener("resize", resize);
+    resize();
+
+    function animate() {
+      controls.update();
+      renderer.render(scene, camera);
+      requestAnimationFrame(animate);
+    }
+    animate();
+  </script>
+</body>
+</html>
